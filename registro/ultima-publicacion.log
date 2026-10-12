@@ -1,29 +1,25 @@
-fecha: 2026-10-12T22:41:47Z
-commit: 50ffdd9ae0f82f75b40426d39adc29228eb51243
+fecha: 2026-10-12T22:44:39Z
+commit: 35e9af02d79ddcc1dda602f02251d72a3072e3bf
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38318082934
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38318346087
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-13-caracteristicas-en-la-personalidad-de-un-buen-lider.md content/blog/infografia-4-estilos-de-aprendizaje.md content/blog/infografia-breve-historia-de-la-tecnologia.md content/blog/infografia-como-se-forma-el-petroleo.md content/blog/infografia-conociendo-los-emojis.md content/blog/infografia-consejos-para-conseguir-trabajo.md content/blog/infografia-elon-musk.md content/blog/infografia-entendiendo-el-mercado-de-valores.md content/blog/infografia-industria-4-0.md content/blog/infografia-las-mejores-y-peores-marcas-de-autos.md content/blog/infografia-mapa-de-marketing-digital-para-empresas.md content/blog/infografia-publicidad-en-internet-gasto-global-por-tipo-y-estrategias-mas-valiosas.md content/blog/infografia-starbucks-ingresos-a-nivel-mundial-nacional-y-valor-de-marca.md content/blog/infografia-wal-mart-ingresos-gastos-publicitarios-y-valor-actual-de-marca.md 
+Argumentos: content/blog/infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice.md content/blog/infografia-como-dar-retroalimentacion-negativa-en-una-cultura-de-empresa-positiva.md content/blog/infografia-consumo-de-noticias-por-edades.md content/blog/infografia-el-imperio-de-jeff-bezos.md content/blog/infografia-frases-y-citas-de-don-quijote-de-la-mancha.md content/blog/infografia-infonavit-mas-fuerte-que-nunca.md content/blog/infografia-jack-ma.md content/blog/infografia-linea-de-tiempo-de-las-tecnologias-del-futuro.md content/blog/infografia-materias-primas-que-mas-han-subido-y-bajado.md content/blog/infografia-radiografia-del-consumidor-online-espanol.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-13-caracteristicas-en-la-personalidad-de-un-buen-lider.md: post actualizada (publish) id=2157 https://www.inbound.com.mx/infografia-13-caracteristicas-en-la-personalidad-de-un-buen-lider/
-content/blog/infografia-4-estilos-de-aprendizaje.md: post actualizada (publish) id=1893 https://www.inbound.com.mx/infografia-4-estilos-de-aprendizaje/
-content/blog/infografia-breve-historia-de-la-tecnologia.md: post actualizada (publish) id=1999 https://www.inbound.com.mx/infografia-breve-historia-de-la-tecnologia/
-content/blog/infografia-como-se-forma-el-petroleo.md: post actualizada (publish) id=2107 https://www.inbound.com.mx/infografia-como-se-forma-el-petroleo/
-content/blog/infografia-conociendo-los-emojis.md: post actualizada (publish) id=5949 https://www.inbound.com.mx/infografia-conociendo-los-emojis/
-content/blog/infografia-consejos-para-conseguir-trabajo.md: post actualizada (publish) id=1597 https://www.inbound.com.mx/infografia-consejos-para-conseguir-trabajo/
-content/blog/infografia-elon-musk.md: post actualizada (publish) id=5851 https://www.inbound.com.mx/infografia-elon-musk/
-content/blog/infografia-entendiendo-el-mercado-de-valores.md: post actualizada (publish) id=7293 https://www.inbound.com.mx/infografia-entendiendo-el-mercado-de-valores/
-content/blog/infografia-industria-4-0.md: post actualizada (publish) id=1655 https://www.inbound.com.mx/infografia-industria-4-0/
-content/blog/infografia-las-mejores-y-peores-marcas-de-autos.md: post actualizada (publish) id=5544 https://www.inbound.com.mx/infografia-las-mejores-y-peores-marcas-de-autos/
-content/blog/infografia-mapa-de-marketing-digital-para-empresas.md: post actualizada (publish) id=1272 https://www.inbound.com.mx/infografia-mapa-de-marketing-digital-para-empresas/
-content/blog/infografia-publicidad-en-internet-gasto-global-por-tipo-y-estrategias-mas-valiosas.md: post actualizada (publish) id=6832 https://www.inbound.com.mx/infografia-publicidad-en-internet-gasto-global-por-tipo-y-estrategias-mas-valiosas/
-content/blog/infografia-starbucks-ingresos-a-nivel-mundial-nacional-y-valor-de-marca.md: post actualizada (publish) id=7209 https://www.inbound.com.mx/infografia-starbucks-ingresos-a-nivel-mundial-nacional-y-valor-de-marca/
-content/blog/infografia-wal-mart-ingresos-gastos-publicitarios-y-valor-actual-de-marca.md: post actualizada (publish) id=7347 https://www.inbound.com.mx/infografia-wal-mart-ingresos-gastos-publicitarios-y-valor-actual-de-marca/
+content/blog/infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice.md: post actualizada (publish) id=1915 https://www.inbound.com.mx/infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice/
+content/blog/infografia-como-dar-retroalimentacion-negativa-en-una-cultura-de-empresa-positiva.md: post actualizada (publish) id=2231 https://www.inbound.com.mx/infografia-como-dar-retroalimentacion-negativa-en-una-cultura-de-empresa-positiva/
+content/blog/infografia-consumo-de-noticias-por-edades.md: post actualizada (publish) id=1809 https://www.inbound.com.mx/infografia-consumo-de-noticias-por-edades/
+content/blog/infografia-el-imperio-de-jeff-bezos.md: post actualizada (publish) id=1853 https://www.inbound.com.mx/infografia-el-imperio-de-jeff-bezos/
+content/blog/infografia-frases-y-citas-de-don-quijote-de-la-mancha.md: post actualizada (publish) id=1458 https://www.inbound.com.mx/infografia-frases-y-citas-de-don-quijote-de-la-mancha/
+content/blog/infografia-infonavit-mas-fuerte-que-nunca.md: post actualizada (publish) id=4077 https://www.inbound.com.mx/infografia-infonavit-mas-fuerte-que-nunca/
+content/blog/infografia-jack-ma.md: post actualizada (publish) id=5804 https://www.inbound.com.mx/infografia-jack-ma/
+content/blog/infografia-linea-de-tiempo-de-las-tecnologias-del-futuro.md: post actualizada (publish) id=1503 https://www.inbound.com.mx/infografia-linea-de-tiempo-de-las-tecnologias-del-futuro/
+content/blog/infografia-materias-primas-que-mas-han-subido-y-bajado.md: post actualizada (publish) id=1765 https://www.inbound.com.mx/infografia-materias-primas-que-mas-han-subido-y-bajado/
+content/blog/infografia-radiografia-del-consumidor-online-espanol.md: post actualizada (publish) id=1795 https://www.inbound.com.mx/infografia-radiografia-del-consumidor-online-espanol/
