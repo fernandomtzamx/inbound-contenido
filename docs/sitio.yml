@@ -4,7 +4,12 @@
 #
 # Todo está vacío a propósito: se llena cuando se definan autor y categorías del blog de Inbound.
 
-autor: {}
+autor:
+  first_name: "Fernando Arturo"
+  last_name: "Martinez Aguilar"
+  name: "Fernando Arturo Martinez Aguilar"
+  nickname: "Fernando Arturo Martinez Aguilar"
+  description: "Fernando Arturo Martinez Aguilar escribe en INBOUND sobre inbound marketing, ventas, negocios, emprendimiento y liderazgo."
 # autor:
 #   first_name: "Nombre"
 #   last_name: "Apellido"

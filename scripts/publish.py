@@ -245,6 +245,9 @@ def publish(wp, path):
         if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
             payload["status"] = "future"
     if kind == "post":
+        # Regla del sitio: todas las entradas las firma el usuario conectado (soporte).
+        if getattr(wp, "me_id", None):
+            payload["author"] = wp.me_id
         if meta.get("categories"):
             payload["categories"] = [wp.term_id("categories", c) for c in meta["categories"]]
         if meta.get("tags"):
@@ -278,6 +281,7 @@ def main():
 
     wp = WP(env("WP_URL"), env("WP_USER"), env("WP_APP_PASSWORD"))
     me = wp.whoami()
+    wp.me_id = me.get("id")
     print(f"Conectado como {me.get('username', me.get('name'))} (roles: {', '.join(me.get('roles', []))})")
     if args.check:
         return
