@@ -12,6 +12,7 @@ excerpt: "Agencia de inbound marketing en M√©xico: SEO, contenido, automatizaci√
 <style>
 .ib-home{--ink:#0f1222;--panel:#181c32;--paper:#f6f4ef;--line:#e4e1d8;--text:#1d2033;--muted:#5b6070;--accent:#fb8500;--soft:#969bb4;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--text);line-height:1.65;font-size:17px}
 .ib-home *{box-sizing:border-box}
+.ib-home h1,.ib-home h2,.ib-home h3,.ib-home p,.ib-home li,.ib-home a,.ib-home summary,.ib-home span{font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif !important}
 .ib-home a{color:inherit}
 .ib-wrap{max-width:1160px;margin:0 auto;padding:0 20px}
 .ib-sec{padding:72px 0}
