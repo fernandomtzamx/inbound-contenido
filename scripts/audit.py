@@ -44,6 +44,8 @@ def analyze(post):
         "enlaces_internos": len(internal),
         "enlaces_externos": len(links) - len(internal),
         "featured_media": post.get("featured_media"),
+        "author": post.get("author"),
+        "faq_schema": "FAQPage" in rendered,
         "categories": post.get("categories"),
         "tags": post.get("tags"),
         "excerpt": htmllib.unescape(re.sub(r"<[^>]+>", "", (post.get("excerpt") or {}).get("rendered", ""))).strip()[:300],
