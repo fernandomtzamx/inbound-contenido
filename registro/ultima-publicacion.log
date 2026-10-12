@@ -1,8 +1,8 @@
-fecha: 2026-10-12T21:35:10Z
-commit: d5207343762f95274f22cab549aca3962bce1fba
+fecha: 2026-10-12T21:39:08Z
+commit: 5663ac6d3f17268d62937dbf8aa63929ce40265e
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38311447958
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38311913652
 ---
 WP_URL: presente
 WP_USER: presente
@@ -13,5 +13,5 @@ Argumentos: content/paginas/propuesta-home.md
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-  + imagen subida: metodologia-inbound-marketing-mexico-fb8500.png (id 9938)
-content/paginas/propuesta-home.md: page actualizada (draft) id=9934 https://www.inbound.com.mx/?page_id=9934
+  = imagen reutilizada: metodologia-inbound-marketing-mexico-fb8500 (id 9938)
+content/paginas/propuesta-home.md: page actualizada (publish) id=9934 https://www.inbound.com.mx/agencia-de-inbound-marketing-en-mexico/
