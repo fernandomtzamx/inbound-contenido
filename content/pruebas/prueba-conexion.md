@@ -9,3 +9,5 @@ excerpt: "Entrada de prueba para validar la publicación por API REST. Se puede 
 Si ves esta entrada como **borrador** en WP Admin, el pipeline de publicación de inbound.com.mx funciona.
 
 Puedes borrarla sin problema.
+
+Última prueba: 2026-10-12.
