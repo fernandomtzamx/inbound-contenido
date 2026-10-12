@@ -1,25 +1,32 @@
-fecha: 2026-10-12T22:44:39Z
-commit: 35e9af02d79ddcc1dda602f02251d72a3072e3bf
+fecha: 2026-10-12T22:59:10Z
+commit: 79806553b98a350abea177f50f13b8c8b5031206
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38318346087
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38319663855
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice.md content/blog/infografia-como-dar-retroalimentacion-negativa-en-una-cultura-de-empresa-positiva.md content/blog/infografia-consumo-de-noticias-por-edades.md content/blog/infografia-el-imperio-de-jeff-bezos.md content/blog/infografia-frases-y-citas-de-don-quijote-de-la-mancha.md content/blog/infografia-infonavit-mas-fuerte-que-nunca.md content/blog/infografia-jack-ma.md content/blog/infografia-linea-de-tiempo-de-las-tecnologias-del-futuro.md content/blog/infografia-materias-primas-que-mas-han-subido-y-bajado.md content/blog/infografia-radiografia-del-consumidor-online-espanol.md 
+Argumentos: content/blog/campana-en-buscadores.md content/blog/ejemplos-de-inbound-marketing-en-mexico.md content/blog/evalua-tu-agencia-de-marketing-digital.md content/blog/formatos-contenido.md content/blog/inbound-marketing-para-medicos.md content/blog/inbound-marketing-para-pymes.md content/blog/inbound-marketing-turistico.md content/blog/inbound-marketing.md content/blog/infografia-como-controlar-tus-emociones.md content/blog/libros-sobre-comunicacion-efectiva-para-emprendedores.md content/blog/libros-sobre-landing-pages-para-emprendedores.md content/blog/libros-sobre-marketing-de-contenidos-para-emprendedores.md content/blog/libros-sobre-marketing-digital-para-emprendedores.md content/blog/libros-sobre-marketing-en-whatsapp-para-emprendedores.md content/blog/libros-sobre-publicidad-creativa-para-emprendedores.md content/blog/martech-autofintech-experiencia-de-venta-de-autos.md content/blog/que-es-el-marketing-en-nuevos-medios-new-media-marketing.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice.md: post actualizada (publish) id=1915 https://www.inbound.com.mx/infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice/
-content/blog/infografia-como-dar-retroalimentacion-negativa-en-una-cultura-de-empresa-positiva.md: post actualizada (publish) id=2231 https://www.inbound.com.mx/infografia-como-dar-retroalimentacion-negativa-en-una-cultura-de-empresa-positiva/
-content/blog/infografia-consumo-de-noticias-por-edades.md: post actualizada (publish) id=1809 https://www.inbound.com.mx/infografia-consumo-de-noticias-por-edades/
-content/blog/infografia-el-imperio-de-jeff-bezos.md: post actualizada (publish) id=1853 https://www.inbound.com.mx/infografia-el-imperio-de-jeff-bezos/
-content/blog/infografia-frases-y-citas-de-don-quijote-de-la-mancha.md: post actualizada (publish) id=1458 https://www.inbound.com.mx/infografia-frases-y-citas-de-don-quijote-de-la-mancha/
-content/blog/infografia-infonavit-mas-fuerte-que-nunca.md: post actualizada (publish) id=4077 https://www.inbound.com.mx/infografia-infonavit-mas-fuerte-que-nunca/
-content/blog/infografia-jack-ma.md: post actualizada (publish) id=5804 https://www.inbound.com.mx/infografia-jack-ma/
-content/blog/infografia-linea-de-tiempo-de-las-tecnologias-del-futuro.md: post actualizada (publish) id=1503 https://www.inbound.com.mx/infografia-linea-de-tiempo-de-las-tecnologias-del-futuro/
-content/blog/infografia-materias-primas-que-mas-han-subido-y-bajado.md: post actualizada (publish) id=1765 https://www.inbound.com.mx/infografia-materias-primas-que-mas-han-subido-y-bajado/
-content/blog/infografia-radiografia-del-consumidor-online-espanol.md: post actualizada (publish) id=1795 https://www.inbound.com.mx/infografia-radiografia-del-consumidor-online-espanol/
+content/blog/campana-en-buscadores.md: post actualizada (publish) id=2789 https://www.inbound.com.mx/campana-en-buscadores/
+content/blog/ejemplos-de-inbound-marketing-en-mexico.md: post actualizada (publish) id=724 https://www.inbound.com.mx/ejemplos-de-inbound-marketing-en-mexico/
+content/blog/evalua-tu-agencia-de-marketing-digital.md: post actualizada (publish) id=3901 https://www.inbound.com.mx/evalua-tu-agencia-de-marketing-digital/
+content/blog/formatos-contenido.md: post actualizada (publish) id=3940 https://www.inbound.com.mx/formatos-contenido/
+content/blog/inbound-marketing-para-medicos.md: post actualizada (publish) id=2768 https://www.inbound.com.mx/inbound-marketing-para-medicos/
+content/blog/inbound-marketing-para-pymes.md: post actualizada (publish) id=6337 https://www.inbound.com.mx/inbound-marketing-para-pymes/
+content/blog/inbound-marketing-turistico.md: post actualizada (publish) id=3959 https://www.inbound.com.mx/inbound-marketing-turistico/
+content/blog/inbound-marketing.md: post actualizada (publish) id=77 https://www.inbound.com.mx/inbound-marketing/
+content/blog/infografia-como-controlar-tus-emociones.md: post actualizada (publish) id=6610 https://www.inbound.com.mx/infografia-como-controlar-tus-emociones/
+content/blog/libros-sobre-comunicacion-efectiva-para-emprendedores.md: post actualizada (publish) id=423 https://www.inbound.com.mx/libros-sobre-comunicacion-efectiva-para-emprendedores/
+content/blog/libros-sobre-landing-pages-para-emprendedores.md: post actualizada (publish) id=401 https://www.inbound.com.mx/libros-sobre-landing-pages-para-emprendedores/
+content/blog/libros-sobre-marketing-de-contenidos-para-emprendedores.md: post actualizada (publish) id=353 https://www.inbound.com.mx/libros-sobre-marketing-de-contenidos-para-emprendedores/
+content/blog/libros-sobre-marketing-digital-para-emprendedores.md: post actualizada (publish) id=359 https://www.inbound.com.mx/libros-sobre-marketing-digital-para-emprendedores/
+content/blog/libros-sobre-marketing-en-whatsapp-para-emprendedores.md: post actualizada (publish) id=384 https://www.inbound.com.mx/libros-sobre-marketing-en-whatsapp-para-emprendedores/
+content/blog/libros-sobre-publicidad-creativa-para-emprendedores.md: post actualizada (publish) id=413 https://www.inbound.com.mx/libros-sobre-publicidad-creativa-para-emprendedores/
+content/blog/martech-autofintech-experiencia-de-venta-de-autos.md: post actualizada (publish) id=9885 https://www.inbound.com.mx/martech-autofintech-experiencia-de-venta-de-autos/
+content/blog/que-es-el-marketing-en-nuevos-medios-new-media-marketing.md: post actualizada (publish) id=82 https://www.inbound.com.mx/que-es-el-marketing-en-nuevos-medios-new-media-marketing/
