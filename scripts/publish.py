@@ -208,8 +208,22 @@ def parse(path):
     return meta, nofollow_external(html)
 
 
+_LOCAL_IMG = re.compile(r'<img\b[^>]*\bsrc="(images/[^"]+)"[^>]*>', re.I)
+
+
+def upload_inline_images(wp, html):
+    """Sube a Medios las imágenes del repo citadas como src="images/..." y usa su URL pública."""
+    for tag, rel in {(m.group(0), m.group(1)) for m in _LOCAL_IMG.finditer(html)}:
+        alt = re.search(r'\balt="([^"]*)"', tag)
+        mid = wp.media_id(ROOT / rel, alt.group(1) if alt else pathlib.Path(rel).stem)
+        url = wp.req("GET", f"media/{mid}")["source_url"]
+        html = html.replace(tag, tag.replace(f'src="{rel}"', f'src="{url}"'))
+    return html
+
+
 def publish(wp, path):
     meta, html = parse(path)
+    html = upload_inline_images(wp, html)
     kind = meta.get("type", "post")
     endpoint = "pages" if kind == "page" else "posts"
     payload = {

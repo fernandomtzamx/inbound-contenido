@@ -7,13 +7,6 @@ layout: raw
 excerpt: "Agencia de inbound marketing en México: SEO, contenido, automatización, CRM e inbound sales para convertir tu sitio en tu mejor vendedor. Diagnóstico gratis."
 ---
 
-<!--
-PROPUESTA DE HOME (borrador). No reemplaza la portada actual hasta aprobarla.
-SEO title: Agencia de Inbound Marketing en México | INBOUND
-Meta description: Agencia de inbound marketing en México: SEO, contenido, automatización, CRM e inbound sales para generar prospectos y ventas. Agenda tu diagnóstico gratis.
-Keyword principal: agencia de inbound marketing en México
--->
-
 <!-- wp:html -->
 <style>
 .ib-home{--ink:#0f1222;--panel:#181c32;--paper:#f6f4ef;--line:#e4e1d8;--text:#1d2033;--muted:#5b6070;--accent:#ff5a3c;--soft:#969bb4;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--text);line-height:1.65;font-size:17px}
@@ -33,13 +26,14 @@ Keyword principal: agencia de inbound marketing en México
 .ib-btn.dark{background:var(--ink);color:#fff}
 .ib-hero{background:radial-gradient(1200px 500px at 85% -10%,#2a2f55 0,transparent 60%),var(--ink);color:#f5f3ee;padding:88px 0 72px}
 .ib-hero-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}
+.ib-hero-grid>*{min-width:0}
 .ib-hero h1{font-size:clamp(32px,4.6vw,54px);line-height:1.08;margin:0 0 20px;color:#fff;letter-spacing:-.01em}
 .ib-hero h1 span{color:var(--accent)}
 .ib-hero p.sub{font-size:19px;color:#c9cbe0;margin:0 0 30px;max-width:620px}
 .ib-hero .ctas{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:30px}
 .ib-trust{display:flex;flex-wrap:wrap;gap:10px 26px;font-size:14px;color:var(--soft);margin:0;padding:0;list-style:none}
 .ib-trust li strong{color:#fff}
-.ib-hero svg{width:100%;height:auto;display:block}
+.ib-hero-img img{width:100%;max-width:520px;height:auto;display:block;margin:0 auto;border-radius:26px;box-shadow:0 30px 80px rgba(0,0,0,.35)}
 .ib-grid{display:grid;gap:22px}
 .ib-grid.c3{grid-template-columns:repeat(3,1fr)}
 .ib-grid.c2{grid-template-columns:repeat(2,1fr)}
@@ -65,11 +59,6 @@ Keyword principal: agencia de inbound marketing en México
 .ib-check strong{color:var(--ink)}
 .ib-tags{display:flex;flex-wrap:wrap;gap:10px;margin:0;padding:0;list-style:none}
 .ib-tags li{background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 16px;font-size:15px}
-.ib-proof{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-bottom:28px}
-.ib-proof .ph{background:#fff;border:2px dashed #f0b3a6;border-radius:14px;padding:24px;color:var(--muted);font-size:15px}
-.ib-proof .ph b{display:block;font-size:30px;color:var(--ink)}
-.ib-quote{background:#fff;border-radius:16px;border:1px solid var(--line);padding:30px 34px;font-size:19px;color:var(--ink);margin:0}
-.ib-quote footer{font-size:15px;color:var(--muted);margin-top:12px}
 .ib-faq details{border-bottom:1px solid var(--line);padding:20px 0}
 .ib-faq summary{cursor:pointer;font-weight:700;font-size:18px;color:var(--ink);list-style:none;display:flex;justify-content:space-between;gap:20px}
 .ib-faq summary::-webkit-details-marker{display:none}
@@ -79,7 +68,7 @@ Keyword principal: agencia de inbound marketing en México
 .ib-final{background:var(--accent);color:#fff;border-radius:20px;padding:48px;display:flex;justify-content:space-between;align-items:center;gap:30px;flex-wrap:wrap}
 .ib-final h2{color:#fff;margin:0 0 8px}
 .ib-final p{margin:0;color:#fff3ef;font-size:18px}
-@media (max-width:960px){.ib-hero-grid,.ib-grid.c3,.ib-grid.c2,.ib-pain,.ib-proof,.ib-check{grid-template-columns:1fr}.ib-steps{grid-template-columns:1fr 1fr}.ib-hero{padding:60px 0 48px}.ib-sec{padding:52px 0}.ib-final{padding:32px}}
+@media (max-width:960px){.ib-hero-grid,.ib-grid.c3,.ib-grid.c2,.ib-pain,.ib-check{grid-template-columns:1fr}.ib-steps{grid-template-columns:1fr 1fr}.ib-hero{padding:60px 0 48px}.ib-sec{padding:52px 0}.ib-final{padding:32px}}
 @media (max-width:560px){.ib-steps{grid-template-columns:1fr}.ib-home{font-size:16px}}
 </style>
 <div class="ib-home">
@@ -100,19 +89,7 @@ Keyword principal: agencia de inbound marketing en México
 <li><strong>1a sesión</strong> de asesoría sin costo</li>
 </ul>
 </div>
-<div aria-hidden="true">
-<svg viewBox="0 0 420 380" xmlns="http://www.w3.org/2000/svg" role="img">
-<defs><linearGradient id="ibg" x1="0" x2="1"><stop offset="0" stop-color="#ff5a3c"/><stop offset="1" stop-color="#ff8a6e"/></linearGradient></defs>
-<rect x="10" y="10" width="400" height="360" rx="22" fill="#181c32" stroke="#2c3157"/>
-<text x="36" y="52" fill="#969bb4" font-family="Inter,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">METODOLOGÍA INBOUND</text>
-<g font-family="Inter,sans-serif" text-anchor="middle">
-<rect x="36" y="74" width="348" height="54" rx="12" fill="url(#ibg)" fill-opacity="1"/><text x="210" y="98" fill="#fff" font-weight="700" font-size="17">Atraer</text><text x="210" y="117" fill="#fff" font-size="13">SEO y contenido</text>
-<rect x="62" y="142" width="296" height="54" rx="12" fill="#ff5a3c" fill-opacity=".75"/><text x="210" y="166" fill="#fff" font-weight="700" font-size="17">Convertir</text><text x="210" y="185" fill="#fff" font-size="13">Ofertas y formularios</text>
-<rect x="88" y="210" width="244" height="54" rx="12" fill="#ff5a3c" fill-opacity=".5"/><text x="210" y="234" fill="#fff" font-weight="700" font-size="17">Cerrar</text><text x="210" y="253" fill="#fff" font-size="13">CRM e inbound sales</text>
-<rect x="114" y="278" width="192" height="54" rx="12" fill="#ff5a3c" fill-opacity=".3"/><text x="210" y="302" fill="#fff" font-weight="700" font-size="17">Deleitar</text><text x="210" y="321" fill="#fff" font-size="13">Clientes fieles</text>
-</g>
-</svg>
-</div>
+<div class="ib-hero-img"><img src="images/metodologia-inbound-marketing-mexico.png" alt="Metodología de inbound marketing: atraer, convertir, cerrar y deleitar" width="520" height="496" loading="eager" fetchpriority="high"></div>
 </div>
 </section>
 
@@ -198,22 +175,7 @@ Keyword principal: agencia de inbound marketing en México
 </div>
 </section>
 
-<section class="ib-sec alt" id="resultados">
-<div class="ib-wrap">
-<p class="ib-kicker">Resultados</p>
-<h2>Resultados de nuestros clientes</h2>
-<!-- BORRADOR: sustituir estos tres bloques por casos reales con cliente, plazo y métrica. No publicar con los marcadores. -->
-<div class="ib-proof">
-<div class="ph"><b>[+X%]</b>[Caso 1: cliente, industria y prospectos generados en X meses]</div>
-<div class="ph"><b>[X]</b>[Caso 2: oportunidades de venta o costo por prospecto antes y después]</div>
-<div class="ph"><b>[X meses]</b>[Caso 3: tiempo para posicionar en Google o ventas atribuidas al canal]</div>
-</div>
-<!-- BORRADOR: copiar aquí el testimonio textual de Julio H. (Inlab) que aparece en la home actual. -->
-<blockquote class="ib-quote">[Testimonio textual de Julio H., tal como aparece hoy en la home]<footer>Julio H., Inlab</footer></blockquote>
-</div>
-</section>
-
-<section class="ib-sec" id="recursos">
+<section class="ib-sec alt" id="recursos">
 <div class="ib-wrap">
 <p class="ib-kicker">Aprende con nosotros</p>
 <h2>Más de 900 recursos de inbound marketing</h2>
@@ -226,7 +188,7 @@ Keyword principal: agencia de inbound marketing en México
 </div>
 </section>
 
-<section class="ib-sec alt ib-faq" id="preguntas-frecuentes">
+<section class="ib-sec ib-faq" id="preguntas-frecuentes">
 <div class="ib-wrap">
 <p class="ib-kicker">Preguntas frecuentes</p>
 <h2>Preguntas frecuentes sobre nuestra agencia de inbound marketing</h2>
@@ -242,7 +204,7 @@ Keyword principal: agencia de inbound marketing en México
 </div>
 </section>
 
-<section class="ib-sec" id="contacto">
+<section class="ib-sec" id="contacto" style="padding-top:0">
 <div class="ib-wrap">
 <div class="ib-final">
 <div><h2>Hablemos de tus metas de venta</h2><p>Agenda una sesión de diagnóstico gratuita con un asesor de inbound marketing. Tenemos 20 lugares al mes.</p></div>
