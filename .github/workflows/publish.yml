@@ -48,6 +48,11 @@ jobs:
           for v in WP_URL WP_USER WP_APP_PASSWORD; do
             if [ -n "${!v}" ]; then echo "$v: presente"; else echo "$v: FALTA"; fi
           done | tee -a publish.log
+          # Usuario visible (no es secreto) y forma de la contraseña sin revelarla.
+          U="$(printf '%s' "$WP_USER" | tr -d '[:space:]')"
+          P="$(printf '%s' "$WP_APP_PASSWORD" | tr -d '[:space:]')"
+          echo "WP_USER recibido: ${U:0:1}…${U: -1} (${#U} caracteres)" | tee -a publish.log
+          echo "WP_APP_PASSWORD sin espacios: ${#P} caracteres (debe ser 24); solo letras y números: $( [[ "$P" =~ ^[A-Za-z0-9]+$ ]] && echo sí || echo no)" | tee -a publish.log
 
       - name: Publicar
         id: publicar
