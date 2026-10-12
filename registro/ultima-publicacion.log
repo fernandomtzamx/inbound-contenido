@@ -1,8 +1,8 @@
-fecha: 2026-10-12T23:15:04Z
-commit: 5cf2185a72686e9426dbc699076ab025d8c29bc4
+fecha: 2026-10-12T23:31:11Z
+commit: 76b6dd3006a59be06db7d88107429fb7b7578aa9
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38321034110
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38322524634
 ---
 WP_URL: presente
 WP_USER: presente
@@ -11,108 +11,25 @@ WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
-ok: infografia-como-controlar-tus-emociones (1183 palabras)
-ok: infografia-dia-del-trabajo-por-que-se-celebra-el-1-de-mayo (631 palabras)
-ok: frases-de-inbound-marketing-neil-patel-tu-exito-esta-solo-parcialmente-dictado-por-cuanto-trafico-tienes-la-otra-parte-de-la-ecuacion-es-la-calidad-de-dicho-trafico (621 palabras)
-ok: frases-de-inbound-marketing-jef-richards-la-creatividad-sin-estrategia-se-llama-arte-la-creatividad-con-estrategia-se-llama-publicidad (590 palabras)
-ok: frases-de-inbound-marketing-ann-handley-se-suficientemente-especifico-para-ser-creible-y-suficientemente-universal-para-ser-relevante (555 palabras)
-ok: frases-de-inbound-marketing-ann-handley-convierte-al-cliente-en-el-heroe-de-tu-historia (542 palabras)
-ok: frases-de-inbound-marketing-mike-dilorenzo-las-redes-sociales-ya-no-son-sobre-sitios-webs-tratan-de-experiencias (543 palabras)
-ok: frases-de-inbound-marketing-avinash-kaushik-solo-podremos-tomar-decisiones-acertadas-si-sabemos-como-analizar-e-interpretar-los-datos (547 palabras)
-ok: frases-de-inbound-marketing-joe-pulizzi-deja-de-escribir-de-todo-encuentra-tu-nicho-y-luego-busca-un-nicho-mas-pequeno-todavia (538 palabras)
-ok: frases-de-inbound-marketing-jay-baer-el-social-media-es-un-ingrediente-no-un-platillo (504 palabras)
-ok: frases-de-inbound-marketing-philip-kotler-no-vigile-el-ciclo-de-vida-del-producto-vigile-el-ciclo-de-vida-del-mercado (562 palabras)
-ok: infografia-buenas-practicas-para-la-seguridad-de-la-informacion-en-la-gestion-de-redes-sociales (457 palabras)
-ok: frases-de-inbound-marketing-seth-godin-no-encuentres-clientes-para-tus-productos-encuentra-productos-para-tus-clientes (497 palabras)
-ok: frases-de-inbound-marketing-erik-qualman-no-tenemos-mas-opcion-que-hacer-social-media-la-cuestion-es-como-podemos-hacerlo-bien (485 palabras)
-ok: frases-de-inbound-marketing-matt-goulart-social-media-es-acerca-de-personas-no-acerca-de-tu-negocio-cuida-de-la-gente-y-la-gente-cuidara-de-ti (518 palabras)
-ok: infografia-que-ocurre-en-internet-en-60-segundos (435 palabras)
-ok: frases-de-inbound-marketing-katherine-barchetti-haz-un-cliente-no-una-venta (503 palabras)
-ok: frases-de-inbound-marketing-trey-pennington-las-empresas-que-entienden-el-social-media-son-las-que-dicen-con-su-mensaje-te-veo-te-escucho-y-me-importas (530 palabras)
-ok: infografia-5-practicas-para-implementar-una-cultura-digital (505 palabras)
-ok: frases-de-inbound-marketing-al-ries-y-jack-trout-el-marketing-no-es-una-batalla-de-productos-es-una-batalla-de-percepciones (520 palabras)
-ok: frases-de-inbound-marketing-al-ries-la-estrategia-el-sentido-de-la-oportunidad-y-el-momento-exacto-son-las-altas-cumbres-del-marketing-lo-demas-son-apenas-colinas (533 palabras)
-ok: infografia-10-mujeres-stem-de-la-historia (483 palabras)
-ok: libros-sobre-landing-pages-para-emprendedores (766 palabras)
-ok: frases-de-inbound-marketing-alfonso-alcantara-marca-es-el-perfume-que-usas-reputacion-es-el-olor-que-dejas (452 palabras)
-ok: frases-de-inbound-marketing-stan-rapp-concretar-una-venta-es-importante-pero-lograr-la-fidelidad-de-los-clientes-es-vital (421 palabras)
-ok: infografia-cuanto-tardaron-estos-productosservicios-en-llegar-a-50-millones-de-usuarios (450 palabras)
-ok: infografia-diferencia-entre-crecimiento-y-desarrollo-economico (473 palabras)
-ok: libros-sobre-marketing-en-whatsapp-para-emprendedores (758 palabras)
-ok: frases-de-inbound-marketing-david-meerman-scott-en-lugar-de-ser-una-interrupcion-unidireccional-el-marketing-online-suministra-al-comprador-contenido-util-en-el-momento-preciso-en-que-este-lo-nec (453 palabras)
-ok: frases-de-inbound-marketing-tom-fishburne-el-mejor-marketing-no-parece-marketing (401 palabras)
-ok: frases-de-inbound-marketing-orvel-ray-wilson-los-clientes-compran-por-sus-razones-no-por-las-tuyas (416 palabras)
-ok: infografia-importancia-de-la-ciberseguridad-en-mexico (442 palabras)
-ok: frases-de-inbound-marketing-william-bernbach-la-publicidad-es-basicamente-persuasion-y-la-persuasion-no-es-una-ciencia-sino-un-arte (439 palabras)
-ok: infografia-funciones-de-un-director-comercial (465 palabras)
-ok: frases-de-inbound-marketing-milton-hershey-dales-calidad-es-el-mejor-tipo-de-publicidad-que-existe (379 palabras)
-ok: frases-de-inbound-marketing-ana-garcia-oliveros-el-marketing-es-el-arte-de-la-persuasion-es-tambien-la-ciencia-que-combina-la-gestion-emocional-de-las-necesidades-sociales-y-la-creacion-de-valor (401 palabras)
-ok: frases-de-inbound-marketing-alex-pallete-lo-que-construye-la-marca-no-es-el-mensaje-es-la-experiencia-que-se-vive-con-ella (404 palabras)
-ok: frases-de-inbound-marketing-joe-pulizzi-y-newt-barrett-el-marketing-boca-a-boca-ha-sido-siempre-importante-hoy-es-mas-importante-que-nunca-debido-al-poder-de-internet (417 palabras)
-ok: infografia-el-mercado-de-automoviles-en-el-mundo (452 palabras)
-ok: frases-de-inbound-marketing-rosser-reeves-quieres-textos-escritos-con-elegancia-quieres-obras-maestras-o-quieres-ver-como-las-malditas-ventas-empiezan-a-subir (420 palabras)
-ok: frases-de-inbound-marketing-guy-kawasaki-cuando-hechizas-a-la-gente-tu-meta-no-es-hacer-dinero-con-ellos-y-conseguir-lo-que-ellos-quieren-sino-darles-satisfaccion (406 palabras)
-ok: frases-de-inbound-marketing-risto-mejide-si-cuando-hablas-nadie-se-molesta-eso-es-que-no-has-dicho-absolutamente-nada (421 palabras)
-ok: infografia-wearables-tendencias (375 palabras)
-ok: frases-de-inbound-marketing-seth-godin-si-no-tienes-tiempo-para-hacer-las-cosas-bien-que-te-hace-pensar-que-tendras-tiempo-para-hacerlo-de-nuevo (420 palabras)
-ok: infografia-habitos-de-lectura-en-mexico (405 palabras)
-ok: frases-de-inbound-marketing-vilma-nunez-mezclar-la-parte-personal-con-la-parte-profesional-tambien-genera-beneficios-desde-que-uso-instagram-en-este-sentido-he-notado-el-cambio (380 palabras)
-ok: evalua-tu-agencia-de-marketing-digital (841 palabras)
-ok: infografia-niveles-socioeconomicos-en-mexico (406 palabras)
-ok: infografia-17-senales-de-que-tu-companero-de-trabajo-te-odia (412 palabras)
-ok: infografia-videojuegos-en-mexico (352 palabras)
-ok: frases-de-inbound-marketing-jay-baer-el-contenido-es-fuego-y-el-social-media-gasolina (422 palabras)
-ok: frases-de-inbound-marketing-manuel-antonio-fernandez-nunca-fue-tan-facil-crear-una-marca-nunca-fue-tan-facil-que-una-marca-resultase-irrelevante (360 palabras)
-ok: frases-de-inbound-marketing-david-ogilvy-la-publicidad-solo-es-mala-cuando-anuncia-cosas-malas (392 palabras)
-ok: ejemplos-de-inbound-marketing-en-mexico (914 palabras)
-ok: infografia-elon-musk (444 palabras)
-ok: infografia-13-caracteristicas-en-la-personalidad-de-un-buen-lider (443 palabras)
-ok: libros-sobre-comunicacion-efectiva-para-emprendedores (718 palabras)
-ok: infografia-4-estilos-de-aprendizaje (377 palabras)
-ok: infografia-conociendo-los-emojis (398 palabras)
-ok: infografia-breve-historia-de-la-tecnologia (430 palabras)
-ok: frases-de-inbound-marketing-mirna-bard-el-branding-no-tiene-que-ver-con-el-slogan-o-logotipo-tiene-que-ver-con-la-personalidad-de-tu-marca (380 palabras)
-ok: infografia-industria-4-0 (425 palabras)
-ok: frases-de-inbound-marketing-jonas-peretti-el-contenido-es-el-rey-pero-la-distribucion-es-la-reina-y-ella-lleva-los-pantalones (432 palabras)
-ok: frases-de-inbound-marketing-richard-branson-por-encima-de-todo-tienes-que-crear-algo-de-lo-que-estes-orgulloso (408 palabras)
-ok: infografia-como-se-forma-el-petroleo (378 palabras)
-ok: infografia-wal-mart-ingresos-gastos-publicitarios-y-valor-actual-de-marca (394 palabras)
-ok: infografia-starbucks-ingresos-a-nivel-mundial-nacional-y-valor-de-marca (359 palabras)
-ok: frases-de-inbound-marketing-danielle-sacks-internet-ha-convertido-lo-que-solia-ser-un-mensaje-controlado-y-unidireccional-en-un-dialogo-en-tiempo-real-con-millones-de-personas (370 palabras)
-ok: infografia-mapa-de-marketing-digital-para-empresas (462 palabras)
-ok: frases-de-inbound-marketing-mcdonalds-nuestro-jefe-de-social-media-es-el-cliente (367 palabras)
-ok: infografia-las-mejores-y-peores-marcas-de-autos (408 palabras)
-ok: infografia-entendiendo-el-mercado-de-valores (457 palabras)
-ok: infografia-consejos-para-conseguir-trabajo (418 palabras)
-ok: libros-sobre-marketing-de-contenidos-para-emprendedores (692 palabras)
-ok: frases-de-inbound-marketing-thomas-jefferson-el-hombre-que-deja-de-hacer-publicidad-para-ahorrar-dinero-es-como-el-hombre-que-para-el-reloj-para-ahorrar-tiempo (414 palabras)
-ok: infografia-publicidad-en-internet-gasto-global-por-tipo-y-estrategias-mas-valiosas (402 palabras)
-ok: frases-de-inbound-marketing-bill-gates-tus-clientes-mas-infelices-son-tu-mayor-fuente-de-aprendizaje (384 palabras)
-ok: infografia-el-imperio-de-jeff-bezos (393 palabras)
-ok: frases-de-inbound-marketing-tony-hsieh-tu-cultura-es-tu-marca (393 palabras)
-ok: infografia-frases-y-citas-de-don-quijote-de-la-mancha (445 palabras)
-ok: infografia-radiografia-del-consumidor-online-espanol (383 palabras)
-ok: infografia-jack-ma (452 palabras)
-ok: libros-sobre-publicidad-creativa-para-emprendedores (679 palabras)
-ok: martech-autofintech-experiencia-de-venta-de-autos (615 palabras)
-ok: infografia-como-dar-retroalimentacion-negativa-en-una-cultura-de-empresa-positiva (395 palabras)
-ok: infografia-linea-de-tiempo-de-las-tecnologias-del-futuro (403 palabras)
-ok: frases-de-inbound-marketing-heidi-minx-aprende-las-reglas-despues-aprende-como-cambiarlas-y-haz-que-los-demas-las-sigan (351 palabras)
-ok: infografia-consumo-de-noticias-por-edades (382 palabras)
-ok: inbound-marketing (1221 palabras)
-ok: inbound-marketing-turistico (673 palabras)
-ok: formatos-contenido (623 palabras)
-ok: infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice (417 palabras)
-ok: que-es-el-marketing-en-nuevos-medios-new-media-marketing (590 palabras)
-ok: infografia-infonavit-mas-fuerte-que-nunca (425 palabras)
-ok: inbound-marketing-para-pymes (876 palabras)
-ok: infografia-materias-primas-que-mas-han-subido-y-bajado (373 palabras)
-ok: campana-en-buscadores (790 palabras)
-ok: inbound-marketing-para-medicos (718 palabras)
-ok: frases-de-inbound-marketing-soichiro-honda-trabajemos-para-ser-una-compania-que-la-sociedad-quiera-que-exista (386 palabras)
-ok: libros-sobre-marketing-digital-para-emprendedores (750 palabras)
-ok: agencia-de-inbound-marketing-en-mexico (1347 palabras)
-Auditoría guardada en registro/auditoria.json: 101 URLs
+widgets: HTTP 200, 14 elementos
+blocks: HTTP 200, 0 elementos
+templates: HTTP 200, 0 elementos
+template-parts: HTTP 200, 9 elementos
+menu-items: HTTP 200, 2 elementos
+navigation: HTTP 200, 0 elementos
+redirection: HTTP 200, 36 redirecciones
+Coincidencias: 11
+ - widgets text-4: emkt
+ - widgets text-3: emkt
+ - widgets custom_html-2: emkt
+ - widgets text-5: emkt
+ - posts 6173 joomla-administration-brand-remover-free-plugin: emkt.mx
+ - posts 6173 joomla-administration-brand-remover-free-plugin: emkt
+ - posts 6173 joomla-administration-brand-remover-free-plugin: emkt.mx
+ - posts 6173 joomla-administration-brand-remover-free-plugin: emkt
+ - posts 2754 curso-online-de-inbound-marketing: emkt
+ - posts 521 landing-page-enfocada-a-la-conversion-hubspot-cos: emkt
+ - pages 370 home: emkt
 Argumentos: --check
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
