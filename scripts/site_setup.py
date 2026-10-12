@@ -41,6 +41,36 @@ def main():
             errors += 1
             print(f"ERROR categoría {c.get('slug')}: {e}")
 
+    # Portada estática. Deja en el log los valores anteriores para poder revertir.
+    portada = cfg.get("portada") or {}
+    if portada.get("page_id"):
+        try:
+            prev = wp.req("GET", "settings")
+            print(f"Portada anterior: show_on_front={prev.get('show_on_front')} "
+                  f"page_on_front={prev.get('page_on_front')} page_for_posts={prev.get('page_for_posts')}")
+            page = wp.req("GET", f"pages/{portada['page_id']}", params={"context": "edit"})
+            if page.get("status") != "publish":
+                raise RuntimeError(f"la página {portada['page_id']} está en '{page.get('status')}', no publicada")
+            if prev.get("page_on_front") == portada["page_id"] and prev.get("show_on_front") == "page":
+                print(f"La portada ya es la página {portada['page_id']}")
+            else:
+                new = wp.req("POST", "settings", json={"show_on_front": "page", "page_on_front": portada["page_id"]})
+                print(f"Portada nueva: show_on_front={new.get('show_on_front')} page_on_front={new.get('page_on_front')}")
+            if portada.get("template") is not None:
+                wp.req("POST", f"pages/{portada['page_id']}", json={"template": portada["template"]})
+                print(f"Plantilla de la portada: '{portada['template']}'")
+        except Exception as e:  # noqa: BLE001
+            errors += 1
+            print(f"ERROR portada: {e}")
+    try:
+        schema = wp.s.options(f"{wp.api}/pages", timeout=30).json()
+        tpl = schema.get("schema", {}).get("properties", {}).get("template", {}).get("enum")
+        print(f"Plantillas de página disponibles: {tpl}")
+        ns = wp.s.get(wp.api.rsplit('/wp/v2', 1)[0] + "/", timeout=30).json().get("namespaces", [])
+        print(f"Plugins con API: {[n for n in ns if any(k in n for k in ('yoast', 'rankmath', 'seopress', 'aioseo', 'elementor'))]}")
+    except Exception as e:  # noqa: BLE001
+        print(f"Aviso: no se pudieron listar plantillas: {str(e)[:120]}")
+
     # Borrado a la papelera (recuperable desde wp-admin). Se confirma el slug antes de borrar.
     for b in cfg.get("borrar") or []:
         tipo = b.get("tipo", "pages")

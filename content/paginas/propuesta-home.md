@@ -1,8 +1,9 @@
 ---
 title: "Agencia de Inbound Marketing en México"
-slug: propuesta-home-agencia-inbound-marketing-mexico
+id: 9934
+slug: agencia-de-inbound-marketing-en-mexico
 type: page
-status: draft
+status: publish
 layout: raw
 excerpt: "Agencia de inbound marketing en México: SEO, contenido, automatización, CRM e inbound sales para convertir tu sitio en tu mejor vendedor. Diagnóstico gratis."
 ---
