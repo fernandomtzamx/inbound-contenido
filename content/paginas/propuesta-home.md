@@ -9,7 +9,7 @@ excerpt: "Agencia de inbound marketing en M√©xico: SEO, contenido, automatizaci√
 
 <!-- wp:html -->
 <style>
-.ib-home{--ink:#0f1222;--panel:#181c32;--paper:#f6f4ef;--line:#e4e1d8;--text:#1d2033;--muted:#5b6070;--accent:#ff5a3c;--soft:#969bb4;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--text);line-height:1.65;font-size:17px}
+.ib-home{--ink:#0f1222;--panel:#181c32;--paper:#f6f4ef;--line:#e4e1d8;--text:#1d2033;--muted:#5b6070;--accent:#fb8500;--soft:#969bb4;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--text);line-height:1.65;font-size:17px}
 .ib-home *{box-sizing:border-box}
 .ib-home a{color:inherit}
 .ib-wrap{max-width:1160px;margin:0 auto;padding:0 20px}
@@ -21,7 +21,7 @@ excerpt: "Agencia de inbound marketing en M√©xico: SEO, contenido, automatizaci√
 .ib-lead{font-size:19px;color:var(--muted);max-width:760px;margin:0 0 36px}
 .ib-btn{display:inline-block;padding:15px 26px;border-radius:10px;font-weight:700;text-decoration:none;font-size:16px;transition:transform .15s}
 .ib-btn:hover{transform:translateY(-2px)}
-.ib-btn.primary{background:var(--accent);color:#fff}
+.ib-btn.primary{background:var(--accent);color:#0f1222}
 .ib-btn.ghost{border:2px solid rgba(255,255,255,.35);color:#fff}
 .ib-btn.dark{background:var(--ink);color:#fff}
 .ib-hero{background:radial-gradient(1200px 500px at 85% -10%,#2a2f55 0,transparent 60%),var(--ink);color:#f5f3ee;padding:88px 0 72px}
@@ -41,13 +41,13 @@ excerpt: "Agencia de inbound marketing en M√©xico: SEO, contenido, automatizaci√
 .ib-sec.alt .ib-card{border-color:#e9e5da}
 .ib-card p{margin:0 0 10px;color:var(--muted);font-size:16px}
 .ib-card .more{font-size:15px;font-weight:700;color:var(--accent);text-decoration:none}
-.ib-icon{width:42px;height:42px;border-radius:10px;background:#fff1ed;color:var(--accent);display:flex;align-items:center;justify-content:center;font-weight:800;margin-bottom:14px}
+.ib-icon{width:42px;height:42px;border-radius:10px;background:#fff3e0;color:var(--accent);display:flex;align-items:center;justify-content:center;font-weight:800;margin-bottom:14px}
 .ib-pain{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
 .ib-pain div{border-left:4px solid var(--accent);padding:4px 0 4px 18px}
 .ib-pain p{margin:0;color:var(--muted)}
 .ib-def{background:var(--ink);color:#e9e9f2;border-radius:16px;padding:30px 34px;margin-top:34px}
 .ib-def strong{color:#fff}
-.ib-def a{color:#ffb4a5}
+.ib-def a{color:#ffb347}
 .ib-steps{counter-reset:paso;display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin:0;padding:0;list-style:none}
 .ib-steps li{counter-increment:paso;background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px 20px;position:relative}
 .ib-steps li:before{content:counter(paso,decimal-leading-zero);display:block;font-size:30px;font-weight:800;color:var(--accent);margin-bottom:6px}
@@ -55,7 +55,7 @@ excerpt: "Agencia de inbound marketing en M√©xico: SEO, contenido, automatizaci√
 .ib-steps p{margin:0;font-size:15px;color:var(--muted)}
 .ib-check{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:14px 30px}
 .ib-check li{padding-left:30px;position:relative;color:var(--muted)}
-.ib-check li:before{content:"";position:absolute;left:0;top:6px;width:18px;height:18px;border-radius:50%;background:var(--accent);box-shadow:inset 0 0 0 5px #fff1ed}
+.ib-check li:before{content:"";position:absolute;left:0;top:6px;width:18px;height:18px;border-radius:50%;background:var(--accent);box-shadow:inset 0 0 0 5px #fff3e0}
 .ib-check strong{color:var(--ink)}
 .ib-tags{display:flex;flex-wrap:wrap;gap:10px;margin:0;padding:0;list-style:none}
 .ib-tags li{background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 16px;font-size:15px}
@@ -65,9 +65,9 @@ excerpt: "Agencia de inbound marketing en M√©xico: SEO, contenido, automatizaci√
 .ib-faq summary:after{content:"+";color:var(--accent);font-size:24px;line-height:1}
 .ib-faq details[open] summary:after{content:"\2212"}
 .ib-faq details p{margin:12px 0 0;color:var(--muted)}
-.ib-final{background:var(--accent);color:#fff;border-radius:20px;padding:48px;display:flex;justify-content:space-between;align-items:center;gap:30px;flex-wrap:wrap}
-.ib-final h2{color:#fff;margin:0 0 8px}
-.ib-final p{margin:0;color:#fff3ef;font-size:18px}
+.ib-final{background:var(--accent);color:#0f1222;border-radius:20px;padding:48px;display:flex;justify-content:space-between;align-items:center;gap:30px;flex-wrap:wrap}
+.ib-final h2{color:#0f1222;margin:0 0 8px}
+.ib-final p{margin:0;color:#0f1222;font-size:18px}
 @media (max-width:960px){.ib-hero-grid,.ib-grid.c3,.ib-grid.c2,.ib-pain,.ib-check{grid-template-columns:1fr}.ib-steps{grid-template-columns:1fr 1fr}.ib-hero{padding:60px 0 48px}.ib-sec{padding:52px 0}.ib-final{padding:32px}}
 @media (max-width:560px){.ib-steps{grid-template-columns:1fr}.ib-home{font-size:16px}}
 </style>
@@ -89,7 +89,7 @@ excerpt: "Agencia de inbound marketing en M√©xico: SEO, contenido, automatizaci√
 <li><strong>1a sesi√≥n</strong> de asesor√≠a sin costo</li>
 </ul>
 </div>
-<div class="ib-hero-img"><img src="images/metodologia-inbound-marketing-mexico.png" alt="Metodolog√≠a de inbound marketing: atraer, convertir, cerrar y deleitar" width="520" height="496" loading="eager" fetchpriority="high"></div>
+<div class="ib-hero-img"><img src="images/metodologia-inbound-marketing-mexico-fb8500.png" alt="Metodolog√≠a de inbound marketing: atraer, convertir, cerrar y deleitar" width="520" height="496" loading="eager" fetchpriority="high"></div>
 </div>
 </section>
 
