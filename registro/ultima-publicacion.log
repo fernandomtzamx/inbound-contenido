@@ -1,8 +1,8 @@
-fecha: 2026-10-12T21:58:44Z
-commit: e03822cf50e6d14eb1b83dec8ccd1b84248bbbbb
+fecha: 2026-10-12T22:13:04Z
+commit: 8e639ad9d4261f2656d602bcbb25aa7b808e6b5f
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38313909407
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38315347728
 ---
 WP_URL: presente
 WP_USER: presente
@@ -11,28 +11,7 @@ WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
-ok: infografia-como-controlar-tus-emociones (123 palabras)
-ok: infografia-dia-del-trabajo-por-que-se-celebra-el-1-de-mayo (24 palabras)
-ok: frases-de-inbound-marketing-neil-patel-tu-exito-esta-solo-parcialmente-dictado-por-cuanto-trafico-tienes-la-otra-parte-de-la-ecuacion-es-la-calidad-de-dicho-trafico (60 palabras)
-ok: frases-de-inbound-marketing-jef-richards-la-creatividad-sin-estrategia-se-llama-arte-la-creatividad-con-estrategia-se-llama-publicidad (52 palabras)
-ok: frases-de-inbound-marketing-ann-handley-se-suficientemente-especifico-para-ser-creible-y-suficientemente-universal-para-ser-relevante (50 palabras)
-ok: frases-de-inbound-marketing-ann-handley-convierte-al-cliente-en-el-heroe-de-tu-historia (47 palabras)
-ok: frases-de-inbound-marketing-mike-dilorenzo-las-redes-sociales-ya-no-son-sobre-sitios-webs-tratan-de-experiencias (50 palabras)
-ok: frases-de-inbound-marketing-avinash-kaushik-solo-podremos-tomar-decisiones-acertadas-si-sabemos-como-analizar-e-interpretar-los-datos (51 palabras)
-ok: frases-de-inbound-marketing-joe-pulizzi-deja-de-escribir-de-todo-encuentra-tu-nicho-y-luego-busca-un-nicho-mas-pequeno-todavia (54 palabras)
-ok: frases-de-inbound-marketing-jay-baer-el-social-media-es-un-ingrediente-no-un-platillo (47 palabras)
-ok: frases-de-inbound-marketing-philip-kotler-no-vigile-el-ciclo-de-vida-del-producto-vigile-el-ciclo-de-vida-del-mercado (53 palabras)
-ok: infografia-buenas-practicas-para-la-seguridad-de-la-informacion-en-la-gestion-de-redes-sociales (27 palabras)
-ok: frases-de-inbound-marketing-seth-godin-no-encuentres-clientes-para-tus-productos-encuentra-productos-para-tus-clientes (49 palabras)
-ok: frases-de-inbound-marketing-erik-qualman-no-tenemos-mas-opcion-que-hacer-social-media-la-cuestion-es-como-podemos-hacerlo-bien (53 palabras)
-ok: frases-de-inbound-marketing-matt-goulart-social-media-es-acerca-de-personas-no-acerca-de-tu-negocio-cuida-de-la-gente-y-la-gente-cuidara-de-ti (59 palabras)
-ok: infografia-que-ocurre-en-internet-en-60-segundos (20 palabras)
-ok: frases-de-inbound-marketing-katherine-barchetti-haz-un-cliente-no-una-venta (44 palabras)
-ok: frases-de-inbound-marketing-trey-pennington-las-empresas-que-entienden-el-social-media-son-las-que-dicen-con-su-mensaje-te-veo-te-escucho-y-me-importas (59 palabras)
-ok: infografia-5-practicas-para-implementar-una-cultura-digital (20 palabras)
-ok: frases-de-inbound-marketing-al-ries-y-jack-trout-el-marketing-no-es-una-batalla-de-productos-es-una-batalla-de-percepciones (57 palabras)
-ok: agencia-de-inbound-marketing-en-mexico (1347 palabras)
-Auditoría guardada en registro/auditoria.json: 21 URLs
+descargado: infografia-como-controlar-tus-emociones (id 6610, 1450 caracteres)
 Argumentos: --check
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
