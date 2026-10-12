@@ -1,0 +1,40 @@
+{
+ "id": 353,
+ "slug": "libros-sobre-marketing-de-contenidos-para-emprendedores",
+ "status": "publish",
+ "date": "2017-07-05T22:25:14",
+ "modified": "2017-07-05T23:32:24",
+ "link": "https://www.inbound.com.mx/libros-sobre-marketing-de-contenidos-para-emprendedores/",
+ "featured_media": 354,
+ "categories": [
+  23
+ ],
+ "tags": [
+  24,
+  33,
+  32
+ ],
+ "template": "",
+ "format": "standard",
+ "title": "Libros sobre marketing de contenidos para emprendedores",
+ "excerpt": "",
+ "content": "<strong>Conoce los libros sobre marketing de contenidos para emprendedores con las mejores calificaciones de lectores mexicanos.</strong>",
+ "yoast_head_json": {
+  "title": "Libros sobre marketing de contenidos para emprendedores - INBOUND",
+  "description": null,
+  "og_image": [
+   {
+    "width": 341,
+    "height": 500,
+    "url": "http://ec2-13-59-38-8.us-east-2.compute.amazonaws.com/wp-content/uploads/2017/07/marketing-de-contenidos-el-arte-de-crear-el-pblico-para-tu-producto-o-servicio-7.jpg",
+    "type": "image/jpeg"
+   }
+  ]
+ },
+ "featured": {
+  "source_url": "https://www.inbound.com.mx/wp-content/uploads/2017/07/marketing-de-contenidos-el-arte-de-crear-el-pblico-para-tu-producto-o-servicio-7.jpg",
+  "alt": "",
+  "width": 341,
+  "height": 500
+ }
+}

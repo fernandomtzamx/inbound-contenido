@@ -1,0 +1,36 @@
+{
+ "id": 401,
+ "slug": "libros-sobre-landing-pages-para-emprendedores",
+ "status": "publish",
+ "date": "2017-07-05T23:28:08",
+ "modified": "2019-04-03T22:45:56",
+ "link": "https://www.inbound.com.mx/libros-sobre-landing-pages-para-emprendedores/",
+ "featured_media": 402,
+ "categories": [
+  23
+ ],
+ "tags": [],
+ "template": "",
+ "format": "standard",
+ "title": "Libros sobre landing pages para emprendedores",
+ "excerpt": "",
+ "content": "<strong>Conoce los libros sobre landing pages para emprendedores con las mejores calificaciones de lectores mexicanos.</strong>",
+ "yoast_head_json": {
+  "title": "Libros sobre landing pages para emprendedores - INBOUND",
+  "description": null,
+  "og_image": [
+   {
+    "width": 313,
+    "height": 500,
+    "url": "http://ec2-13-59-38-8.us-east-2.compute.amazonaws.com/wp-content/uploads/2017/07/kickass-landing-page-optimization-design-test-tweak-english-edition.jpg",
+    "type": "image/jpeg"
+   }
+  ]
+ },
+ "featured": {
+  "source_url": "https://www.inbound.com.mx/wp-content/uploads/2017/07/kickass-landing-page-optimization-design-test-tweak-english-edition.jpg",
+  "alt": "",
+  "width": 313,
+  "height": 500
+ }
+}
