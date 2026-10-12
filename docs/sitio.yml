@@ -17,6 +17,10 @@ categorias: []
 #     name: Inbound marketing
 #     description: "Descripción de la categoría."
 
+# Portada estática del sitio (Ajustes > Lectura). El log guarda la portada anterior.
+portada:
+  page_id: 9934
+
 # Entradas o páginas a enviar a la papelera. Se confirma el slug antes de borrar.
 borrar: []
 # borrar:
