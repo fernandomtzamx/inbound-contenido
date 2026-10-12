@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-mcdonalds-nuestro-jefe-de-social-media-es-el-
 type: "post"
 status: "publish"
 excerpt: "Frase atribuida a McDonald's: nuestro jefe de social media es el cliente. Qué significa y cómo poner al cliente al centro de tu estrategia en redes."
+seo_title: "Frase de McDonald's: nuestro jefe de social media es el cliente"
+seo_description: "Frase atribuida a McDonald's: nuestro jefe de social media es el cliente. Qué significa y cómo poner al cliente al centro de tu estrategia en redes."
 ---
 
 Esta frase, atribuida al equipo de redes sociales de McDonald's, resume una idea poderosa: en redes, quien marca la agenda es el cliente.

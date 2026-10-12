@@ -5,6 +5,8 @@ slug: "infografia-las-mejores-y-peores-marcas-de-autos"
 type: "post"
 status: "publish"
 excerpt: "Infografía de las mejores y peores marcas de autos: qué criterios definen la reputación de una marca automotriz y qué pueden aprender otras empresas."
+seo_title: "Las mejores y peores marcas de autos: qué las define"
+seo_description: "Infografía de las mejores y peores marcas de autos: qué criterios definen la reputación de una marca automotriz y qué pueden aprender otras empresas."
 ---
 
 ¿Por qué unas marcas de autos tienen fama de confiables y otras no? Esta infografía de Merca2.0 compara marcas automotrices según su calificación. Aquí repasamos qué criterios definen esa reputación y qué enseña a cualquier empresa.

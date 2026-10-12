@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-david-ogilvy-la-publicidad-solo-es-mala-cuand
 type: "post"
 status: "publish"
 excerpt: "Frase de David Ogilvy: la publicidad solo es mala cuando anuncia cosas malas. Quién fue, qué significa y su relación con la idea de que no hay mala publicidad."
+seo_title: "Frase de David Ogilvy: no hay publicidad mala"
+seo_description: "Frase de David Ogilvy: la publicidad solo es mala cuando anuncia cosas malas. Quién fue, qué significa y su relación con la idea de que no hay mala publicidad."
 ---
 
 "No hay mala publicidad" es una de las frases más repetidas del mundo de la comunicación. David Ogilvy, el llamado padre de la publicidad, tenía una versión más precisa.

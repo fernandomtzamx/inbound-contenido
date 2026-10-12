@@ -5,6 +5,8 @@ slug: "campana-en-buscadores"
 type: "post"
 status: "publish"
 excerpt: "Campañas en buscadores: qué son, diferencias entre SEO y SEM, cómo funciona Google Ads, cómo optimizar una campaña y medirla para generar más clientes."
+seo_title: "Campaña en buscadores: por qué la necesitas y cómo hacerla"
+seo_description: "Campañas en buscadores: qué son, diferencias entre SEO y SEM, cómo funciona Google Ads, cómo optimizar una campaña y medirla para generar más clientes."
 ---
 
 Hoy casi cualquier compra empieza con una búsqueda en Google. Cada día surgen negocios que ofrecen lo mismo que tú, y la competencia por aparecer en los primeros resultados es cada vez mayor. Una campaña en buscadores te ayuda a estar frente al cliente justo cuando busca lo que vendes.

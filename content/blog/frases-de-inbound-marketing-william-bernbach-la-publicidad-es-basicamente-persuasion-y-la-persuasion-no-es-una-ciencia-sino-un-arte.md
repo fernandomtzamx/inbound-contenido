@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-william-bernbach-la-publicidad-es-basicamente
 type: "post"
 status: "publish"
 excerpt: "Frase de persuasión de Bill Bernbach: la publicidad es básicamente persuasión, y la persuasión no es una ciencia sino un arte. Qué significa y cómo aplicarla."
+seo_title: "Frases de persuasión: Bill Bernbach y la publicidad"
+seo_description: "Frase de persuasión de Bill Bernbach: la publicidad es básicamente persuasión, y la persuasión no es una ciencia sino un arte. Qué significa y cómo aplicarla."
 ---
 
 Bill Bernbach transformó la publicidad en la década de 1960 al poner la creatividad y la honestidad en el centro de los anuncios. Esta es una de sus frases de persuasión más citadas.

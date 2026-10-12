@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-joe-pulizzi-deja-de-escribir-de-todo-encuentr
 type: "post"
 status: "publish"
 excerpt: "Frase de Joe Pulizzi, padre del marketing de contenidos: deja de escribir de todo y encuentra tu nicho. Qué significa y cómo elegir el nicho de tu blog."
+seo_title: "Joe Pulizzi: encuentra tu nicho de contenido"
+seo_description: "Frase de Joe Pulizzi, padre del marketing de contenidos: deja de escribir de todo y encuentra tu nicho. Qué significa y cómo elegir el nicho de tu blog."
 ---
 
 Un blog que habla de todo no es la referencia de nada. Joe Pulizzi, considerado uno de los padres del marketing de contenidos, propone lo contrario: reducir el tema hasta ser el mejor en un nicho muy concreto.

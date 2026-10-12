@@ -5,6 +5,8 @@ slug: "inbound-marketing-para-pymes"
 type: "post"
 status: "publish"
 excerpt: "Inbound marketing para pymes: por qué conviene a negocios pequeños, cuánto invertir, qué herramientas usar y un plan de 90 días para empezar a generar clientes."
+seo_title: "Inbound marketing para pymes: guía práctica para empezar"
+seo_description: "Inbound marketing para pymes: por qué conviene a negocios pequeños, cuánto invertir, qué herramientas usar y un plan de 90 días para empezar a generar clientes."
 ---
 
 El inbound marketing es una de las estrategias más adecuadas para las pymes: permite competir con empresas más grandes sin depender de presupuestos enormes de publicidad. En lugar de pagar por cada contacto, construyes contenido y un sistema que atrae clientes de forma constante.

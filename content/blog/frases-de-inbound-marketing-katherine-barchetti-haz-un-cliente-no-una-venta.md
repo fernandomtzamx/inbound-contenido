@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-katherine-barchetti-haz-un-cliente-no-una-ven
 type: "post"
 status: "publish"
 excerpt: "Frase de Katherine Barchetti: haz un cliente, no una venta. Quién fue, qué significa y cómo aplicarla para fidelizar clientes y vender más."
+seo_title: "Katherine Barchetti: haz un cliente, no una venta"
+seo_description: "Frase de Katherine Barchetti: haz un cliente, no una venta. Quién fue, qué significa y cómo aplicarla para fidelizar clientes y vender más."
 ---
 
 Cinco palabras que cambian la forma de vender. La frase de Katherine Barchetti es una de las más citadas sobre servicio al cliente y resume la diferencia entre ganar una transacción y ganar una relación.

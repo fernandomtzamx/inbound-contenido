@@ -5,6 +5,8 @@ slug: "infografia-videojuegos-en-mexico"
 type: "post"
 status: "publish"
 excerpt: "Infografía de videojuegos en México: quiénes juegan, en qué plataformas y cómo las marcas pueden aprovechar el gaming en su estrategia de marketing."
+seo_title: "Videojuegos en México: mercado y oportunidades para marcas"
+seo_description: "Infografía de videojuegos en México: quiénes juegan, en qué plataformas y cómo las marcas pueden aprovechar el gaming en su estrategia de marketing."
 ---
 
 Los videojuegos dejaron de ser un pasatiempo de nicho. En México millones de personas juegan en celular, consola o computadora, y las marcas buscan cómo llegar a esa audiencia. Esta infografía resume el panorama del gaming en el país.

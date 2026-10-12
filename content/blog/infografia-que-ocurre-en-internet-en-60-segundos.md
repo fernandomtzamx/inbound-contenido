@@ -5,6 +5,8 @@ slug: "infografia-que-ocurre-en-internet-en-60-segundos"
 type: "post"
 status: "publish"
 excerpt: "Infografía de qué pasa en internet en 60 segundos: qué muestra, cómo se mide la actividad digital por minuto y qué significa para el marketing de tu empresa."
+seo_title: "Qué pasa en internet en 60 segundos (infografía)"
+seo_description: "Infografía de qué pasa en internet en 60 segundos: qué muestra, cómo se mide la actividad digital por minuto y qué significa para el marketing de tu empresa."
 ---
 
 Cada minuto se envían millones de mensajes, se hacen millones de búsquedas y se publican miles de horas de video. Esta infografía, publicada en 2017, ilustra la actividad que ocurre en internet en solo 60 segundos.

@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-orvel-ray-wilson-los-clientes-compran-por-sus
 type: "post"
 status: "publish"
 excerpt: "Frase de Orvel Ray Wilson: los clientes compran por sus razones, no por las tuyas. Qué significa y cómo descubrir los motivos de compra de tus clientes."
+seo_title: "Orvel Ray Wilson: los clientes compran por sus razones"
+seo_description: "Frase de Orvel Ray Wilson: los clientes compran por sus razones, no por las tuyas. Qué significa y cómo descubrir los motivos de compra de tus clientes."
 ---
 
 Muchos vendedores presentan las razones por las que su producto es bueno. Orvel Ray Wilson recuerda que lo que importa son las razones del cliente.

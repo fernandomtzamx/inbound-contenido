@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-trey-pennington-las-empresas-que-entienden-el
 type: "post"
 status: "publish"
 excerpt: "Frase de Trey Pennington sobre las empresas que entienden el social media: te veo, te escucho y me importas. Qué significa y cómo aplicarla."
+seo_title: "Trey Pennington: te veo, te escucho y me importas"
+seo_description: "Frase de Trey Pennington sobre las empresas que entienden el social media: te veo, te escucho y me importas. Qué significa y cómo aplicarla."
 ---
 
 Esta frase de Trey Pennington resume en tres verbos lo que tus clientes esperan de tu marca en redes sociales: que los veas, que los escuches y que demuestres que te importan.

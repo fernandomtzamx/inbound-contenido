@@ -5,6 +5,8 @@ slug: "infografia-radiografia-del-consumidor-online-espanol"
 type: "post"
 status: "publish"
 excerpt: "Infografía con la radiografía del consumidor online español: cómo compra en internet, qué valora y qué pueden aprender las empresas que venden en línea."
+seo_title: "Radiografía del consumidor online en España (infografía)"
+seo_description: "Infografía con la radiografía del consumidor online español: cómo compra en internet, qué valora y qué pueden aprender las empresas que venden en línea."
 ---
 
 ¿Cómo compra en internet un consumidor en España? Esta infografía, publicada en 2017, presenta una radiografía del comprador en línea español. Aquí resumimos los rasgos que siguen vigentes y qué puede aprender cualquier tienda en línea, incluidas las mexicanas que venden al exterior.

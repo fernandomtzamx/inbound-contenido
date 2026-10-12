@@ -5,6 +5,8 @@ slug: "infografia-4-estilos-de-aprendizaje"
 type: "post"
 status: "publish"
 excerpt: "Infografía de estilos de aprendizaje: los 4 estilos del modelo VARK, visual, auditivo, lectoescritura y kinestésico, y qué dice la ciencia sobre ellos."
+seo_title: "Infografía de los 4 estilos de aprendizaje (VARK)"
+seo_description: "Infografía de estilos de aprendizaje: los 4 estilos del modelo VARK, visual, auditivo, lectoescritura y kinestésico, y qué dice la ciencia sobre ellos."
 ---
 
 ¿Aprendes mejor viendo, escuchando, leyendo o haciendo? Esta infografía de estilos de aprendizaje resume cuatro formas en que las personas prefieren recibir información. Aquí te explicamos el modelo, qué dice la investigación y cómo usarlo en la capacitación de tu equipo.

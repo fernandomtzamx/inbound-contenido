@@ -5,6 +5,8 @@ slug: "infografia-entendiendo-el-mercado-de-valores"
 type: "post"
 status: "publish"
 excerpt: "Infografía del mercado de valores: qué es, las bolsas más grandes del mundo, las más antiguas y los inversionistas más exitosos, más cómo funciona en México."
+seo_title: "Entendiendo el mercado de valores (infografía)"
+seo_description: "Infografía del mercado de valores: qué es, las bolsas más grandes del mundo, las más antiguas y los inversionistas más exitosos, más cómo funciona en México."
 ---
 
 El mercado de valores permite que las empresas obtengan capital y que las personas inviertan su dinero. Esta infografía de Merca2.0, publicada en 2019, explica qué es y muestra las cifras de las principales bolsas del mundo en ese momento.

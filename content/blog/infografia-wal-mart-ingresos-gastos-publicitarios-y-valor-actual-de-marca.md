@@ -5,6 +5,8 @@ slug: "infografia-wal-mart-ingresos-gastos-publicitarios-y-valor-actual-de-marca
 type: "post"
 status: "publish"
 excerpt: "Infografía de Walmart: su historia, ingresos mundiales, gasto publicitario y número de tiendas por país, con datos de 2019 y lecciones para el retail."
+seo_title: "Walmart: ingresos, publicidad y tiendas (infografía)"
+seo_description: "Infografía de Walmart: su historia, ingresos mundiales, gasto publicitario y número de tiendas por país, con datos de 2019 y lecciones para el retail."
 ---
 
 Walmart es la empresa minorista más grande del mundo y una de las más relevantes en México. Esta infografía de Merca2.0, publicada en 2019, resume sus números de ese momento.

@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-jay-baer-el-contenido-es-fuego-y-el-social-me
 type: "post"
 status: "publish"
 excerpt: "Frase de Jay Baer: el contenido es fuego y el social media, gasolina. Qué significa y cómo combinar marketing de contenidos y redes sociales."
+seo_title: "Jay Baer: el contenido es fuego y el social media gasolina"
+seo_description: "Frase de Jay Baer: el contenido es fuego y el social media, gasolina. Qué significa y cómo combinar marketing de contenidos y redes sociales."
 ---
 
 Contenido y redes sociales no compiten; se necesitan. Jay Baer lo explica con una de las metáforas más conocidas del marketing digital.

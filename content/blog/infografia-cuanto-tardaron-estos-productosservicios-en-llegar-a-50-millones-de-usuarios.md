@@ -5,6 +5,8 @@ slug: "infografia-cuanto-tardaron-estos-productosservicios-en-llegar-a-50-millon
 type: "post"
 status: "publish"
 excerpt: "Infografía: cuánto tardaron distintos productos y servicios en llegar a 50 millones de usuarios y qué enseña la adopción tecnológica a los emprendedores."
+seo_title: "Cuánto tardaron en llegar a 50 millones de usuarios (infografía)"
+seo_description: "Infografía: cuánto tardaron distintos productos y servicios en llegar a 50 millones de usuarios y qué enseña la adopción tecnológica a los emprendedores."
 ---
 
 La radio, la televisión, internet y las redes sociales cambiaron el mundo, pero no al mismo ritmo. Esta infografía compara cuánto tardaron distintas tecnologías en alcanzar 50 millones de usuarios.

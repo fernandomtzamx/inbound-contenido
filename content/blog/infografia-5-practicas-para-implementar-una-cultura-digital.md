@@ -5,6 +5,8 @@ slug: "infografia-5-practicas-para-implementar-una-cultura-digital"
 type: "post"
 status: "publish"
 excerpt: "Infografía de cultura digital: qué es la cultura digital en una empresa y 5 prácticas para implementarla en tu equipo, con ejemplos y errores comunes."
+seo_title: "Infografía de cultura digital: 5 prácticas para implementarla"
+seo_description: "Infografía de cultura digital: qué es la cultura digital en una empresa y 5 prácticas para implementarla en tu equipo, con ejemplos y errores comunes."
 ---
 
 La transformación digital no se logra comprando software; se logra cambiando la forma en que trabaja la gente. Esta infografía de cultura digital resume prácticas para implementarla en tu empresa, y abajo las explicamos con ejemplos.

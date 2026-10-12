@@ -5,6 +5,8 @@ slug: "infografia-el-imperio-de-jeff-bezos"
 type: "post"
 status: "publish"
 excerpt: "Infografía del imperio de Jeff Bezos: cómo pasó de una librería en línea a Amazon, AWS y Blue Origin, y qué lecciones deja a emprendedores y líderes."
+seo_title: "El imperio de Jeff Bezos: de librería en línea a Amazon"
+seo_description: "Infografía del imperio de Jeff Bezos: cómo pasó de una librería en línea a Amazon, AWS y Blue Origin, y qué lecciones deja a emprendedores y líderes."
 ---
 
 Jeff Bezos empezó vendiendo libros por internet y construyó una de las empresas más grandes del mundo. Esta infografía, publicada en 2017, resume su imperio; aquí repasamos su historia y las lecciones que deja.

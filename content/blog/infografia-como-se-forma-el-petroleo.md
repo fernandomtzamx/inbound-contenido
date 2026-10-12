@@ -5,6 +5,8 @@ slug: "infografia-como-se-forma-el-petroleo"
 type: "post"
 status: "publish"
 excerpt: "Infografía del petróleo: cómo se forma a partir de materia orgánica, cuánto tarda, dónde se acumula y por qué su precio impacta en los costos de las empresas."
+seo_title: "Cómo se forma el petróleo (infografía)"
+seo_description: "Infografía del petróleo: cómo se forma a partir de materia orgánica, cuánto tarda, dónde se acumula y por qué su precio impacta en los costos de las empresas."
 ---
 
 El petróleo mueve buena parte de la economía mundial, pero su origen se remonta a millones de años. Esta infografía del petróleo explica cómo se forma; aquí lo resumimos paso a paso.

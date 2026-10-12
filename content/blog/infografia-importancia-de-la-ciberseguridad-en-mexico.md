@@ -5,6 +5,8 @@ slug: "infografia-importancia-de-la-ciberseguridad-en-mexico"
 type: "post"
 status: "publish"
 excerpt: "Infografía sobre la importancia de la ciberseguridad en México: principales riesgos para empresas y pymes y medidas básicas para proteger tu negocio."
+seo_title: "Importancia de la ciberseguridad en México (infografía)"
+seo_description: "Infografía sobre la importancia de la ciberseguridad en México: principales riesgos para empresas y pymes y medidas básicas para proteger tu negocio."
 ---
 
 La digitalización de las empresas mexicanas trae oportunidades, pero también riesgos. Esta infografía destaca por qué la ciberseguridad es una prioridad en México; aquí te explicamos los riesgos más comunes y cómo proteger tu negocio.

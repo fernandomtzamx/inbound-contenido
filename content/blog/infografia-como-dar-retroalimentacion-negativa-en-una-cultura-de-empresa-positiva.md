@@ -5,6 +5,8 @@ slug: "infografia-como-dar-retroalimentacion-negativa-en-una-cultura-de-empresa-
 type: "post"
 status: "publish"
 excerpt: "Infografía: cómo dar retroalimentación negativa sin dañar una cultura de empresa positiva. Método paso a paso, ejemplo de retroalimentación y errores a evitar."
+seo_title: "Cómo dar retroalimentación negativa en una cultura positiva"
+seo_description: "Infografía: cómo dar retroalimentación negativa sin dañar una cultura de empresa positiva. Método paso a paso, ejemplo de retroalimentación y errores a evitar."
 ---
 
 Una cultura positiva no significa evitar las conversaciones difíciles. Al contrario: los equipos sanos hablan de lo que no funciona con respeto y claridad. Esta infografía explica cómo dar retroalimentación negativa sin dañar el ambiente de trabajo.

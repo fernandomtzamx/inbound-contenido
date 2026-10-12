@@ -5,6 +5,8 @@ slug: "evalua-tu-agencia-de-marketing-digital"
 type: "post"
 status: "publish"
 excerpt: "Cómo evaluar el trabajo de tu agencia de marketing digital: 7 claves, indicadores que debe reportar, señales de alerta y preguntas antes de contratar una agencia."
+seo_title: "Cómo evaluar a tu agencia de marketing digital: 7 claves"
+seo_description: "Cómo evaluar el trabajo de tu agencia de marketing digital: 7 claves, indicadores que debe reportar, señales de alerta y preguntas antes de contratar una agencia."
 ---
 
 Como empresario, es fundamental saber si tu agencia de marketing digital está haciendo bien su trabajo. Su costo puede representar una parte importante de tu presupuesto anual, y una mala agencia no solo desperdicia dinero: también te hace perder tiempo y oportunidades frente a tu competencia.

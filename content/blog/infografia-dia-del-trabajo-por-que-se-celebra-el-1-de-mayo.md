@@ -5,6 +5,8 @@ slug: "infografia-dia-del-trabajo-por-que-se-celebra-el-1-de-mayo"
 type: "post"
 status: "publish"
 excerpt: "Infografía del Día del Trabajo: por qué se celebra el 1 de mayo, su origen en Chicago, cómo llegó a México y qué dice la Ley Federal del Trabajo."
+seo_title: "Día del Trabajo: por qué se celebra el 1 de mayo (infografía)"
+seo_description: "Infografía del Día del Trabajo: por qué se celebra el 1 de mayo, su origen en Chicago, cómo llegó a México y qué dice la Ley Federal del Trabajo."
 ---
 
 El 1 de mayo se celebra el Día Internacional del Trabajo en México y en buena parte del mundo. Esta infografía del Día del Trabajo resume su origen; abajo te contamos la historia completa, cómo llegó a México y qué implica para las empresas.

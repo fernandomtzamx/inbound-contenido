@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-al-ries-la-estrategia-el-sentido-de-la-oportu
 type: "post"
 status: "publish"
 excerpt: "Frase de Al Ries: la estrategia, el sentido de la oportunidad y el momento exacto son las altas cumbres del marketing. Qué significa y cómo aplicarla."
+seo_title: "Al Ries: la estrategia y el momento exacto en marketing"
+seo_description: "Frase de Al Ries: la estrategia, el sentido de la oportunidad y el momento exacto son las altas cumbres del marketing. Qué significa y cómo aplicarla."
 ---
 
 En marketing hay decisiones que pesan más que todas las demás juntas. Al Ries las nombra en esta frase: la estrategia, el sentido de la oportunidad y el momento exacto.

@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-seth-godin-no-encuentres-clientes-para-tus-pr
 type: "post"
 status: "publish"
 excerpt: "Frase de Seth Godin: no encuentres clientes para tus productos, encuentra productos para tus clientes. Qué significa y cómo aplicarla para vender más."
+seo_title: "Frase de Seth Godin: encuentra productos para tus clientes"
+seo_description: "Frase de Seth Godin: no encuentres clientes para tus productos, encuentra productos para tus clientes. Qué significa y cómo aplicarla para vender más."
 ---
 
 La mayoría de las empresas crean un producto y luego salen a buscar quién lo compre. Seth Godin propone invertir el orden: primero elige a quién quieres servir y después crea lo que esas personas necesitan.

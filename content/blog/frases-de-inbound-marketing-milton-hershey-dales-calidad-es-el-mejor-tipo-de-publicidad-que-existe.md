@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-milton-hershey-dales-calidad-es-el-mejor-tipo
 type: "post"
 status: "publish"
 excerpt: "Frase de Milton Hershey: dales calidad, es el mejor tipo de publicidad que existe. Quién fue, qué significa y por qué la calidad sigue vendiendo."
+seo_title: "Milton Hershey: dales calidad, la mejor publicidad"
+seo_description: "Frase de Milton Hershey: dales calidad, es el mejor tipo de publicidad que existe. Quién fue, qué significa y por qué la calidad sigue vendiendo."
 ---
 
 El fundador de una de las marcas de chocolate más famosas del mundo resumió su estrategia de marketing en una frase.

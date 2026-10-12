@@ -5,6 +5,8 @@ slug: "infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice"
 type: "post"
 status: "publish"
 excerpt: "Infografía sobre mensajes de bienvenida automáticos en Twitter, hoy X: cómo funcionaban con Botice, qué cambió y cómo escribir una bienvenida que funcione."
+seo_title: "Mensajes de bienvenida automáticos en Twitter (X)"
+seo_description: "Infografía sobre mensajes de bienvenida automáticos en Twitter, hoy X: cómo funcionaban con Botice, qué cambió y cómo escribir una bienvenida que funcione."
 ---
 
 Enviar un mensaje de bienvenida a cada nuevo seguidor es una forma de iniciar la conversación. Esta infografía de 2017 explica cómo automatizar esos mensajes en Twitter con la herramienta Botice. Aquí te contamos qué ha cambiado y cómo hacerlo bien hoy.

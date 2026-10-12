@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-jef-richards-la-creatividad-sin-estrategia-se
 type: "post"
 status: "publish"
 excerpt: "Frase de Jef Richards: la creatividad sin estrategia es arte y con estrategia es publicidad. Quién es, qué significa y cómo aplicarla en tus campañas."
+seo_title: "Jef Richards: creatividad con estrategia es publicidad"
+seo_description: "Frase de Jef Richards: la creatividad sin estrategia es arte y con estrategia es publicidad. Quién es, qué significa y cómo aplicarla en tus campañas."
 ---
 
 Una idea brillante no vende por sí sola. Esta frase de Jef I. Richards, una de las más citadas en las escuelas de publicidad, explica la diferencia entre hacer algo bonito y hacer algo que funcione para un negocio.

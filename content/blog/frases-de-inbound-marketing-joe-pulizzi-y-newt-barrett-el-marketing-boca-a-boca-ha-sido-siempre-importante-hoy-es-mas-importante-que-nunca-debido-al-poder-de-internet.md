@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-joe-pulizzi-y-newt-barrett-el-marketing-boca-
 type: "post"
 status: "publish"
 excerpt: "Frase de Joe Pulizzi y Newt Barrett sobre el marketing boca a boca y el poder de internet. Qué significa y cómo generar recomendaciones en línea."
+seo_title: "Pulizzi y Barrett: el boca a boca en la era de internet"
+seo_description: "Frase de Joe Pulizzi y Newt Barrett sobre el marketing boca a boca y el poder de internet. Qué significa y cómo generar recomendaciones en línea."
 ---
 
 La recomendación de un conocido siempre ha sido la mejor publicidad. Joe Pulizzi y Newt Barrett advierten que internet la volvió todavía más poderosa.

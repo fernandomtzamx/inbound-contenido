@@ -5,6 +5,8 @@ slug: "infografia-17-senales-de-que-tu-companero-de-trabajo-te-odia"
 type: "post"
 status: "publish"
 excerpt: "Infografía con señales de que no te quieren en el trabajo o de que un compañero te odia, y qué hacer para resolver el conflicto de forma profesional."
+seo_title: "Señales de que tu compañero de trabajo te odia (infografía)"
+seo_description: "Infografía con señales de que no te quieren en el trabajo o de que un compañero te odia, y qué hacer para resolver el conflicto de forma profesional."
 ---
 
 Las tensiones con un compañero afectan tu ánimo y tu rendimiento. Esta infografía, con un toque de humor, enumera señales de que alguien en el trabajo no te soporta. Aquí repasamos las más comunes y qué hacer al respecto.

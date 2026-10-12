@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-rosser-reeves-quieres-textos-escritos-con-ele
 type: "post"
 status: "publish"
 excerpt: "Frase de Rosser Reeves: ¿quieres obras maestras o quieres ver cómo suben las ventas? Quién fue el creador de la USP y qué enseña sobre publicidad."
+seo_title: "Rosser Reeves: ¿quieres obras maestras o ventas?"
+seo_description: "Frase de Rosser Reeves: ¿quieres obras maestras o quieres ver cómo suben las ventas? Quién fue el creador de la USP y qué enseña sobre publicidad."
 ---
 
 Rosser Reeves fue uno de los publicistas más pragmáticos de su época. Esta frase deja clara su postura: la publicidad existe para vender.

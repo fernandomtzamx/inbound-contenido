@@ -5,6 +5,8 @@ slug: "infografia-materias-primas-que-mas-han-subido-y-bajado"
 type: "post"
 status: "publish"
 excerpt: "Infografía de materias primas que más han subido y bajado de precio: qué son los commodities, qué mueve sus precios y cómo protegen las empresas sus costos."
+seo_title: "Materias primas que más han subido y bajado (infografía)"
+seo_description: "Infografía de materias primas que más han subido y bajado de precio: qué son los commodities, qué mueve sus precios y cómo protegen las empresas sus costos."
 ---
 
 El precio del petróleo, el cobre, el maíz o el café afecta los costos de miles de empresas. Esta infografía, publicada en 2017, mostraba las materias primas que más habían subido y bajado en ese periodo. Aquí te explicamos qué mueve esos precios y cómo puede protegerse tu negocio.

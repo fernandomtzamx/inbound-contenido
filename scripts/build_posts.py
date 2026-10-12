@@ -67,7 +67,8 @@ def render(p):
             {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer",
              "text": re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", a).replace("**", "")}} for q, a in faq]}
         out.append('<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False, separators=(",", ":")) + "</script>")
-    fm = {"title": p["title"], "id": p["id"], "slug": p["slug"], "type": "post", "status": "publish", "excerpt": p["excerpt"]}
+    fm = {"title": p["title"], "id": p["id"], "slug": p["slug"], "type": "post", "status": "publish", "excerpt": p["excerpt"],
+          "seo_title": p.get("seo_title", p["title"]), "seo_description": p.get("seo_description", p["excerpt"])}
     front = "---\n" + "\n".join(f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in fm.items()) + "\n---\n\n"
     text = front + "\n\n".join(out) + "\n"
     bad = [c for c in ("—", "–") if c in text]

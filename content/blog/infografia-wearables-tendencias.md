@@ -5,6 +5,8 @@ slug: "infografia-wearables-tendencias"
 type: "post"
 status: "publish"
 excerpt: "Infografía de wearables: qué son, tipos de tecnología vestible, tendencias y cómo los relojes y dispositivos inteligentes cambian el marketing y los negocios."
+seo_title: "Wearables: tendencias y usos en negocios (infografía)"
+seo_description: "Infografía de wearables: qué son, tipos de tecnología vestible, tendencias y cómo los relojes y dispositivos inteligentes cambian el marketing y los negocios."
 ---
 
 Relojes inteligentes, pulseras de actividad, audífonos con sensores y lentes conectados: los wearables pasaron de curiosidad tecnológica a objetos de uso diario. Esta infografía resume sus tendencias.

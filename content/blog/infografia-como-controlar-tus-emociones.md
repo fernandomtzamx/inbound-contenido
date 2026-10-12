@@ -5,6 +5,8 @@ slug: infografia-como-controlar-tus-emociones
 type: post
 status: publish
 excerpt: "Infografía de las emociones: los 5 hábitos de la inteligencia emocional para controlar lo que sientes, explicados con ejemplos para aplicarlos en el trabajo."
+seo_title: "Cómo controlar tus emociones: 5 hábitos (infografía)"
+seo_description: "Infografía de las emociones: los 5 hábitos de la inteligencia emocional para controlar lo que sientes, explicados con ejemplos para aplicarlos en el trabajo."
 ---
 
 Controlar tus emociones no significa dejar de sentirlas, sino aprender a reconocerlas y decidir qué hacer con ellas antes de reaccionar. Esta infografía de las emociones resume en 5 hábitos cómo desarrollar tu inteligencia emocional, y abajo te explicamos cada uno con ejercicios concretos.

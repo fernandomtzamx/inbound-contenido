@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-jay-baer-el-social-media-es-un-ingrediente-no
 type: "post"
 status: "publish"
 excerpt: "Frase de Jay Baer: el social media es un ingrediente, no un platillo. Qué significa y cómo integrar las redes sociales en tu estrategia de negocio."
+seo_title: "Jay Baer: el social media es un ingrediente, no un platillo"
+seo_description: "Frase de Jay Baer: el social media es un ingrediente, no un platillo. Qué significa y cómo integrar las redes sociales en tu estrategia de negocio."
 ---
 
 Muchas empresas tratan las redes sociales como un fin en sí mismo: publicar, juntar seguidores y esperar ventas. Jay Baer lo explica con una metáfora de cocina que pone las cosas en su lugar.

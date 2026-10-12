@@ -5,6 +5,8 @@ slug: "inbound-marketing"
 type: "post"
 status: "publish"
 excerpt: "Qué es el inbound marketing: definición, metodología, etapas, diferencias con el outbound, beneficios y cómo implementarlo paso a paso en tu empresa en México."
+seo_title: "Qué es el inbound marketing, cómo funciona y cómo aplicarlo"
+seo_description: "Qué es el inbound marketing: definición, metodología, etapas, diferencias con el outbound, beneficios y cómo implementarlo paso a paso en tu empresa en México."
 ---
 
 El inbound marketing es una metodología que atrae clientes con contenido y experiencias útiles, en lugar de interrumpirlos con publicidad. En vez de salir a buscar compradores, haces que ellos te encuentren cuando buscan resolver un problema, y los acompañas hasta la compra y después de ella.

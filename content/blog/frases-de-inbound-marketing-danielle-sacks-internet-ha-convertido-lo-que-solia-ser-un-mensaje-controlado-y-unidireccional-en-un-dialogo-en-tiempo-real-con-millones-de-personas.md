@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-danielle-sacks-internet-ha-convertido-lo-que-
 type: "post"
 status: "publish"
 excerpt: "Frase de Danielle Sacks: internet convirtió un mensaje unidireccional en un diálogo en tiempo real con millones de personas. Qué significa para tu marca."
+seo_title: "Danielle Sacks: internet es un diálogo en tiempo real"
+seo_description: "Frase de Danielle Sacks: internet convirtió un mensaje unidireccional en un diálogo en tiempo real con millones de personas. Qué significa para tu marca."
 ---
 
 Antes, las marcas hablaban y el público escuchaba. Esta frase de la periodista Danielle Sacks describe cómo internet cambió esa relación para siempre.

@@ -5,6 +5,8 @@ slug: "infografia-buenas-practicas-para-la-seguridad-de-la-informacion-en-la-ges
 type: "post"
 status: "publish"
 excerpt: "Infografía de seguridad en redes sociales: buenas prácticas para proteger las cuentas de tu empresa, evitar robos de acceso y gestionar permisos del equipo."
+seo_title: "Seguridad en redes sociales: buenas prácticas (infografía)"
+seo_description: "Infografía de seguridad en redes sociales: buenas prácticas para proteger las cuentas de tu empresa, evitar robos de acceso y gestionar permisos del equipo."
 ---
 
 Las cuentas de redes sociales de una empresa son un activo: concentran a su comunidad, su reputación y, muchas veces, su canal de ventas. Perder el acceso o sufrir un hackeo puede costar meses de trabajo. Esta infografía resume buenas prácticas de seguridad para gestionarlas.

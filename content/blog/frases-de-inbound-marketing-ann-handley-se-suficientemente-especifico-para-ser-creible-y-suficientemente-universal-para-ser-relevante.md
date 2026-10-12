@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-ann-handley-se-suficientemente-especifico-par
 type: "post"
 status: "publish"
 excerpt: "Frase de Ann Handley: sé suficientemente específico para ser creíble y universal para ser relevante. Qué significa y cómo aplicarla al escribir contenido."
+seo_title: "Ann Handley: sé específico para ser creíble"
+seo_description: "Frase de Ann Handley: sé suficientemente específico para ser creíble y universal para ser relevante. Qué significa y cómo aplicarla al escribir contenido."
 ---
 
 El contenido genérico no convence a nadie, y el demasiado técnico solo le habla a unos cuantos. Ann Handley resume en una frase el equilibrio que necesita cualquier texto de marketing.

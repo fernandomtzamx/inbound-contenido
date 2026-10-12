@@ -5,6 +5,8 @@ slug: "infografia-mapa-de-marketing-digital-para-empresas"
 type: "post"
 status: "publish"
 excerpt: "Infografía con el mapa de marketing digital para empresas: canales, herramientas y cómo se conectan sitio web, SEO, contenido, redes, correo y publicidad."
+seo_title: "Mapa de marketing digital para empresas (infografía)"
+seo_description: "Infografía con el mapa de marketing digital para empresas: canales, herramientas y cómo se conectan sitio web, SEO, contenido, redes, correo y publicidad."
 ---
 
 El marketing digital tiene muchos canales y es fácil perderse. Esta infografía presenta un mapa de marketing digital para empresas; aquí te explicamos cada pieza y cómo se conectan en una estrategia.

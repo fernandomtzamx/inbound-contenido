@@ -5,6 +5,8 @@ slug: "libros-sobre-comunicacion-efectiva-para-emprendedores"
 type: "post"
 status: "publish"
 excerpt: "Libros sobre comunicación efectiva para emprendedores y líderes: clásicos para hablar mejor, negociar, dar retroalimentación y transmitir ideas que se recuerdan."
+seo_title: "Libros sobre comunicación efectiva para emprendedores"
+seo_description: "Libros sobre comunicación efectiva para emprendedores y líderes: clásicos para hablar mejor, negociar, dar retroalimentación y transmitir ideas que se recuerdan."
 ---
 
 Un emprendedor comunica todo el tiempo: vende su idea a clientes, inversionistas y a su propio equipo. Estos libros sobre comunicación efectiva te ayudan a hablar con más claridad, escuchar mejor y manejar conversaciones difíciles.

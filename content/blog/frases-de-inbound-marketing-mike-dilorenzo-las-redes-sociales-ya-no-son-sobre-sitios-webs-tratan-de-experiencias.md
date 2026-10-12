@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-mike-dilorenzo-las-redes-sociales-ya-no-son-s
 type: "post"
 status: "publish"
 excerpt: "Frase de Mike DiLorenzo: las redes sociales ya no son sobre sitios web, tratan de experiencias. Qué significa y cómo crear experiencias de marca en redes."
+seo_title: "Mike DiLorenzo: las redes sociales tratan de experiencias"
+seo_description: "Frase de Mike DiLorenzo: las redes sociales ya no son sobre sitios web, tratan de experiencias. Qué significa y cómo crear experiencias de marca en redes."
 ---
 
 Tener perfiles en redes sociales ya no es una ventaja: todas las marcas los tienen. Lo que marca la diferencia es la experiencia que vive la gente al interactuar contigo. Esa es la idea detrás de esta frase de Mike DiLorenzo.

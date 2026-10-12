@@ -5,6 +5,8 @@ slug: "infografia-starbucks-ingresos-a-nivel-mundial-nacional-y-valor-de-marca"
 type: "post"
 status: "publish"
 excerpt: "Infografía de Starbucks: ingresos mundiales y en América, países con más tiendas y valor de marca frente a McDonald's y Subway, con datos de 2012 a 2018."
+seo_title: "Starbucks: ingresos, tiendas y valor de marca (infografía)"
+seo_description: "Infografía de Starbucks: ingresos mundiales y en América, países con más tiendas y valor de marca frente a McDonald's y Subway, con datos de 2012 a 2018."
 ---
 
 Starbucks convirtió una taza de café en una experiencia de marca global. Esta infografía de Merca2.0 resume sus números hasta 2018.

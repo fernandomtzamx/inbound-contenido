@@ -5,6 +5,8 @@ slug: "que-es-el-marketing-en-nuevos-medios-new-media-marketing"
 type: "post"
 status: "publish"
 excerpt: "Qué es el marketing en nuevos medios o new media marketing: definición, diferencias con los medios tradicionales, canales principales y cómo aplicarlo en tu empresa."
+seo_title: "Qué es el marketing en nuevos medios (new media marketing)"
+seo_description: "Qué es el marketing en nuevos medios o new media marketing: definición, diferencias con los medios tradicionales, canales principales y cómo aplicarlo en tu empresa."
 ---
 
 El marketing en nuevos medios, o *new media marketing*, es el conjunto de estrategias para atraer público y clientes a través de los medios digitales e interactivos: buscadores, redes sociales, sitios web, aplicaciones, video en línea y mensajería.

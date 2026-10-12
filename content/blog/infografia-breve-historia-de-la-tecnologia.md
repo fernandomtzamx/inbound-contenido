@@ -5,6 +5,8 @@ slug: "infografia-breve-historia-de-la-tecnologia"
 type: "post"
 status: "publish"
 excerpt: "Infografía sobre la historia de la tecnología: los inventos que cambiaron el mundo, de la imprenta a internet y el teléfono inteligente, y su impacto en los negocios."
+seo_title: "Breve historia de la tecnología (infografía)"
+seo_description: "Infografía sobre la historia de la tecnología: los inventos que cambiaron el mundo, de la imprenta a internet y el teléfono inteligente, y su impacto en los negocios."
 ---
 
 De la rueda al teléfono inteligente, la tecnología ha cambiado la forma en que vivimos, trabajamos y hacemos negocios. Esta infografía sobre la historia de la tecnología resume los hitos principales; aquí los repasamos y vemos qué cambió cada uno para las empresas.

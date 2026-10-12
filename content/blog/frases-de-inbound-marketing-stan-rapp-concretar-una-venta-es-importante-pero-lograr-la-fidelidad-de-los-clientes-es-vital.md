@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-stan-rapp-concretar-una-venta-es-importante-p
 type: "post"
 status: "publish"
 excerpt: "Frase de Stan Rapp: concretar una venta es importante, pero lograr la fidelidad de los clientes es vital. Qué significa y cómo fidelizar a tus clientes."
+seo_title: "Stan Rapp: la fidelidad de los clientes es vital"
+seo_description: "Frase de Stan Rapp: concretar una venta es importante, pero lograr la fidelidad de los clientes es vital. Qué significa y cómo fidelizar a tus clientes."
 ---
 
 Conseguir un cliente nuevo cuesta tiempo y dinero; perderlo después de la primera compra desperdicia ese esfuerzo. Stan Rapp, pionero del marketing directo, lo dice así:

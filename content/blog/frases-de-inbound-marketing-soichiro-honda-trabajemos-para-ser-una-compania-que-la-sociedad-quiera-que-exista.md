@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-soichiro-honda-trabajemos-para-ser-una-compan
 type: "post"
 status: "publish"
 excerpt: "Frase de Soichiro Honda: trabajemos para ser una compañía que la sociedad quiera que exista. Quién fue el fundador de Honda y qué enseña a las empresas."
+seo_title: "Frase de Soichiro Honda: una empresa que la sociedad quiera"
+seo_description: "Frase de Soichiro Honda: trabajemos para ser una compañía que la sociedad quiera que exista. Quién fue el fundador de Honda y qué enseña a las empresas."
 ---
 
 El fundador de Honda tenía una idea clara del propósito de una empresa. Esta frase la resume.

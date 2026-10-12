@@ -5,6 +5,8 @@ slug: "infografia-elon-musk"
 type: "post"
 status: "publish"
 excerpt: "Infografía de Elon Musk: cómo organiza su día, sus bloques de 5 minutos, sus horas de trabajo y qué hábitos de productividad puedes adaptar a tu negocio."
+seo_title: "Infografía de Elon Musk: así organiza su día"
+seo_description: "Infografía de Elon Musk: cómo organiza su día, sus bloques de 5 minutos, sus horas de trabajo y qué hábitos de productividad puedes adaptar a tu negocio."
 ---
 
 Elon Musk dirige varias empresas a la vez, entre ellas Tesla y SpaceX. Esta infografía de Entrepreneur en Español, publicada en 2019, resume cómo organizaba su día según declaraciones suyas recogidas por la prensa.

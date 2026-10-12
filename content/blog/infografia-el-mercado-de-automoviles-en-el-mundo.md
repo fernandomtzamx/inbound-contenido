@@ -5,6 +5,8 @@ slug: "infografia-el-mercado-de-automoviles-en-el-mundo"
 type: "post"
 status: "publish"
 excerpt: "Infografía del mercado de automóviles en el mundo: ventas y producción global, los autos más caros y las mayores empresas de transporte, con datos de 2019."
+seo_title: "El mercado de automóviles en el mundo (infografía)"
+seo_description: "Infografía del mercado de automóviles en el mundo: ventas y producción global, los autos más caros y las mayores empresas de transporte, con datos de 2019."
 ---
 
 La industria automotriz es una de las más grandes del mundo y una de las más importantes para la economía mexicana. Esta infografía de Merca2.0, publicada en 2019, resume las cifras del mercado de automóviles en ese momento.

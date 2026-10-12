@@ -5,6 +5,8 @@ slug: "infografia-infonavit-mas-fuerte-que-nunca"
 type: "post"
 status: "publish"
 excerpt: "Infografía del Infonavit: qué es, cómo funciona el crédito para vivienda, la subcuenta de vivienda y qué significa para el mercado inmobiliario en México."
+seo_title: "Infonavit: qué es y cómo funciona su crédito (infografía)"
+seo_description: "Infografía del Infonavit: qué es, cómo funciona el crédito para vivienda, la subcuenta de vivienda y qué significa para el mercado inmobiliario en México."
 ---
 
 El Infonavit es la institución que más créditos hipotecarios otorga en México. Esta infografía, publicada en 2018, presentaba sus resultados de ese año. Aquí te explicamos qué es, cómo funciona y por qué importa al mercado inmobiliario.

@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-manuel-antonio-fernandez-nunca-fue-tan-facil-
 type: "post"
 status: "publish"
 excerpt: "Frase atribuida a Manuel Antonio Fernández: nunca fue tan fácil crear una marca ni que resultara irrelevante. Qué significa y cómo diferenciar tu marca."
+seo_title: "Nunca fue tan fácil crear una marca, ni volverla irrelevante"
+seo_description: "Frase atribuida a Manuel Antonio Fernández: nunca fue tan fácil crear una marca ni que resultara irrelevante. Qué significa y cómo diferenciar tu marca."
 ---
 
 Hoy cualquiera puede abrir una tienda en línea o una cuenta de negocio en minutos. Esta frase, atribuida a Manuel Antonio Fernández, señala el lado oscuro de esa facilidad.

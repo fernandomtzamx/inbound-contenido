@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-jonas-peretti-el-contenido-es-el-rey-pero-la-
 type: "post"
 status: "publish"
 excerpt: "El contenido es el rey, pero la distribución es la reina y lleva los pantalones. Quién dijo realmente esta frase de BuzzFeed y cómo distribuir tu contenido."
+seo_title: "El contenido es el rey, pero la distribución es la reina"
+seo_description: "El contenido es el rey, pero la distribución es la reina y lleva los pantalones. Quién dijo realmente esta frase de BuzzFeed y cómo distribuir tu contenido."
 ---
 
 Es una de las frases más compartidas del marketing de contenidos. Suele atribuirse a Jonah Peretti, fundador de BuzzFeed, pero quien la popularizó fue Jonathan Perelman, entonces directivo de esa empresa.

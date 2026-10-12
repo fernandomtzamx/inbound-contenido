@@ -5,6 +5,8 @@ slug: "infografia-jack-ma"
 type: "post"
 status: "publish"
 excerpt: "Infografía de Jack Ma: las lecciones del cofundador de Alibaba para crecer exponencialmente, innovar adaptando, rodearte de talento y construir cultura."
+seo_title: "Lecciones de Jack Ma para hacer crecer tu negocio"
+seo_description: "Infografía de Jack Ma: las lecciones del cofundador de Alibaba para crecer exponencialmente, innovar adaptando, rodearte de talento y construir cultura."
 ---
 
 Jack Ma pasó de ser maestro de inglés a cofundar Alibaba, uno de los gigantes del comercio electrónico. Esta infografía de Entrepreneur en Español, publicada en 2019, resume las lecciones de su método para crecer.

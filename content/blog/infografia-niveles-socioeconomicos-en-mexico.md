@@ -5,6 +5,8 @@ slug: "infografia-niveles-socioeconomicos-en-mexico"
 type: "post"
 status: "publish"
 excerpt: "Infografía de niveles socioeconómicos en México: los 7 niveles de la AMAI, cómo se clasifican los hogares y cómo usar el NSE para segmentar tu mercado."
+seo_title: "Niveles socioeconómicos en México: qué son y cómo usarlos"
+seo_description: "Infografía de niveles socioeconómicos en México: los 7 niveles de la AMAI, cómo se clasifican los hogares y cómo usar el NSE para segmentar tu mercado."
 ---
 
 Cuando una empresa habla de su mercado "A/B" o "C+", usa los niveles socioeconómicos (NSE). Esta infografía los resume; aquí te explicamos cómo se clasifican y cómo usarlos en tu marketing.

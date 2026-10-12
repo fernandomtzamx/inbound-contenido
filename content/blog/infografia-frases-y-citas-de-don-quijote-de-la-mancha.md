@@ -5,6 +5,8 @@ slug: "infografia-frases-y-citas-de-don-quijote-de-la-mancha"
 type: "post"
 status: "publish"
 excerpt: "Infografía de Don Quijote de la Mancha: las frases y citas más famosas de Cervantes y lo que enseñan hoy sobre liderazgo, emprendimiento y comunicación."
+seo_title: "Frases de Don Quijote de la Mancha y lo que enseñan hoy"
+seo_description: "Infografía de Don Quijote de la Mancha: las frases y citas más famosas de Cervantes y lo que enseñan hoy sobre liderazgo, emprendimiento y comunicación."
 ---
 
 *Don Quijote de la Mancha*, de Miguel de Cervantes, es una de las obras más importantes de la literatura en español. Esta infografía de Don Quijote reúne algunas de sus frases más conocidas; aquí las repasamos y vemos qué enseñan hoy a líderes y emprendedores.

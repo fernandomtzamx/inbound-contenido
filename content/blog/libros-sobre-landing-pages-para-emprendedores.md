@@ -5,6 +5,8 @@ slug: "libros-sobre-landing-pages-para-emprendedores"
 type: "post"
 status: "publish"
 excerpt: "Libros sobre landing pages para emprendedores: qué aprender para crear páginas que convierten y los libros clásicos de optimización, usabilidad y mensaje."
+seo_title: "Libros sobre landing pages para emprendedores"
+seo_description: "Libros sobre landing pages para emprendedores: qué aprender para crear páginas que convierten y los libros clásicos de optimización, usabilidad y mensaje."
 ---
 
 Una landing page o página de aterrizaje tiene un solo objetivo: que el visitante haga una acción concreta, como dejar sus datos, agendar una cita o comprar. Estos libros te ayudan a entender cómo diseñar, escribir y optimizar páginas que convierten.

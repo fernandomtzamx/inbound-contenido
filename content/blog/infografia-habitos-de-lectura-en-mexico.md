@@ -5,6 +5,8 @@ slug: "infografia-habitos-de-lectura-en-mexico"
 type: "post"
 status: "publish"
 excerpt: "Infografía de hábitos de lectura en México: cuántos adultos leen, qué materiales prefieren y el avance del libro electrónico, con datos del MOLEC del INEGI."
+seo_title: "Hábitos de lectura en México: qué leen los mexicanos"
+seo_description: "Infografía de hábitos de lectura en México: cuántos adultos leen, qué materiales prefieren y el avance del libro electrónico, con datos del MOLEC del INEGI."
 ---
 
 ¿Cuántos mexicanos leen y qué leen? Esta infografía de Merca2.0 resume los resultados del Módulo sobre Lectura (MOLEC) del INEGI entre 2015 y 2019.

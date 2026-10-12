@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-seth-godin-si-no-tienes-tiempo-para-hacer-las
 type: "post"
 status: "publish"
 excerpt: "Frase de Seth Godin: si no tienes tiempo para hacer las cosas bien, ¿qué te hace pensar que tendrás tiempo para hacerlas de nuevo? Qué significa."
+seo_title: "Seth Godin: si no tienes tiempo para hacerlo bien"
+seo_description: "Frase de Seth Godin: si no tienes tiempo para hacer las cosas bien, ¿qué te hace pensar que tendrás tiempo para hacerlas de nuevo? Qué significa."
 ---
 
 Las prisas suelen salir caras. Seth Godin lo plantea como una pregunta que todo emprendedor debería hacerse antes de entregar algo a medias.

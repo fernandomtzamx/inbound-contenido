@@ -5,6 +5,8 @@ slug: "infografia-industria-4-0"
 type: "post"
 status: "publish"
 excerpt: "Infografía de la industria 4.0: qué es la cuarta revolución industrial, sus tecnologías clave y cómo pueden aprovecharla las empresas y pymes mexicanas."
+seo_title: "Infografía de la industria 4.0: qué es y tecnologías clave"
+seo_description: "Infografía de la industria 4.0: qué es la cuarta revolución industrial, sus tecnologías clave y cómo pueden aprovecharla las empresas y pymes mexicanas."
 ---
 
 La industria 4.0 es el nombre de la cuarta revolución industrial: la integración de tecnologías digitales en la producción y los negocios. Esta infografía de la industria 4.0 resume sus elementos; aquí te explicamos qué es, de dónde viene y cómo aprovecharla.

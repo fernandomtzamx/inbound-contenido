@@ -5,6 +5,8 @@ slug: "infografia-funciones-de-un-director-comercial"
 type: "post"
 status: "publish"
 excerpt: "Infografía con las funciones de un director comercial: responsabilidades, habilidades, indicadores que mide y cómo se coordina con marketing en una empresa."
+seo_title: "Funciones de un director comercial (infografía)"
+seo_description: "Infografía con las funciones de un director comercial: responsabilidades, habilidades, indicadores que mide y cómo se coordina con marketing en una empresa."
 ---
 
 El director comercial es responsable de que la empresa venda lo que necesita para crecer. Esta infografía resume sus funciones; abajo las detallamos junto con las habilidades e indicadores que definen el puesto.

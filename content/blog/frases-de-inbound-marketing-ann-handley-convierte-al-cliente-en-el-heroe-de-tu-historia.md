@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-ann-handley-convierte-al-cliente-en-el-heroe-
 type: "post"
 status: "publish"
 excerpt: "Frase de Ann Handley: convierte al cliente en el héroe de tu historia. Qué significa, por qué funciona en storytelling y cómo aplicarla en tu marca."
+seo_title: "Ann Handley: convierte al cliente en el héroe de tu historia"
+seo_description: "Frase de Ann Handley: convierte al cliente en el héroe de tu historia. Qué significa, por qué funciona en storytelling y cómo aplicarla en tu marca."
 ---
 
 La mayoría de las marcas cuentan su historia como si ellas fueran las protagonistas. Ann Handley propone lo contrario: el héroe es tu cliente, y tu marca es quien lo ayuda a ganar.

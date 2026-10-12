@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-erik-qualman-no-tenemos-mas-opcion-que-hacer-
 type: "post"
 status: "publish"
 excerpt: "Frase de Erik Qualman: no tenemos opción sobre hacer social media, la cuestión es cómo hacerlo bien. Qué significa y 5 claves para hacerlo bien."
+seo_title: "Erik Qualman: cómo hacer bien social media"
+seo_description: "Frase de Erik Qualman: no tenemos opción sobre hacer social media, la cuestión es cómo hacerlo bien. Qué significa y 5 claves para hacerlo bien."
 ---
 
 Hace años, las empresas discutían si debían estar en redes sociales. Erik Qualman zanjó la discusión con una frase: estar ya no es opcional, lo que importa es hacerlo bien.

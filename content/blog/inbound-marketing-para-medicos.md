@@ -5,6 +5,8 @@ slug: "inbound-marketing-para-medicos"
 type: "post"
 status: "publish"
 excerpt: "Inbound marketing para médicos, clínicas y profesionales de la salud: cómo atraer pacientes con contenido útil, cuidar la privacidad y cumplir la regulación."
+seo_title: "Inbound marketing para médicos y profesionales de la salud"
+seo_description: "Inbound marketing para médicos, clínicas y profesionales de la salud: cómo atraer pacientes con contenido útil, cuidar la privacidad y cumplir la regulación."
 ---
 
 Antes de elegir a un médico, la mayoría de los pacientes busca en internet: síntomas, especialistas cerca, opiniones y precios. El inbound marketing para médicos y profesionales de la salud aprovecha esa búsqueda para que el paciente encuentre información confiable y, con ella, a tu consultorio o clínica.

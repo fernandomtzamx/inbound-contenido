@@ -5,6 +5,8 @@ slug: "infografia-consumo-de-noticias-por-edades"
 type: "post"
 status: "publish"
 excerpt: "Infografía del consumo de noticias por edades: cómo se informan jóvenes y adultos, en qué medios y qué significa para la comunicación de las marcas."
+seo_title: "Consumo de noticias por edades (infografía)"
+seo_description: "Infografía del consumo de noticias por edades: cómo se informan jóvenes y adultos, en qué medios y qué significa para la comunicación de las marcas."
 ---
 
 Un joven de 20 años y un adulto de 60 se informan de formas muy distintas. Esta infografía compara el consumo de noticias por edades; aquí resumimos las tendencias y lo que significan para las marcas.

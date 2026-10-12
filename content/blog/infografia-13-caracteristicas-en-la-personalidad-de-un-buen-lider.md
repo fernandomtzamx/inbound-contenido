@@ -5,6 +5,8 @@ slug: "infografia-13-caracteristicas-en-la-personalidad-de-un-buen-lider"
 type: "post"
 status: "publish"
 excerpt: "Infografía con las características de la personalidad de un buen líder: 13 rasgos que distinguen a los líderes efectivos y cómo desarrollarlos en tu equipo."
+seo_title: "13 características de la personalidad de un buen líder"
+seo_description: "Infografía con las características de la personalidad de un buen líder: 13 rasgos que distinguen a los líderes efectivos y cómo desarrollarlos en tu equipo."
 ---
 
 Un buen líder no nace con un título: se construye con hábitos y rasgos que inspiran confianza. Esta infografía resume características de la personalidad de un buen líder; aquí las desarrollamos con ejemplos de cómo se ven en el trabajo diario.

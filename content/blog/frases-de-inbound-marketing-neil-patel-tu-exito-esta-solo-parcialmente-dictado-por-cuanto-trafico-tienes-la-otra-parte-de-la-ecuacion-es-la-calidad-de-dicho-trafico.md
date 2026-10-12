@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-neil-patel-tu-exito-esta-solo-parcialmente-di
 type: "post"
 status: "publish"
 excerpt: "Frase de Neil Patel sobre la calidad del tráfico: qué significa, por qué más visitas no siempre son más ventas y cómo atraer tráfico que sí convierte."
+seo_title: "Neil Patel: la calidad del tráfico importa más que el volumen"
+seo_description: "Frase de Neil Patel sobre la calidad del tráfico: qué significa, por qué más visitas no siempre son más ventas y cómo atraer tráfico que sí convierte."
 ---
 
 Más visitas no siempre significan más ventas. Esta frase de Neil Patel resume una de las lecciones más importantes del marketing digital: el éxito depende de cuánta gente llega a tu sitio, pero también de si son las personas correctas.

@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-guy-kawasaki-cuando-hechizas-a-la-gente-tu-me
 type: "post"
 status: "publish"
 excerpt: "Frase de Guy Kawasaki: cuando hechizas a la gente, tu meta no es hacer dinero sino darles satisfacción. Qué significa y cómo cautivar a tus clientes."
+seo_title: "Guy Kawasaki: el arte de cautivar a tus clientes"
+seo_description: "Frase de Guy Kawasaki: cuando hechizas a la gente, tu meta no es hacer dinero sino darles satisfacción. Qué significa y cómo cautivar a tus clientes."
 ---
 
 Guy Kawasaki, uno de los primeros evangelistas de Apple, escribió un libro entero sobre cómo cautivar a las personas. Esta frase resume su idea central.

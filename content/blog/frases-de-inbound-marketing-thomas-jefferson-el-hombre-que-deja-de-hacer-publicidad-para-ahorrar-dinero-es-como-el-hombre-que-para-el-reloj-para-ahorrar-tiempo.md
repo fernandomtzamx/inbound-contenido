@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-thomas-jefferson-el-hombre-que-deja-de-hacer-
 type: "post"
 status: "publish"
 excerpt: "Frase atribuida a Thomas Jefferson y a Henry Ford: dejar de hacer publicidad para ahorrar es como parar el reloj para ahorrar tiempo. Qué significa."
+seo_title: "Dejar de anunciarse para ahorrar es parar el reloj"
+seo_description: "Frase atribuida a Thomas Jefferson y a Henry Ford: dejar de hacer publicidad para ahorrar es como parar el reloj para ahorrar tiempo. Qué significa."
 ---
 
 Cuando las ventas bajan, lo primero que muchas empresas recortan es el marketing. Esta frase advierte por qué esa decisión suele salir cara.

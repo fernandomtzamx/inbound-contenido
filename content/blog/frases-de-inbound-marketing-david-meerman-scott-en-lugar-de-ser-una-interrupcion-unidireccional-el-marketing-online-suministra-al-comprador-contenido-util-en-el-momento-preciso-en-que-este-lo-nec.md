@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-david-meerman-scott-en-lugar-de-ser-una-inter
 type: "post"
 status: "publish"
 excerpt: "Frase de David Meerman Scott: el marketing online da al comprador contenido útil en el momento preciso. Qué significa y cómo aplicarla con inbound."
+seo_title: "David Meerman Scott: contenido útil en el momento preciso"
+seo_description: "Frase de David Meerman Scott: el marketing online da al comprador contenido útil en el momento preciso. Qué significa y cómo aplicarla con inbound."
 ---
 
 Esta frase de David Meerman Scott explica en una línea la diferencia entre el marketing tradicional y el inbound marketing: dejar de interrumpir y empezar a ayudar.

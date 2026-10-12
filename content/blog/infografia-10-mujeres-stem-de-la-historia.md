@@ -5,6 +5,8 @@ slug: "infografia-10-mujeres-stem-de-la-historia"
 type: "post"
 status: "publish"
 excerpt: "Infografía de mujeres STEM de la historia: 10 científicas, matemáticas e ingenieras que cambiaron el mundo y qué nos enseñan sobre innovación y liderazgo."
+seo_title: "10 mujeres STEM que cambiaron la historia (infografía)"
+seo_description: "Infografía de mujeres STEM de la historia: 10 científicas, matemáticas e ingenieras que cambiaron el mundo y qué nos enseñan sobre innovación y liderazgo."
 ---
 
 STEM es la sigla en inglés de ciencia, tecnología, ingeniería y matemáticas. Esta infografía reconoce a mujeres que hicieron aportes fundamentales en esas áreas. Aquí repasamos a diez de las científicas más influyentes y lo que su historia enseña a líderes y emprendedores.

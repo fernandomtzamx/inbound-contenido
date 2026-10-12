@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-tom-fishburne-el-mejor-marketing-no-parece-ma
 type: "post"
 status: "publish"
 excerpt: "Frase de Tom Fishburne: el mejor marketing no parece marketing. Quién es el creador de Marketoonist, qué significa y cómo crear marketing que ayuda."
+seo_title: "Tom Fishburne: el mejor marketing no parece marketing"
+seo_description: "Frase de Tom Fishburne: el mejor marketing no parece marketing. Quién es el creador de Marketoonist, qué significa y cómo crear marketing que ayuda."
 ---
 
 Las personas evitan los anuncios, pero buscan contenido que les sirva. Tom Fishburne lo resume en siete palabras.

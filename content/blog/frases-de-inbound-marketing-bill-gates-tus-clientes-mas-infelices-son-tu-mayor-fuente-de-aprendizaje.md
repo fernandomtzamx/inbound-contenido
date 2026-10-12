@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-bill-gates-tus-clientes-mas-infelices-son-tu-
 type: "post"
 status: "publish"
 excerpt: "Frase de Bill Gates: tus clientes más insatisfechos son tu mayor fuente de aprendizaje. De dónde viene, qué significa y cómo aprovechar las quejas."
+seo_title: "Bill Gates: tus clientes más infelices te enseñan más"
+seo_description: "Frase de Bill Gates: tus clientes más insatisfechos son tu mayor fuente de aprendizaje. De dónde viene, qué significa y cómo aprovechar las quejas."
 ---
 
 Las quejas incomodan, pero son información valiosa. Bill Gates lo dijo en una frase que se repite en cualquier curso de servicio al cliente.

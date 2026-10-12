@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-vilma-nunez-mezclar-la-parte-personal-con-la-
 type: "post"
 status: "publish"
 excerpt: "Frase de Vilma Núñez sobre mezclar lo personal y lo profesional en Instagram. Qué significa y cómo construir tu marca personal en redes sociales."
+seo_title: "Vilma Núñez: lo personal y lo profesional en Instagram"
+seo_description: "Frase de Vilma Núñez sobre mezclar lo personal y lo profesional en Instagram. Qué significa y cómo construir tu marca personal en redes sociales."
 ---
 
 ¿Hay que separar por completo la vida personal del trabajo en redes sociales? Vilma Núñez, una de las voces más conocidas del marketing digital en español, comparte su experiencia.

@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-alex-pallete-lo-que-construye-la-marca-no-es-
 type: "post"
 status: "publish"
 excerpt: "Frase de Alex Pàllete: lo que construye la marca no es el mensaje, es la experiencia que se vive con ella. Qué significa y cómo diseñar esa experiencia."
+seo_title: "Alex Pàllete: la marca se construye con la experiencia"
+seo_description: "Frase de Alex Pàllete: lo que construye la marca no es el mensaje, es la experiencia que se vive con ella. Qué significa y cómo diseñar esa experiencia."
 ---
 
 Puedes decir que tu servicio es excelente, pero tus clientes creerán lo que vivan. Alex Pàllete lo resume así:

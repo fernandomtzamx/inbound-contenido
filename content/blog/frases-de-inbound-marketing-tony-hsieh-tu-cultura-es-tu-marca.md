@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-tony-hsieh-tu-cultura-es-tu-marca"
 type: "post"
 status: "publish"
 excerpt: "Frase de Tony Hsieh, exdirector de Zappos: tu cultura es tu marca. Qué significa y cómo la cultura de tu empresa se convierte en tu mejor marketing."
+seo_title: "Tony Hsieh: tu cultura es tu marca"
+seo_description: "Frase de Tony Hsieh, exdirector de Zappos: tu cultura es tu marca. Qué significa y cómo la cultura de tu empresa se convierte en tu mejor marketing."
 ---
 
 Zappos se hizo famosa por su servicio al cliente, y su director explicó el secreto en cuatro palabras.

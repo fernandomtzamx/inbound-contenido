@@ -5,6 +5,8 @@ slug: "libros-sobre-marketing-en-whatsapp-para-emprendedores"
 type: "post"
 status: "publish"
 excerpt: "Marketing en WhatsApp para emprendedores: cómo usar WhatsApp Business para vender, buenas prácticas para no ser spam y libros sobre marketing conversacional."
+seo_title: "Marketing en WhatsApp para emprendedores: guía y libros"
+seo_description: "Marketing en WhatsApp para emprendedores: cómo usar WhatsApp Business para vender, buenas prácticas para no ser spam y libros sobre marketing conversacional."
 ---
 
 WhatsApp es la aplicación de mensajería más usada en México, y para muchos emprendedores es su principal canal de ventas. Aquí te explicamos cómo usarlo bien y qué libros te ayudan a entender el marketing conversacional.

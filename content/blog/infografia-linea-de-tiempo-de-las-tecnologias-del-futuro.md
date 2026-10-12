@@ -5,6 +5,8 @@ slug: "infografia-linea-de-tiempo-de-las-tecnologias-del-futuro"
 type: "post"
 status: "publish"
 excerpt: "Infografía con la línea de tiempo de las tecnologías del futuro: inteligencia artificial, vehículos autónomos, computación cuántica y cómo prepararse en los negocios."
+seo_title: "Línea de tiempo de las tecnologías del futuro (infografía)"
+seo_description: "Infografía con la línea de tiempo de las tecnologías del futuro: inteligencia artificial, vehículos autónomos, computación cuántica y cómo prepararse en los negocios."
 ---
 
 ¿Qué tecnologías cambiarán la forma en que vivimos y trabajamos? Esta infografía, publicada en 2017, propone una línea de tiempo de las tecnologías del futuro. Algunas de esas predicciones ya llegaron y otras siguen en desarrollo.

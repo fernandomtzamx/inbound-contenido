@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-risto-mejide-si-cuando-hablas-nadie-se-molest
 type: "post"
 status: "publish"
 excerpt: "Frase de Risto Mejide: si cuando hablas nadie se molesta, no has dicho nada. Qué significa y cómo comunicar con una postura clara en tu marca."
+seo_title: "Frase de Risto Mejide: si nadie se molesta, no has dicho nada"
+seo_description: "Frase de Risto Mejide: si cuando hablas nadie se molesta, no has dicho nada. Qué significa y cómo comunicar con una postura clara en tu marca."
 ---
 
 El publicista español Risto Mejide es conocido por sus opiniones sin filtro. Esta frase suya es una invitación a comunicar con una postura clara.

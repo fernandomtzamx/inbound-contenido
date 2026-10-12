@@ -5,6 +5,8 @@ slug: "libros-sobre-publicidad-creativa-para-emprendedores"
 type: "post"
 status: "publish"
 excerpt: "Libros sobre publicidad creativa para emprendedores: los clásicos de David Ogilvy y otros autores para crear anuncios que se recuerdan y venden."
+seo_title: "Libros sobre publicidad creativa para emprendedores"
+seo_description: "Libros sobre publicidad creativa para emprendedores: los clásicos de David Ogilvy y otros autores para crear anuncios que se recuerdan y venden."
 ---
 
 La buena publicidad combina una idea creativa con una estrategia clara. Estos libros, escritos por algunos de los publicistas más influyentes, te enseñan a crear mensajes que se recuerdan y venden.

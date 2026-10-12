@@ -5,6 +5,8 @@ slug: "infografia-conociendo-los-emojis"
 type: "post"
 status: "publish"
 excerpt: "Infografía sobre la historia de los emojis: quién los creó, cómo llegaron a todos los teléfonos y cómo usarlos bien en la comunicación de tu marca."
+seo_title: "Historia de los emojis y cómo usarlos en marketing"
+seo_description: "Infografía sobre la historia de los emojis: quién los creó, cómo llegaron a todos los teléfonos y cómo usarlos bien en la comunicación de tu marca."
 ---
 
 Los emojis son parte del lenguaje cotidiano en mensajes y redes sociales. Esta infografía de Merca2.0 repasa su historia; aquí la resumimos y te damos consejos para usarlos en la comunicación de tu marca.

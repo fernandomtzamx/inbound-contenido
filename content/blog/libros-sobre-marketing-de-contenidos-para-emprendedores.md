@@ -5,6 +5,8 @@ slug: "libros-sobre-marketing-de-contenidos-para-emprendedores"
 type: "post"
 status: "publish"
 excerpt: "Libros sobre marketing de contenidos para emprendedores: los clásicos de Joe Pulizzi, Ann Handley y Marcus Sheridan, y cómo aplicarlos en tu plan de contenidos."
+seo_title: "Libros sobre marketing de contenidos para emprendedores"
+seo_description: "Libros sobre marketing de contenidos para emprendedores: los clásicos de Joe Pulizzi, Ann Handley y Marcus Sheridan, y cómo aplicarlos en tu plan de contenidos."
 ---
 
 El marketing de contenidos es la base del inbound marketing: atraer clientes con información útil en lugar de interrumpirlos con anuncios. Estos libros explican cómo planear, crear y distribuir contenido que genera negocio.

@@ -5,6 +5,8 @@ slug: "martech-autofintech-experiencia-de-venta-de-autos"
 type: "post"
 status: "publish"
 excerpt: "Martech y autofintech en concesionarias de autos: 5 claves para mejorar la experiencia de compra, el financiamiento y la confianza más allá de la venta."
+seo_title: "Martech y autofintech en agencias de autos: 5 claves"
+seo_description: "Martech y autofintech en concesionarias de autos: 5 claves para mejorar la experiencia de compra, el financiamiento y la confianza más allá de la venta."
 ---
 
 Comprar un auto ya no empieza en la agencia. El cliente investiga modelos, compara precios, calcula mensualidades y lee opiniones antes de visitar una concesionaria. Las agencias que adoptan herramientas de **martech** (tecnología de marketing) y **autofintech** (tecnología financiera para la compra de autos) ofrecen una experiencia más rápida, clara y confiable.

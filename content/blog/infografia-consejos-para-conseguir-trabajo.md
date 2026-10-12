@@ -5,6 +5,8 @@ slug: "infografia-consejos-para-conseguir-trabajo"
 type: "post"
 status: "publish"
 excerpt: "Infografía con consejos para conseguir trabajo: cómo preparar tu CV, buscar vacantes, usar LinkedIn, prepararte para la entrevista y construir tu marca personal."
+seo_title: "Consejos para conseguir trabajo (infografía)"
+seo_description: "Infografía con consejos para conseguir trabajo: cómo preparar tu CV, buscar vacantes, usar LinkedIn, prepararte para la entrevista y construir tu marca personal."
 ---
 
 Buscar trabajo es, en el fondo, un proceso de marketing: tú eres el producto y el reclutador, el cliente. Esta infografía reúne consejos para conseguir trabajo; aquí los organizamos por etapas.

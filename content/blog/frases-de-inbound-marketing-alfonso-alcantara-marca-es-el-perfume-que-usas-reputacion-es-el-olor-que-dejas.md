@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-alfonso-alcantara-marca-es-el-perfume-que-usa
 type: "post"
 status: "publish"
 excerpt: "Frase de Alfonso Alcántara sobre marca y reputación: la marca es el perfume que usas y la reputación el olor que dejas. Qué significa y cómo cuidarlas."
+seo_title: "Marca es el perfume que usas, reputación el olor que dejas"
+seo_description: "Frase de Alfonso Alcántara sobre marca y reputación: la marca es el perfume que usas y la reputación el olor que dejas. Qué significa y cómo cuidarlas."
 ---
 
 La marca es lo que dices de ti; la reputación, lo que otros dicen cuando te vas. Alfonso Alcántara lo explica con una metáfora fácil de recordar.

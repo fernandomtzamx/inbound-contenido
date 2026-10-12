@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-avinash-kaushik-solo-podremos-tomar-decisione
 type: "post"
 status: "publish"
 excerpt: "Frase de Avinash Kaushik sobre analizar e interpretar datos para tomar decisiones. Quién es, qué significa y cómo usar la analítica en tu marketing."
+seo_title: "Avinash Kaushik: decide con datos, no con intuición"
+seo_description: "Frase de Avinash Kaushik sobre analizar e interpretar datos para tomar decisiones. Quién es, qué significa y cómo usar la analítica en tu marketing."
 ---
 
 Tener datos no es lo mismo que saber usarlos. Avinash Kaushik, una de las figuras más influyentes de la analítica web, lo resume en una frase que aplica a cualquier negocio.

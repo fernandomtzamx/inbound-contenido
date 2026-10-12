@@ -5,6 +5,8 @@ slug: "ejemplos-de-inbound-marketing-en-mexico"
 type: "post"
 status: "publish"
 excerpt: "Ejemplos de inbound marketing en México para agencias, pymes, empresas con poco presupuesto y grandes empresas, con estrategias, herramientas y errores a evitar."
+seo_title: "Ejemplos de inbound marketing en México por tipo de empresa"
+seo_description: "Ejemplos de inbound marketing en México para agencias, pymes, empresas con poco presupuesto y grandes empresas, con estrategias, herramientas y errores a evitar."
 ---
 
 El inbound marketing funciona distinto según el tamaño y el tipo de empresa. En este artículo comparto ejemplos de cómo se aplica en México, a partir de mi experiencia ayudando a agencias, pymes y empresas grandes a implementar esta estrategia.

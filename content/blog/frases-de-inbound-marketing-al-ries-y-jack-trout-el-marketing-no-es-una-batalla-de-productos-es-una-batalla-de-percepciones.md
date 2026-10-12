@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-al-ries-y-jack-trout-el-marketing-no-es-una-b
 type: "post"
 status: "publish"
 excerpt: "Frase de Al Ries y Jack Trout: el marketing no es una batalla de productos, es una batalla de percepciones. Qué significa y cómo posicionar tu marca."
+seo_title: "Al Ries y Jack Trout: el marketing es batalla de percepciones"
+seo_description: "Frase de Al Ries y Jack Trout: el marketing no es una batalla de productos, es una batalla de percepciones. Qué significa y cómo posicionar tu marca."
 ---
 
 No gana el mejor producto, gana el que el cliente percibe como mejor. Esta idea de Al Ries y Jack Trout es la base del concepto de posicionamiento, uno de los más importantes del marketing.

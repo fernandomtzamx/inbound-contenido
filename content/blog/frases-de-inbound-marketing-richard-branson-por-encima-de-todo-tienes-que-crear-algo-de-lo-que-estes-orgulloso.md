@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-richard-branson-por-encima-de-todo-tienes-que
 type: "post"
 status: "publish"
 excerpt: "Frase de Richard Branson: por encima de todo, tienes que crear algo de lo que estés orgulloso. Quién es el fundador de Virgin y qué enseña a emprendedores."
+seo_title: "Frase de Richard Branson: crea algo de lo que estés orgulloso"
+seo_description: "Frase de Richard Branson: por encima de todo, tienes que crear algo de lo que estés orgulloso. Quién es el fundador de Virgin y qué enseña a emprendedores."
 ---
 
 Richard Branson ha fundado empresas de música, aviación, telefonía y viajes espaciales. Su consejo para emprendedores empieza por algo muy simple.

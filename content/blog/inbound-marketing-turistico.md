@@ -5,6 +5,8 @@ slug: "inbound-marketing-turistico"
 type: "post"
 status: "publish"
 excerpt: "Inbound marketing turístico: buenas prácticas para hoteles, destinos y agencias de viajes, con ideas de contenido, reservaciones directas y reseñas."
+seo_title: "Inbound marketing turístico: buenas prácticas para atraer viajeros"
+seo_description: "Inbound marketing turístico: buenas prácticas para hoteles, destinos y agencias de viajes, con ideas de contenido, reservaciones directas y reseñas."
 ---
 
 El viajero de hoy planea en internet: busca destinos, compara hoteles, lee reseñas y ve videos antes de reservar. El inbound marketing turístico aprovecha ese proceso para que tu hotel, destino o agencia aparezca con contenido útil en cada etapa y gane la reservación.

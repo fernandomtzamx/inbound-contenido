@@ -5,6 +5,8 @@ slug: "libros-sobre-marketing-digital-para-emprendedores"
 type: "post"
 status: "publish"
 excerpt: "Libros de marketing digital para emprendedores: los títulos clásicos sobre inbound marketing, contenido, marca y ventas que te ayudan a vender más en internet."
+seo_title: "Libros de marketing digital para emprendedores"
+seo_description: "Libros de marketing digital para emprendedores: los títulos clásicos sobre inbound marketing, contenido, marca y ventas que te ayudan a vender más en internet."
 ---
 
 El marketing digital cambia rápido, pero sus principios son estables: entender al cliente, aportar valor y medir resultados. Estos libros de marketing digital para emprendedores explican esos principios con claridad.

@@ -5,6 +5,8 @@ slug: "infografia-publicidad-en-internet-gasto-global-por-tipo-y-estrategias-mas
 type: "post"
 status: "publish"
 excerpt: "Infografía de publicidad en internet: gasto global por tipo de anuncio, empresas de internet más valiosas y categorías de tráfico, con datos de 2018 y 2019."
+seo_title: "Publicidad en internet: gasto global por tipo (infografía)"
+seo_description: "Infografía de publicidad en internet: gasto global por tipo de anuncio, empresas de internet más valiosas y categorías de tráfico, con datos de 2018 y 2019."
 ---
 
 ¿En qué formatos de publicidad digital invierten más las empresas? Esta infografía de Merca2.0, publicada en 2019, resume el gasto global en publicidad en internet y otros datos del mercado digital de ese momento.

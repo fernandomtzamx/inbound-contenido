@@ -237,6 +237,15 @@ def publish(wp, path):
     }
     if meta.get("excerpt"):
         payload["excerpt"] = meta["excerpt"]
+    # Title y meta description de Yoast (requiere wordpress/mu-plugins/inbound-yoast-rest.php;
+    # sin él, WordPress ignora estos campos sin error).
+    seo = {}
+    if meta.get("seo_title"):
+        seo["_yoast_wpseo_title"] = meta["seo_title"]
+    if meta.get("seo_description"):
+        seo["_yoast_wpseo_metadesc"] = meta["seo_description"]
+    if seo:
+        payload["meta"] = seo
     if meta.get("date"):
         # Fecha local de Ciudad de México (UTC-6, sin horario de verano desde 2022).
         local = datetime.datetime.fromisoformat(str(meta["date"]))
@@ -269,7 +278,12 @@ def publish(wp, path):
     else:
         res = wp.req("POST", endpoint, json=payload)
         action = "creada"
-    print(f"{path.relative_to(ROOT)}: {kind} {action} ({res['status']}) id={res['id']} {res['link']}")
+    note = ""
+    if seo:
+        saved = res.get("meta") or {}
+        note = " | Yoast: " + ("guardado" if all(saved.get(k) == v for k, v in seo.items())
+                               else "NO guardado (falta el mu-plugin inbound-yoast-rest.php)")
+    print(f"{path.relative_to(ROOT)}: {kind} {action} ({res['status']}) id={res['id']} {res['link']}{note}")
 
 
 def main():

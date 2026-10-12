@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-heidi-minx-aprende-las-reglas-despues-aprende
 type: "post"
 status: "publish"
 excerpt: "Frase atribuida a Heidi Minx: aprende las reglas, después aprende cómo cambiarlas y haz que los demás las sigan. Qué significa para líderes y emprendedores."
+seo_title: "Heidi Minx: aprende las reglas y luego cámbialas"
+seo_description: "Frase atribuida a Heidi Minx: aprende las reglas, después aprende cómo cambiarlas y haz que los demás las sigan. Qué significa para líderes y emprendedores."
 ---
 
 Romper las reglas sin conocerlas es improvisar; cambiarlas después de dominarlas es innovar. Esta frase, atribuida a Heidi Minx, describe ese camino en tres pasos.

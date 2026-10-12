@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-mirna-bard-el-branding-no-tiene-que-ver-con-e
 type: "post"
 status: "publish"
 excerpt: "Frase de Mirna Bard: el branding no es el slogan ni el logotipo, es la personalidad de tu marca. Qué significa y cómo definir la personalidad de tu marca."
+seo_title: "Mirna Bard: el branding es la personalidad de tu marca"
+seo_description: "Frase de Mirna Bard: el branding no es el slogan ni el logotipo, es la personalidad de tu marca. Qué significa y cómo definir la personalidad de tu marca."
 ---
 
 Muchas empresas creen que hacer branding es diseñar un logo. Mirna Bard aclara que el branding va mucho más allá.

@@ -5,6 +5,8 @@ slug: "formatos-contenido"
 type: "post"
 status: "publish"
 excerpt: "10 formatos de contenido que debes usar en tu blog: tutoriales, listas, comparativas, infografías, casos, checklists y más, con ejemplos y en qué etapa usar cada uno."
+seo_title: "10 formatos de contenido para tu blog (con ejemplos)"
+seo_description: "10 formatos de contenido que debes usar en tu blog: tutoriales, listas, comparativas, infografías, casos, checklists y más, con ejemplos y en qué etapa usar cada uno."
 ---
 
 Si tu empresa ya tiene un blog, tarde o temprano llegará la sequía de ideas: no sabrás sobre qué escribir. Variar los formatos de contenido es la forma más sencilla de encontrar nuevos temas, llegar a más personas y servir a tus clientes en cada etapa de su compra.

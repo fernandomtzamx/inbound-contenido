@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-ana-garcia-oliveros-el-marketing-es-el-arte-d
 type: "post"
 status: "publish"
 excerpt: "Frase de Ana García Oliveros: el marketing es el arte de la persuasión y la ciencia que crea valor económico sostenido. Qué significa y cómo aplicarla."
+seo_title: "El marketing es el arte de la persuasión y la ciencia del valor"
+seo_description: "Frase de Ana García Oliveros: el marketing es el arte de la persuasión y la ciencia que crea valor económico sostenido. Qué significa y cómo aplicarla."
 ---
 
 ¿El marketing es arte o ciencia? Esta definición, atribuida a Ana García Oliveros, responde que es las dos cosas.

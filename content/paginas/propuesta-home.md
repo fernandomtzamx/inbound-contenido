@@ -6,6 +6,8 @@ type: page
 status: publish
 layout: raw
 excerpt: "Agencia de inbound marketing en México: SEO, contenido, automatización, CRM e inbound sales para convertir tu sitio en tu mejor vendedor. Diagnóstico gratis."
+seo_title: "Agencia de Inbound Marketing en México | INBOUND"
+seo_description: "Agencia de inbound marketing en México: SEO, contenido, automatización, CRM e inbound sales para generar prospectos y ventas. Agenda tu diagnóstico gratis."
 ---
 
 <!-- wp:html -->

@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-philip-kotler-no-vigile-el-ciclo-de-vida-del-
 type: "post"
 status: "publish"
 excerpt: "Frase de Philip Kotler: no vigile el ciclo de vida del producto, vigile el del mercado. Qué significa, quién es Kotler y cómo aplicarla en tu negocio."
+seo_title: "Frase de Philip Kotler: vigila el ciclo de vida del mercado"
+seo_description: "Frase de Philip Kotler: no vigile el ciclo de vida del producto, vigile el del mercado. Qué significa, quién es Kotler y cómo aplicarla en tu negocio."
 ---
 
 Philip Kotler es el autor más citado en las escuelas de marketing, y esta es una de sus frases más útiles para cualquier empresa: no te obsesiones con tu producto, observa lo que pasa con tu mercado.

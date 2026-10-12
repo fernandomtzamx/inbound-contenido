@@ -5,6 +5,8 @@ slug: "infografia-diferencia-entre-crecimiento-y-desarrollo-economico"
 type: "post"
 status: "publish"
 excerpt: "Infografía: diferencia entre crecimiento y desarrollo económico, cómo se mide cada uno (PIB e IDH) y ejemplos para entender por qué no son lo mismo."
+seo_title: "Diferencia entre crecimiento y desarrollo económico"
+seo_description: "Infografía: diferencia entre crecimiento y desarrollo económico, cómo se mide cada uno (PIB e IDH) y ejemplos para entender por qué no son lo mismo."
 ---
 
 Un país puede producir más y, aun así, no mejorar la vida de su población. Esa es la diferencia entre crecimiento y desarrollo económico, que esta infografía explica de forma visual.

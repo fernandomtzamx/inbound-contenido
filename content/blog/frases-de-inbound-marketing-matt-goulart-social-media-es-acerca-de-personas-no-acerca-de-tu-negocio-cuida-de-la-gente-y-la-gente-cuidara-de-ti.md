@@ -5,6 +5,8 @@ slug: "frases-de-inbound-marketing-matt-goulart-social-media-es-acerca-de-person
 type: "post"
 status: "publish"
 excerpt: "Frase atribuida a Matt Goulart: social media es acerca de personas, no de tu negocio. Qué significa y cómo construir comunidad en redes sociales."
+seo_title: "Matt Goulart: social media es acerca de personas"
+seo_description: "Frase atribuida a Matt Goulart: social media es acerca de personas, no de tu negocio. Qué significa y cómo construir comunidad en redes sociales."
 ---
 
 Las redes sociales se llaman así por una razón: están hechas para que las personas se relacionen. Esta frase, atribuida a Matt Goulart, recuerda que las marcas que mejor funcionan en redes son las que ponen a las personas antes que la venta.
