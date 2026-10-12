@@ -1,0 +1,2 @@
+# Slugs cuyo contenido original se descarga a registro/raw/ (solo lectura).
+infografia-como-controlar-tus-emociones
