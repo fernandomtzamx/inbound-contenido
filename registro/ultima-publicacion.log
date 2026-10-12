@@ -1,18 +1,16 @@
-fecha: 2026-10-12T22:13:04Z
-commit: 8e639ad9d4261f2656d602bcbb25aa7b808e6b5f
+fecha: 2026-10-12T22:15:13Z
+commit: a3efd8aff6be741e4eefe569878f99f59c25c1f0
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38315347728
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38315558031
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
-Métodos de autenticación anunciados: application-passwords
-descargado: infografia-como-controlar-tus-emociones (id 6610, 1450 caracteres)
-Argumentos: --check
+Argumentos: content/blog/infografia-como-controlar-tus-emociones.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
+content/blog/infografia-como-controlar-tus-emociones.md: post actualizada (publish) id=6610 https://www.inbound.com.mx/infografia-como-controlar-tus-emociones/
