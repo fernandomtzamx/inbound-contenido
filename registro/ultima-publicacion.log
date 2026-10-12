@@ -1,30 +1,29 @@
-fecha: 2026-10-12T22:38:18Z
-commit: 8025ed376156240a11bf13fd9a2ea7c6851969cb
+fecha: 2026-10-12T22:41:47Z
+commit: 50ffdd9ae0f82f75b40426d39adc29228eb51243
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38317762417
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38318082934
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-mujeres-stem-de-la-historia.md content/blog/infografia-17-senales-de-que-tu-companero-de-trabajo-te-odia.md content/blog/infografia-5-practicas-para-implementar-una-cultura-digital.md content/blog/infografia-buenas-practicas-para-la-seguridad-de-la-informacion-en-la-gestion-de-redes-sociales.md content/blog/infografia-cuanto-tardaron-estos-productosservicios-en-llegar-a-50-millones-de-usuarios.md content/blog/infografia-dia-del-trabajo-por-que-se-celebra-el-1-de-mayo.md content/blog/infografia-diferencia-entre-crecimiento-y-desarrollo-economico.md content/blog/infografia-el-mercado-de-automoviles-en-el-mundo.md content/blog/infografia-funciones-de-un-director-comercial.md content/blog/infografia-habitos-de-lectura-en-mexico.md content/blog/infografia-importancia-de-la-ciberseguridad-en-mexico.md content/blog/infografia-niveles-socioeconomicos-en-mexico.md content/blog/infografia-que-ocurre-en-internet-en-60-segundos.md content/blog/infografia-videojuegos-en-mexico.md content/blog/infografia-wearables-tendencias.md 
+Argumentos: content/blog/infografia-13-caracteristicas-en-la-personalidad-de-un-buen-lider.md content/blog/infografia-4-estilos-de-aprendizaje.md content/blog/infografia-breve-historia-de-la-tecnologia.md content/blog/infografia-como-se-forma-el-petroleo.md content/blog/infografia-conociendo-los-emojis.md content/blog/infografia-consejos-para-conseguir-trabajo.md content/blog/infografia-elon-musk.md content/blog/infografia-entendiendo-el-mercado-de-valores.md content/blog/infografia-industria-4-0.md content/blog/infografia-las-mejores-y-peores-marcas-de-autos.md content/blog/infografia-mapa-de-marketing-digital-para-empresas.md content/blog/infografia-publicidad-en-internet-gasto-global-por-tipo-y-estrategias-mas-valiosas.md content/blog/infografia-starbucks-ingresos-a-nivel-mundial-nacional-y-valor-de-marca.md content/blog/infografia-wal-mart-ingresos-gastos-publicitarios-y-valor-actual-de-marca.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-mujeres-stem-de-la-historia.md: post actualizada (publish) id=2089 https://www.inbound.com.mx/infografia-10-mujeres-stem-de-la-historia/
-content/blog/infografia-17-senales-de-que-tu-companero-de-trabajo-te-odia.md: post actualizada (publish) id=2155 https://www.inbound.com.mx/infografia-17-senales-de-que-tu-companero-de-trabajo-te-odia/
-content/blog/infografia-5-practicas-para-implementar-una-cultura-digital.md: post actualizada (publish) id=2153 https://www.inbound.com.mx/infografia-5-practicas-para-implementar-una-cultura-digital/
-content/blog/infografia-buenas-practicas-para-la-seguridad-de-la-informacion-en-la-gestion-de-redes-sociales.md: post actualizada (publish) id=1947 https://www.inbound.com.mx/infografia-buenas-practicas-para-la-seguridad-de-la-informacion-en-la-gestion-de-redes-sociales/
-content/blog/infografia-cuanto-tardaron-estos-productosservicios-en-llegar-a-50-millones-de-usuarios.md: post actualizada (publish) id=2123 https://www.inbound.com.mx/infografia-cuanto-tardaron-estos-productosservicios-en-llegar-a-50-millones-de-usuarios/
-content/blog/infografia-dia-del-trabajo-por-que-se-celebra-el-1-de-mayo.md: post actualizada (publish) id=2199 https://www.inbound.com.mx/infografia-dia-del-trabajo-por-que-se-celebra-el-1-de-mayo/
-content/blog/infografia-diferencia-entre-crecimiento-y-desarrollo-economico.md: post actualizada (publish) id=2243 https://www.inbound.com.mx/infografia-diferencia-entre-crecimiento-y-desarrollo-economico/
-content/blog/infografia-el-mercado-de-automoviles-en-el-mundo.md: post actualizada (publish) id=9682 https://www.inbound.com.mx/infografia-el-mercado-de-automoviles-en-el-mundo/
-content/blog/infografia-funciones-de-un-director-comercial.md: post actualizada (publish) id=2119 https://www.inbound.com.mx/infografia-funciones-de-un-director-comercial/
-content/blog/infografia-habitos-de-lectura-en-mexico.md: post actualizada (publish) id=7805 https://www.inbound.com.mx/infografia-habitos-de-lectura-en-mexico/
-content/blog/infografia-importancia-de-la-ciberseguridad-en-mexico.md: post actualizada (publish) id=4038 https://www.inbound.com.mx/infografia-importancia-de-la-ciberseguridad-en-mexico/
-content/blog/infografia-niveles-socioeconomicos-en-mexico.md: post actualizada (publish) id=2005 https://www.inbound.com.mx/infografia-niveles-socioeconomicos-en-mexico/
-content/blog/infografia-que-ocurre-en-internet-en-60-segundos.md: post actualizada (publish) id=2097 https://www.inbound.com.mx/infografia-que-ocurre-en-internet-en-60-segundos/
-content/blog/infografia-videojuegos-en-mexico.md: post actualizada (publish) id=2275 https://www.inbound.com.mx/infografia-videojuegos-en-mexico/
-content/blog/infografia-wearables-tendencias.md: post actualizada (publish) id=2060 https://www.inbound.com.mx/infografia-wearables-tendencias/
+content/blog/infografia-13-caracteristicas-en-la-personalidad-de-un-buen-lider.md: post actualizada (publish) id=2157 https://www.inbound.com.mx/infografia-13-caracteristicas-en-la-personalidad-de-un-buen-lider/
+content/blog/infografia-4-estilos-de-aprendizaje.md: post actualizada (publish) id=1893 https://www.inbound.com.mx/infografia-4-estilos-de-aprendizaje/
+content/blog/infografia-breve-historia-de-la-tecnologia.md: post actualizada (publish) id=1999 https://www.inbound.com.mx/infografia-breve-historia-de-la-tecnologia/
+content/blog/infografia-como-se-forma-el-petroleo.md: post actualizada (publish) id=2107 https://www.inbound.com.mx/infografia-como-se-forma-el-petroleo/
+content/blog/infografia-conociendo-los-emojis.md: post actualizada (publish) id=5949 https://www.inbound.com.mx/infografia-conociendo-los-emojis/
+content/blog/infografia-consejos-para-conseguir-trabajo.md: post actualizada (publish) id=1597 https://www.inbound.com.mx/infografia-consejos-para-conseguir-trabajo/
+content/blog/infografia-elon-musk.md: post actualizada (publish) id=5851 https://www.inbound.com.mx/infografia-elon-musk/
+content/blog/infografia-entendiendo-el-mercado-de-valores.md: post actualizada (publish) id=7293 https://www.inbound.com.mx/infografia-entendiendo-el-mercado-de-valores/
+content/blog/infografia-industria-4-0.md: post actualizada (publish) id=1655 https://www.inbound.com.mx/infografia-industria-4-0/
+content/blog/infografia-las-mejores-y-peores-marcas-de-autos.md: post actualizada (publish) id=5544 https://www.inbound.com.mx/infografia-las-mejores-y-peores-marcas-de-autos/
+content/blog/infografia-mapa-de-marketing-digital-para-empresas.md: post actualizada (publish) id=1272 https://www.inbound.com.mx/infografia-mapa-de-marketing-digital-para-empresas/
+content/blog/infografia-publicidad-en-internet-gasto-global-por-tipo-y-estrategias-mas-valiosas.md: post actualizada (publish) id=6832 https://www.inbound.com.mx/infografia-publicidad-en-internet-gasto-global-por-tipo-y-estrategias-mas-valiosas/
+content/blog/infografia-starbucks-ingresos-a-nivel-mundial-nacional-y-valor-de-marca.md: post actualizada (publish) id=7209 https://www.inbound.com.mx/infografia-starbucks-ingresos-a-nivel-mundial-nacional-y-valor-de-marca/
+content/blog/infografia-wal-mart-ingresos-gastos-publicitarios-y-valor-actual-de-marca.md: post actualizada (publish) id=7347 https://www.inbound.com.mx/infografia-wal-mart-ingresos-gastos-publicitarios-y-valor-actual-de-marca/
