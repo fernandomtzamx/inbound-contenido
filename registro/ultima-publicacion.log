@@ -1,8 +1,8 @@
-fecha: 2026-10-12T20:12:24Z
-commit: 531eb30fb33737492eb8e466f0aedd57b0ea2bca
+fecha: 2026-10-12T20:14:40Z
+commit: 89d47a462701efdc9302d7d63a4fd4f8570af996
 evento: push
-resultado: failure
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38302659734
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38302892054
 ---
 WP_URL: presente
 WP_USER: presente
@@ -12,15 +12,5 @@ WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y número
 Argumentos: content/pruebas/prueba-conexion.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
-Servidor: cloudflare | via: - | cf-ray: sí
-  encabezado X-Powered-By: PHP/7.4.33
-  encabezado X-Robots-Tag: noindex
-  encabezado X-Content-Type-Options: nosniff
-  encabezado Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
-  encabezado Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
-  encabezado X-Frame-Options: SAMEORIGIN
-  encabezado X-turbo-charged-by: LiteSpeed
-  encabezado cf-cache-status: DYNAMIC
-Respuesta con credencial real: 500 incorrect_password
-Respuesta con contraseña falsa: 500 incorrect_password
-DIAGNÓSTICO: el encabezado SÍ llega; la credencial real es la que falla (usuario o contraseña).
+Conectado como soporte (roles: administrator)
+content/pruebas/prueba-conexion.md: post creada (draft) id=9933 https://www.inbound.com.mx/?p=9933
