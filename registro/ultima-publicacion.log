@@ -1,11 +1,24 @@
-fecha: 2026-10-12T19:41:56Z
-commit: b02cadbc2f0cb428879bca5f4bd7cbf73b142a11
+fecha: 2026-10-12T19:50:31Z
+commit: 88b6219987a141b77ed7a95a714b59023334e0b5
 evento: push
 resultado: failure
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38299341204
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38300269515
 ---
-WP_URL: FALTA
-WP_USER: FALTA
-WP_APP_PASSWORD: FALTA
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
 Argumentos: content/pruebas/prueba-conexion.md 
-Falta la variable de entorno WP_URL
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Servidor: cloudflare | via: - | cf-ray: sí
+  encabezado X-Powered-By: PHP/7.4.33
+  encabezado X-Robots-Tag: noindex
+  encabezado X-Content-Type-Options: nosniff
+  encabezado Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+  encabezado Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+  encabezado X-Frame-Options: SAMEORIGIN
+  encabezado X-turbo-charged-by: LiteSpeed
+  encabezado cf-cache-status: DYNAMIC
+Respuesta con credencial real: 500 incorrect_password
+Respuesta con contraseña falsa: 500 incorrect_password
+DIAGNÓSTICO: el encabezado SÍ llega; la credencial real es la que falla (usuario o contraseña).
