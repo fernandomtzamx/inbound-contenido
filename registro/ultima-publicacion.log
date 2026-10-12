@@ -1,13 +1,15 @@
-fecha: 2026-10-12T19:57:56Z
-commit: c953c2a2e9a93ea6d8bd6b8cc7b7dc2b92fc2e40
+fecha: 2026-10-12T20:02:52Z
+commit: de223732bea6161c6a360c3ed9f57cdfb6271e90
 evento: push
 resultado: failure
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38301049853
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38301626125
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/pruebas/prueba-conexion.md 
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: --check
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Servidor: cloudflare | via: - | cf-ray: sí
