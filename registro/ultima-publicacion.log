@@ -1,8 +1,8 @@
-fecha: 2026-10-12T23:31:11Z
-commit: 76b6dd3006a59be06db7d88107429fb7b7578aa9
+fecha: 2026-10-12T23:49:48Z
+commit: e96380fccea3bafcd8eccbc42084b9cc76b18e42
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38322524634
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38324073899
 ---
 WP_URL: presente
 WP_USER: presente
@@ -11,25 +11,95 @@ WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
-widgets: HTTP 200, 14 elementos
-blocks: HTTP 200, 0 elementos
-templates: HTTP 200, 0 elementos
-template-parts: HTTP 200, 9 elementos
-menu-items: HTTP 200, 2 elementos
-navigation: HTTP 200, 0 elementos
-redirection: HTTP 200, 36 redirecciones
-Coincidencias: 11
- - widgets text-4: emkt
- - widgets text-3: emkt
- - widgets custom_html-2: emkt
- - widgets text-5: emkt
- - posts 6173 joomla-administration-brand-remover-free-plugin: emkt.mx
- - posts 6173 joomla-administration-brand-remover-free-plugin: emkt
- - posts 6173 joomla-administration-brand-remover-free-plugin: emkt.mx
- - posts 6173 joomla-administration-brand-remover-free-plugin: emkt
- - posts 2754 curso-online-de-inbound-marketing: emkt
- - posts 521 landing-page-enfocada-a-la-conversion-hubspot-cos: emkt
- - pages 370 home: emkt
+ok: como-iniciar-una-tienda-online (1711 palabras)
+ok: hubspot-mexico (499 palabras)
+ok: agencia-de-marketing-digital-mexico (1490 palabras)
+ok: buyer-persona (656 palabras)
+ok: herramientas-para-buscar-keywords (561 palabras)
+ok: desarrolla-un-plan-de-marketing-de-contenidos-para-tu-pagina-web (229 palabras)
+ok: inbound-marketing-para-empresas-b2b (384 palabras)
+ok: inbound-marketing-para-hoteles (560 palabras)
+ok: 4-fases-del-inbound-marketing (633 palabras)
+ok: imagenes-libres-de-derechos-gratis (574 palabras)
+ok: por-que-implementar-procesos-de-marketing-dentro-de-tu-empresa (379 palabras)
+ok: como-funciona-shopify (729 palabras)
+ok: video-consejos-para-emprendedores-aprender-marketing (25 palabras)
+ok: estrategias-de-marketing-empresas-exitosas (800 palabras)
+ok: que-hacer-cuando-un-cliente-no-te-paga (775 palabras)
+ok: las-mejores-herramientas-para-investigar-palabras-clave (404 palabras)
+ok: hubspot-cos-vs-wordpress-cms (671 palabras)
+ok: contratar-agencia-inbound-marketing (377 palabras)
+ok: clientes-multidispositivo (253 palabras)
+ok: pequenos-negocios (409 palabras)
+ok: es-shopify-seguro-para-tu-tienda-en-linea (503 palabras)
+ok: beneficios-del-inbound-marketing (391 palabras)
+ok: webempresa (28 palabras)
+ok: inbound-marketing-vs-marketing-de-contenidos (439 palabras)
+ok: inbound-marketing-politico (462 palabras)
+ok: que-es-seo (1042 palabras)
+ok: glosario-basico-del-inbound-marketing (285 palabras)
+ok: marketing-contextual (373 palabras)
+ok: inbound-marketing-para-escuelas-privadas (431 palabras)
+ok: inbound-marketing-definicion (331 palabras)
+ok: inbound-marketing-vs-marketing-digital (487 palabras)
+ok: caracteristicas-de-un-emprendedor-exitoso (462 palabras)
+ok: los-3-eventos-de-inbound-marketing-a-los-que-deberias-asistir (339 palabras)
+ok: cliengo-mexico (144 palabras)
+ok: 9-slideshares-de-inbound-marketing-que-debes-ver (261 palabras)
+ok: curso-online-de-inbound-marketing (370 palabras)
+ok: creacion-de-sitios-web-en-joomla (814 palabras)
+ok: crear-estrategia-digital-efectiva (375 palabras)
+ok: tecnicas-de-creatividad-para-emprendedores (503 palabras)
+ok: etapas-del-inbound-marketing (736 palabras)
+ok: inbound-marketing-para-emprendedores (749 palabras)
+ok: 3-cosas-que-nunca-debes-decir-en-twitter (195 palabras)
+ok: estrategias-de-marketing-digital-mexico (440 palabras)
+ok: como-hacer-que-mis-clientes-me-recomienden (1145 palabras)
+ok: cuando-abandonar-un-cliente (530 palabras)
+ok: employer-branding (594 palabras)
+ok: kpis-web (1291 palabras)
+ok: plantilla-hubspot-landing-page-descargar-ebooks (0 palabras)
+ok: sitios-web-inbound-elementos (657 palabras)
+ok: casos-de-exito-en-shopify (621 palabras)
+ok: tipos-de-liderazgo (804 palabras)
+ok: inbound-marketing-para-agencias-de-autos (617 palabras)
+ok: sitios-web (355 palabras)
+ok: seo (401 palabras)
+ok: inbound-marketing-para-empresas-familiares (556 palabras)
+ok: que-hacer-ante-la-salida-de-un-empleado-clave (38 palabras)
+ok: crear-un-blog-cosas-que-nadie-te-dice (428 palabras)
+ok: secretos-de-la-nueva-publicidad (588 palabras)
+ok: como-dirigir-negocio-familiar (604 palabras)
+ok: las-razones-por-las-que-tu-inbound-marketing-no-funciona (445 palabras)
+ok: los-terminos-que-necesitas-saber-para-crear-una-pagina-web (636 palabras)
+ok: aprender-marketing-emprendedores (756 palabras)
+ok: inbound-marketing-para-bienes-raices (483 palabras)
+ok: enfocate-en-tu-sitio-corporativo-no-en-redes-sociales (452 palabras)
+ok: las-redes-sociales-generan-ventas (393 palabras)
+ok: para-que-se-usa-el-inbound-marketing (439 palabras)
+ok: marketing-de-contenidos-no-lo-saboteees (603 palabras)
+ok: como-hacer-marketing-viral-al-estilo-inbound (733 palabras)
+ok: cuanto-tarda-el-inbound-marketing-en-mostrar-resultados (493 palabras)
+ok: como-crear-un-plan-de-marketing-digital-para-pymes (535 palabras)
+ok: las-campanas-de-publicidad-deben-vender-productos-no-ganar-premios (306 palabras)
+ok: internet-en-un-minuto (100 palabras)
+ok: como-crear-un-sitio-web-optimizado-para-seo-local (682 palabras)
+ok: crear-un-sitio-web-aspectos-basicos (270 palabras)
+ok: guia-rapida-de-seo (362 palabras)
+ok: inbound-marketing-para-el-sector-inmobiliario (375 palabras)
+ok: genera-mas-clientes-cambiando-tu-sitio-web (0 palabras)
+ok: por-que-monitorizar-el-tiempo-de-operatividad-de-tu-web (166 palabras)
+ok: terminos-que-necesitas-saber-para-crear-una-pagina-web (635 palabras)
+ok: 7-elementos-imprescindibles-que-debe-tener-un-sitio-web-inbound (545 palabras)
+ok: landing-page-enfocada-a-la-conversion-hubspot-cos (221 palabras)
+ok: automatizar-tus-redes-sociales (378 palabras)
+ok: que-hosting-contratar-para-una-tienda-online (906 palabras)
+ok: 5-consejos-para-convertir-tu-sitio-web-en-una-maquina-de-ventas (625 palabras)
+ok: automatiza-tus-redes-sociales-con-estas-herramientas (614 palabras)
+ok: joomla-administration-brand-remover-free-plugin (146 palabras)
+ok: shopify-mexico (243 palabras)
+ok: todos-tus-empleados-son-parte-de-tu-area-de-marketing (316 palabras)
+Auditoría guardada en registro/auditoria.json: 88 URLs
 Argumentos: --check
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
