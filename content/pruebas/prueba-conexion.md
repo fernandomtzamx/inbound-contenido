@@ -10,4 +10,4 @@ Si ves esta entrada como **borrador** en WP Admin, el pipeline de publicación d
 
 Puedes borrarla sin problema.
 
-Última prueba: 2026-10-12 14:12.
+Última prueba: 2026-10-12 14:15.
