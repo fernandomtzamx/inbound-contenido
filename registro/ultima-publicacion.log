@@ -1,16 +1,16 @@
-fecha: 2026-10-12T20:14:40Z
-commit: 89d47a462701efdc9302d7d63a4fd4f8570af996
+fecha: 2026-10-12T20:47:16Z
+commit: f14ca8dbeff804fa59eb8f5fe6f6281c9b6db1f8
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38302892054
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38306416631
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/pruebas/prueba-conexion.md 
+Argumentos: content/paginas/propuesta-home.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/pruebas/prueba-conexion.md: post creada (draft) id=9933 https://www.inbound.com.mx/?p=9933
+content/paginas/propuesta-home.md: page creada (draft) id=9934 https://www.inbound.com.mx/?page_id=9934
