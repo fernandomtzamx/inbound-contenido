@@ -17,6 +17,9 @@ Repositorio fuente del blog de [inbound.com.mx](https://www.inbound.com.mx). Cad
 - `scripts/site_setup.py` + `docs/sitio.yml`: autor, categorías y limpieza del sitio.
 - `scripts/lint.py`, `scripts/cover.py`, `scripts/article.css`: control de calidad, portadas 1200x630 y estilos del artículo (ajustar colores a la marca).
 - `wordpress/mu-plugins/inbound-auth.php`: subir a `wp-content/mu-plugins/` si el servidor borra el header `Authorization`.
+- `wordpress/mu-plugins/inbound-yoast-rest.php`: subir a `wp-content/mu-plugins/` para que `seo_title` y `seo_description` se guarden en Yoast.
+- `scripts/build_posts.py` + `remediacion/*.py`: fichas de las entradas remediadas; generan `content/blog/<slug>.md`.
+- `scripts/audit.py` (`docs/auditoria.txt`) e `scripts/import_raw.py` (`docs/importar.txt`): auditoría y descarga del contenido original, solo lectura; se ejecutan al cambiar esos archivos.
 - `registro/ultima-publicacion.log`: log del último run, para leerlo sin capturas.
 
 ## Frontmatter
@@ -31,7 +34,12 @@ categories: [inbound-marketing]
 tags: [hubspot, seo]
 date: 2026-10-20 09:00   # opcional, hora de Ciudad de México; programa la entrada
 featured_image: images/portada.png
+id: 1234                 # opcional: actualiza esa entrada aunque cambie el slug
+seo_title: "Title de Yoast"
+seo_description: "Meta description de Yoast"
 ```
+
+Todas las entradas se publican con el autor del usuario conectado (soporte, Fernando Arturo Martinez Aguilar). Las imágenes citadas como `src="images/..."` se suben solas a Medios.
 
 ## Errores típicos
 
