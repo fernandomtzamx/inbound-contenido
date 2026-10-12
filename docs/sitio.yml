@@ -1,0 +1,23 @@
+# Configuración del sitio que el agente puede aplicar con rol Editor.
+# Se aplica con: Actions > Publicar en WordPress > Run workflow > setup
+# (menús, tagline, header y footer requieren administrador: se hacen a mano).
+#
+# Todo está vacío a propósito: se llena cuando se definan autor y categorías del blog de Inbound.
+
+autor: {}
+# autor:
+#   first_name: "Nombre"
+#   last_name: "Apellido"
+#   name: "Nombre visible"
+#   description: "Bio corta del autor."
+
+categorias: []
+# categorias:
+#   - slug: inbound-marketing
+#     name: Inbound marketing
+#     description: "Descripción de la categoría."
+
+# Entradas o páginas a enviar a la papelera. Se confirma el slug antes de borrar.
+borrar: []
+# borrar:
+#   - {id: 1804, slug: prueba-de-conexion, tipo: posts}
