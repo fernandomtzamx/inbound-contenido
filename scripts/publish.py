@@ -244,8 +244,13 @@ def publish(wp, path):
         seo["_yoast_wpseo_title"] = meta["seo_title"]
     if meta.get("seo_description"):
         seo["_yoast_wpseo_metadesc"] = meta["seo_description"]
-    if seo:
-        payload["meta"] = seo
+    # elementor: false desactiva el modo constructor de Elementor para que la página muestre
+    # el contenido de este archivo (el diseño anterior queda guardado en _elementor_data).
+    extra_meta = {}
+    if meta.get("elementor") is False:
+        extra_meta["_elementor_edit_mode"] = ""
+    if seo or extra_meta:
+        payload["meta"] = {**seo, **extra_meta}
     if meta.get("date"):
         # Fecha local de Ciudad de México (UTC-6, sin horario de verano desde 2022).
         local = datetime.datetime.fromisoformat(str(meta["date"]))
@@ -283,6 +288,9 @@ def publish(wp, path):
         saved = res.get("meta") or {}
         note = " | Yoast: " + ("guardado" if all(saved.get(k) == v for k, v in seo.items())
                                else "NO guardado (falta el mu-plugin inbound-yoast-rest.php)")
+    if extra_meta:
+        mode = (res.get("meta") or {}).get("_elementor_edit_mode")
+        note += " | Elementor: " + ("desactivado" if not mode else f"sigue activo ({mode})")
     print(f"{path.relative_to(ROOT)}: {kind} {action} ({res['status']}) id={res['id']} {res['link']}{note}")
 
 
