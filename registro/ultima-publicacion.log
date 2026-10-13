@@ -1,40 +1,16 @@
-fecha: 2026-10-13T17:05:20Z
-commit: 207124457a531797f0f32b96d6796bd26bbf220f
+fecha: 2026-10-13T17:08:29Z
+commit: 53244a2349d935006996ed383c2ccbf7c32897a4
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38435702706
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38436203035
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
-Métodos de autenticación anunciados: application-passwords
-descargado: como-iniciar-una-tienda-online (id 9737, 9451 caracteres)
-descargado: hubspot-mexico (id 620, 8914 caracteres)
-descargado: hubspot-cos-vs-wordpress-cms (id 4105, 8513 caracteres)
-descargado: agencia-de-marketing-digital-mexico (id 2519, 9868 caracteres)
-descargado: buyer-persona (id 3932, 11991 caracteres)
-descargado: 4-fases-del-inbound-marketing (id 2758, 10377 caracteres)
-descargado: desarrolla-un-plan-de-marketing-de-contenidos-para-tu-pagina-web (id 9585, 10352 caracteres)
-descargado: inbound-marketing-para-empresas-b2b (id 2586, 9843 caracteres)
-descargado: inbound-marketing-para-hoteles (id 2741, 8053 caracteres)
-descargado: inbound-marketing-para-escuelas-privadas (id 4007, 7812 caracteres)
-descargado: inbound-marketing-politico (id 3923, 7969 caracteres)
-descargado: por-que-implementar-procesos-de-marketing-dentro-de-tu-empresa (id 3870, 7596 caracteres)
-descargado: estrategias-de-marketing-empresas-exitosas (id 644, 8310 caracteres)
-descargado: como-funciona-shopify (id 4080, 8033 caracteres)
-descargado: imagenes-libres-de-derechos-gratis (id 1179, 8980 caracteres)
-descargado: pequenos-negocios (id 2451, 7606 caracteres)
-descargado: que-hacer-cuando-un-cliente-no-te-paga (id 4045, 8610 caracteres)
-descargado: cuando-abandonar-un-cliente (id 5895, 8146 caracteres)
-descargado: employer-branding (id 3892, 9086 caracteres)
-descargado: casos-de-exito-en-shopify (id 4053, 7737 caracteres)
-descargado: inbound-marketing-para-agencias-de-autos (id 1185, 8184 caracteres)
-descargado: que-hacer-ante-la-salida-de-un-empleado-clave (id 4072, 7358 caracteres)
-descargado: contacto (id 9593, 1112 caracteres)
-Argumentos: --check
+Argumentos: content/paginas/contacto.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
+content/paginas/contacto.md: page actualizada (publish) id=9593 https://www.inbound.com.mx/contacto/ | Yoast: guardado | Elementor: desactivado
