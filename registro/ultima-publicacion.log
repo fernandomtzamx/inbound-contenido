@@ -1,39 +1,37 @@
-fecha: 2026-10-13T00:13:42Z
-commit: d190736f90fc2ae7b3a30633bdc6291916014765
+fecha: 2026-10-13T00:23:15Z
+commit: 83a6d3afa202b06db9f57f30ffb920902e586627
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38326103149
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38326945403
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
-Métodos de autenticación anunciados: application-passwords
-descargado: como-iniciar-una-tienda-online (id 9737, 11504 caracteres)
-descargado: hubspot-mexico (id 620, 3509 caracteres)
-descargado: hubspot-cos-vs-wordpress-cms (id 4105, 4919 caracteres)
-descargado: agencia-de-marketing-digital-mexico (id 2519, 11434 caracteres)
-descargado: buyer-persona (id 3932, 4700 caracteres)
-descargado: 4-fases-del-inbound-marketing (id 2758, 4668 caracteres)
-descargado: desarrolla-un-plan-de-marketing-de-contenidos-para-tu-pagina-web (id 9585, 1616 caracteres)
-descargado: inbound-marketing-para-empresas-b2b (id 2586, 2656 caracteres)
-descargado: inbound-marketing-para-hoteles (id 2741, 3837 caracteres)
-descargado: inbound-marketing-para-escuelas-privadas (id 4007, 2796 caracteres)
-descargado: inbound-marketing-politico (id 3923, 3064 caracteres)
-descargado: por-que-implementar-procesos-de-marketing-dentro-de-tu-empresa (id 3870, 3045 caracteres)
-descargado: estrategias-de-marketing-empresas-exitosas (id 644, 5589 caracteres)
-descargado: como-funciona-shopify (id 4080, 5607 caracteres)
-descargado: imagenes-libres-de-derechos-gratis (id 1179, 4807 caracteres)
-descargado: pequenos-negocios (id 2451, 2786 caracteres)
-descargado: que-hacer-cuando-un-cliente-no-te-paga (id 4045, 4741 caracteres)
-descargado: cuando-abandonar-un-cliente (id 5895, 3407 caracteres)
-descargado: employer-branding (id 3892, 3711 caracteres)
-descargado: casos-de-exito-en-shopify (id 4053, 4717 caracteres)
-descargado: inbound-marketing-para-agencias-de-autos (id 1185, 4366 caracteres)
-descargado: que-hacer-ante-la-salida-de-un-empleado-clave (id 4072, 453 caracteres)
-Argumentos: --check
+Argumentos: content/blog/4-fases-del-inbound-marketing.md content/blog/agencia-de-marketing-digital-mexico.md content/blog/buyer-persona.md content/blog/casos-de-exito-en-shopify.md content/blog/como-funciona-shopify.md content/blog/como-iniciar-una-tienda-online.md content/blog/cuando-abandonar-un-cliente.md content/blog/desarrolla-un-plan-de-marketing-de-contenidos-para-tu-pagina-web.md content/blog/employer-branding.md content/blog/estrategias-de-marketing-empresas-exitosas.md content/blog/hubspot-cos-vs-wordpress-cms.md content/blog/hubspot-mexico.md content/blog/imagenes-libres-de-derechos-gratis.md content/blog/inbound-marketing-para-agencias-de-autos.md content/blog/inbound-marketing-para-empresas-b2b.md content/blog/inbound-marketing-para-escuelas-privadas.md content/blog/inbound-marketing-para-hoteles.md content/blog/inbound-marketing-politico.md content/blog/pequenos-negocios.md content/blog/por-que-implementar-procesos-de-marketing-dentro-de-tu-empresa.md content/blog/que-hacer-ante-la-salida-de-un-empleado-clave.md content/blog/que-hacer-cuando-un-cliente-no-te-paga.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
+content/blog/4-fases-del-inbound-marketing.md: post actualizada (publish) id=2758 https://www.inbound.com.mx/4-fases-del-inbound-marketing/ | Yoast: guardado
+content/blog/agencia-de-marketing-digital-mexico.md: post actualizada (publish) id=2519 https://www.inbound.com.mx/agencia-de-marketing-digital-mexico/ | Yoast: guardado
+content/blog/buyer-persona.md: post actualizada (publish) id=3932 https://www.inbound.com.mx/buyer-persona/ | Yoast: guardado
+content/blog/casos-de-exito-en-shopify.md: post actualizada (publish) id=4053 https://www.inbound.com.mx/casos-de-exito-en-shopify/ | Yoast: guardado
+content/blog/como-funciona-shopify.md: post actualizada (publish) id=4080 https://www.inbound.com.mx/como-funciona-shopify/ | Yoast: guardado
+content/blog/como-iniciar-una-tienda-online.md: post actualizada (publish) id=9737 https://www.inbound.com.mx/como-iniciar-una-tienda-online/ | Yoast: guardado
+content/blog/cuando-abandonar-un-cliente.md: post actualizada (publish) id=5895 https://www.inbound.com.mx/cuando-abandonar-un-cliente/ | Yoast: guardado
+content/blog/desarrolla-un-plan-de-marketing-de-contenidos-para-tu-pagina-web.md: post actualizada (publish) id=9585 https://www.inbound.com.mx/desarrolla-un-plan-de-marketing-de-contenidos-para-tu-pagina-web/ | Yoast: guardado
+content/blog/employer-branding.md: post actualizada (publish) id=3892 https://www.inbound.com.mx/employer-branding/ | Yoast: guardado
+content/blog/estrategias-de-marketing-empresas-exitosas.md: post actualizada (publish) id=644 https://www.inbound.com.mx/estrategias-de-marketing-empresas-exitosas/ | Yoast: guardado
+content/blog/hubspot-cos-vs-wordpress-cms.md: post actualizada (publish) id=4105 https://www.inbound.com.mx/hubspot-cos-vs-wordpress-cms/ | Yoast: guardado
+content/blog/hubspot-mexico.md: post actualizada (publish) id=620 https://www.inbound.com.mx/hubspot-mexico/ | Yoast: guardado
+content/blog/imagenes-libres-de-derechos-gratis.md: post actualizada (publish) id=1179 https://www.inbound.com.mx/imagenes-libres-de-derechos-gratis/ | Yoast: guardado
+content/blog/inbound-marketing-para-agencias-de-autos.md: post actualizada (publish) id=1185 https://www.inbound.com.mx/inbound-marketing-para-agencias-de-autos/ | Yoast: guardado
+content/blog/inbound-marketing-para-empresas-b2b.md: post actualizada (publish) id=2586 https://www.inbound.com.mx/inbound-marketing-para-empresas-b2b/ | Yoast: guardado
+content/blog/inbound-marketing-para-escuelas-privadas.md: post actualizada (publish) id=4007 https://www.inbound.com.mx/inbound-marketing-para-escuelas-privadas/ | Yoast: guardado
+content/blog/inbound-marketing-para-hoteles.md: post actualizada (publish) id=2741 https://www.inbound.com.mx/inbound-marketing-para-hoteles/ | Yoast: guardado
+content/blog/inbound-marketing-politico.md: post actualizada (publish) id=3923 https://www.inbound.com.mx/inbound-marketing-politico/ | Yoast: guardado
+content/blog/pequenos-negocios.md: post actualizada (publish) id=2451 https://www.inbound.com.mx/pequenos-negocios/ | Yoast: guardado
+content/blog/por-que-implementar-procesos-de-marketing-dentro-de-tu-empresa.md: post actualizada (publish) id=3870 https://www.inbound.com.mx/por-que-implementar-procesos-de-marketing-dentro-de-tu-empresa/ | Yoast: guardado
+content/blog/que-hacer-ante-la-salida-de-un-empleado-clave.md: post actualizada (publish) id=4072 https://www.inbound.com.mx/que-hacer-ante-la-salida-de-un-empleado-clave/ | Yoast: guardado
+content/blog/que-hacer-cuando-un-cliente-no-te-paga.md: post actualizada (publish) id=4045 https://www.inbound.com.mx/que-hacer-cuando-un-cliente-no-te-paga/ | Yoast: guardado
