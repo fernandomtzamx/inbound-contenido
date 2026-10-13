@@ -21,6 +21,10 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
     for slug in slugs:
         res = wp.req("GET", "posts", params={"slug": slug, "context": "edit", "status": "any"})
+        tipo = "posts"
+        if not res:
+            res = wp.req("GET", "pages", params={"slug": slug, "context": "edit", "status": "any"})
+            tipo = "pages"
         if not res:
             print(f"no encontrado: {slug}")
             continue
@@ -30,6 +34,11 @@ def main():
         keep["title"] = (p.get("title") or {}).get("raw")
         keep["excerpt"] = (p.get("excerpt") or {}).get("raw")
         keep["content"] = (p.get("content") or {}).get("raw")
+        keep["tipo"] = tipo
+        if tipo == "pages":
+            keep["parent"] = p.get("parent")
+            keep["rendered"] = (p.get("content") or {}).get("rendered")
+            keep["meta"] = p.get("meta")
         keep["yoast_head_json"] = {k: (p.get("yoast_head_json") or {}).get(k) for k in ("title", "description", "og_image")}
         if p.get("featured_media"):
             try:
