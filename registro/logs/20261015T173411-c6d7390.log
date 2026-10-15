@@ -1,0 +1,25 @@
+fecha: 2026-10-15T17:34:11Z
+commit: c6d73909f999fd1d6093d7dbdc8d9d98f35023e8
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38778350286
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-mayores-multas-a-empresas-por-parte-de-la-comision-europea.md content/blog/infografia-11-ideas-clave-para-entender-la-situacion-laboral-de-las-personas-con-discapacidad.md content/blog/infografia-5-pautas-con-las-que-podras-comunicarte-eficazmente-con-tus-clientes.md content/blog/infografia-busqueda-de-empleo-en-rrss.md content/blog/infografia-como-crear-una-campana-con-influencers.md content/blog/infografia-estrategias-de-los-directivos-para-afrontar-la-escasez-de-talento.md content/blog/infografia-infografias-todo-lo-que-debes-de-saber.md content/blog/infografia-los-unicornios-estan-sobrevalorados.md content/blog/infografia-peru-el-consumidor-conectado.md content/blog/infografia-tendencias-en-publicidad-digital.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-mayores-multas-a-empresas-por-parte-de-la-comision-europea.md: post actualizada (publish) id=1601 https://www.inbound.com.mx/infografia-10-mayores-multas-a-empresas-por-parte-de-la-comision-europea/ | Yoast: guardado
+content/blog/infografia-11-ideas-clave-para-entender-la-situacion-laboral-de-las-personas-con-discapacidad.md: post actualizada (publish) id=2209 https://www.inbound.com.mx/infografia-11-ideas-clave-para-entender-la-situacion-laboral-de-las-personas-con-discapacidad/ | Yoast: guardado
+content/blog/infografia-5-pautas-con-las-que-podras-comunicarte-eficazmente-con-tus-clientes.md: post actualizada (publish) id=2065 https://www.inbound.com.mx/infografia-5-pautas-con-las-que-podras-comunicarte-eficazmente-con-tus-clientes/ | Yoast: guardado
+content/blog/infografia-busqueda-de-empleo-en-rrss.md: post actualizada (publish) id=1969 https://www.inbound.com.mx/infografia-busqueda-de-empleo-en-rrss/ | Yoast: guardado
+content/blog/infografia-como-crear-una-campana-con-influencers.md: post actualizada (publish) id=1497 https://www.inbound.com.mx/infografia-como-crear-una-campana-con-influencers/ | Yoast: guardado
+content/blog/infografia-estrategias-de-los-directivos-para-afrontar-la-escasez-de-talento.md: post actualizada (publish) id=1759 https://www.inbound.com.mx/infografia-estrategias-de-los-directivos-para-afrontar-la-escasez-de-talento/ | Yoast: guardado
+content/blog/infografia-infografias-todo-lo-que-debes-de-saber.md: post actualizada (publish) id=1967 https://www.inbound.com.mx/infografia-infografias-todo-lo-que-debes-de-saber/ | Yoast: guardado
+content/blog/infografia-los-unicornios-estan-sobrevalorados.md: post actualizada (publish) id=1316 https://www.inbound.com.mx/infografia-los-unicornios-estan-sobrevalorados/ | Yoast: guardado
+content/blog/infografia-peru-el-consumidor-conectado.md: post actualizada (publish) id=1621 https://www.inbound.com.mx/infografia-peru-el-consumidor-conectado/ | Yoast: guardado
+content/blog/infografia-tendencias-en-publicidad-digital.md: post actualizada (publish) id=1791 https://www.inbound.com.mx/infografia-tendencias-en-publicidad-digital/ | Yoast: guardado

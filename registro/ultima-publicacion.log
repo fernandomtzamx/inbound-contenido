@@ -1,25 +1,25 @@
-fecha: 2026-10-15T17:32:04Z
-commit: d7ad5dca1f446b484075b8fcbf5ee9c9a359ab4d
+fecha: 2026-10-15T17:34:11Z
+commit: c6d73909f999fd1d6093d7dbdc8d9d98f35023e8
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38778047489
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38778350286
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-herramientas-seo-gratis.md content/blog/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante.md content/blog/infografia-7-razones-por-las-que-pagar-a-los-becarios.md content/blog/infografia-9-mejores-herramientas-online-para-comprimir-imagenes.md content/blog/infografia-clasificacion-de-las-motivaciones-sociales.md content/blog/infografia-estructura-de-la-declaracion-de-la-renta.md content/blog/infografia-la-importancia-del-color-en-el-branding.md content/blog/infografia-que-es-el-black-friday.md content/blog/infografia-rutas-aereas-transpolares.md content/blog/infografia-snapcraft-para-desarrolladores.md 
+Argumentos: content/blog/infografia-10-mayores-multas-a-empresas-por-parte-de-la-comision-europea.md content/blog/infografia-11-ideas-clave-para-entender-la-situacion-laboral-de-las-personas-con-discapacidad.md content/blog/infografia-5-pautas-con-las-que-podras-comunicarte-eficazmente-con-tus-clientes.md content/blog/infografia-busqueda-de-empleo-en-rrss.md content/blog/infografia-como-crear-una-campana-con-influencers.md content/blog/infografia-estrategias-de-los-directivos-para-afrontar-la-escasez-de-talento.md content/blog/infografia-infografias-todo-lo-que-debes-de-saber.md content/blog/infografia-los-unicornios-estan-sobrevalorados.md content/blog/infografia-peru-el-consumidor-conectado.md content/blog/infografia-tendencias-en-publicidad-digital.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-herramientas-seo-gratis.md: post actualizada (publish) id=1424 https://www.inbound.com.mx/infografia-10-herramientas-seo-gratis/ | Yoast: guardado
-content/blog/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante.md: post actualizada (publish) id=1981 https://www.inbound.com.mx/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante/ | Yoast: guardado
-content/blog/infografia-7-razones-por-las-que-pagar-a-los-becarios.md: post actualizada (publish) id=1302 https://www.inbound.com.mx/infografia-7-razones-por-las-que-pagar-a-los-becarios/ | Yoast: guardado
-content/blog/infografia-9-mejores-herramientas-online-para-comprimir-imagenes.md: post actualizada (publish) id=1755 https://www.inbound.com.mx/infografia-9-mejores-herramientas-online-para-comprimir-imagenes/ | Yoast: guardado
-content/blog/infografia-clasificacion-de-las-motivaciones-sociales.md: post actualizada (publish) id=1903 https://www.inbound.com.mx/infografia-clasificacion-de-las-motivaciones-sociales/ | Yoast: guardado
-content/blog/infografia-estructura-de-la-declaracion-de-la-renta.md: post actualizada (publish) id=1935 https://www.inbound.com.mx/infografia-estructura-de-la-declaracion-de-la-renta/ | Yoast: guardado
-content/blog/infografia-la-importancia-del-color-en-el-branding.md: post actualizada (publish) id=2047 https://www.inbound.com.mx/infografia-la-importancia-del-color-en-el-branding/ | Yoast: guardado
-content/blog/infografia-que-es-el-black-friday.md: post actualizada (publish) id=1919 https://www.inbound.com.mx/infografia-que-es-el-black-friday/ | Yoast: guardado
-content/blog/infografia-rutas-aereas-transpolares.md: post actualizada (publish) id=1462 https://www.inbound.com.mx/infografia-rutas-aereas-transpolares/ | Yoast: guardado
-content/blog/infografia-snapcraft-para-desarrolladores.md: post actualizada (publish) id=5881 https://www.inbound.com.mx/infografia-snapcraft-para-desarrolladores/ | Yoast: guardado
+content/blog/infografia-10-mayores-multas-a-empresas-por-parte-de-la-comision-europea.md: post actualizada (publish) id=1601 https://www.inbound.com.mx/infografia-10-mayores-multas-a-empresas-por-parte-de-la-comision-europea/ | Yoast: guardado
+content/blog/infografia-11-ideas-clave-para-entender-la-situacion-laboral-de-las-personas-con-discapacidad.md: post actualizada (publish) id=2209 https://www.inbound.com.mx/infografia-11-ideas-clave-para-entender-la-situacion-laboral-de-las-personas-con-discapacidad/ | Yoast: guardado
+content/blog/infografia-5-pautas-con-las-que-podras-comunicarte-eficazmente-con-tus-clientes.md: post actualizada (publish) id=2065 https://www.inbound.com.mx/infografia-5-pautas-con-las-que-podras-comunicarte-eficazmente-con-tus-clientes/ | Yoast: guardado
+content/blog/infografia-busqueda-de-empleo-en-rrss.md: post actualizada (publish) id=1969 https://www.inbound.com.mx/infografia-busqueda-de-empleo-en-rrss/ | Yoast: guardado
+content/blog/infografia-como-crear-una-campana-con-influencers.md: post actualizada (publish) id=1497 https://www.inbound.com.mx/infografia-como-crear-una-campana-con-influencers/ | Yoast: guardado
+content/blog/infografia-estrategias-de-los-directivos-para-afrontar-la-escasez-de-talento.md: post actualizada (publish) id=1759 https://www.inbound.com.mx/infografia-estrategias-de-los-directivos-para-afrontar-la-escasez-de-talento/ | Yoast: guardado
+content/blog/infografia-infografias-todo-lo-que-debes-de-saber.md: post actualizada (publish) id=1967 https://www.inbound.com.mx/infografia-infografias-todo-lo-que-debes-de-saber/ | Yoast: guardado
+content/blog/infografia-los-unicornios-estan-sobrevalorados.md: post actualizada (publish) id=1316 https://www.inbound.com.mx/infografia-los-unicornios-estan-sobrevalorados/ | Yoast: guardado
+content/blog/infografia-peru-el-consumidor-conectado.md: post actualizada (publish) id=1621 https://www.inbound.com.mx/infografia-peru-el-consumidor-conectado/ | Yoast: guardado
+content/blog/infografia-tendencias-en-publicidad-digital.md: post actualizada (publish) id=1791 https://www.inbound.com.mx/infografia-tendencias-en-publicidad-digital/ | Yoast: guardado
