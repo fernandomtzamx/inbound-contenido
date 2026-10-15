@@ -1,0 +1,25 @@
+fecha: 2026-10-15T18:02:25Z
+commit: 3718ab40072775523c2233a3e62753f59d58b951
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38782209753
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-4-habilidades-de-comunicacion.md content/blog/infografia-control-parental-preocupaciones-de-los-padres-digitales.md content/blog/infografia-el-mundo-abandona-el-dinero-en-efectivo.md content/blog/infografia-evolucion-del-marketing-en-el-tiempo.md content/blog/infografia-evolucion-del-sistema-financiero-espanol.md content/blog/infografia-instagram-stories-y-whastapp-status-superan-a-snapchat.md content/blog/infografia-la-evolucion-de-las-4p%c2%92s-a-las-4c%c2%92s-del-maketing.md content/blog/infografia-por-que-una-empresa-debe-de-invertir-en-marketing-de-eventos.md content/blog/infografia-tu-silla-y-tu-puesto-de-trabajo-tienen-que-ser-ergonomicos.md content/blog/infografia-uber-vs-didi.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-4-habilidades-de-comunicacion.md: post actualizada (publish) id=1450 https://www.inbound.com.mx/infografia-4-habilidades-de-comunicacion/ | Yoast: guardado
+content/blog/infografia-control-parental-preocupaciones-de-los-padres-digitales.md: post actualizada (publish) id=1404 https://www.inbound.com.mx/infografia-control-parental-preocupaciones-de-los-padres-digitales/ | Yoast: guardado
+content/blog/infografia-el-mundo-abandona-el-dinero-en-efectivo.md: post actualizada (publish) id=1304 https://www.inbound.com.mx/infografia-el-mundo-abandona-el-dinero-en-efectivo/ | Yoast: guardado
+content/blog/infografia-evolucion-del-marketing-en-el-tiempo.md: post actualizada (publish) id=1793 https://www.inbound.com.mx/infografia-evolucion-del-marketing-en-el-tiempo/ | Yoast: guardado
+content/blog/infografia-evolucion-del-sistema-financiero-espanol.md: post actualizada (publish) id=1937 https://www.inbound.com.mx/infografia-evolucion-del-sistema-financiero-espanol/ | Yoast: guardado
+content/blog/infografia-instagram-stories-y-whastapp-status-superan-a-snapchat.md: post actualizada (publish) id=1495 https://www.inbound.com.mx/infografia-instagram-stories-y-whastapp-status-superan-a-snapchat/ | Yoast: guardado
+content/blog/infografia-la-evolucion-de-las-4p%c2%92s-a-las-4c%c2%92s-del-maketing.md: post actualizada (publish) id=1669 https://www.inbound.com.mx/infografia-la-evolucion-de-las-4p%c2%92s-a-las-4c%c2%92s-del-maketing/ | Yoast: guardado
+content/blog/infografia-por-que-una-empresa-debe-de-invertir-en-marketing-de-eventos.md: post actualizada (publish) id=1577 https://www.inbound.com.mx/infografia-por-que-una-empresa-debe-de-invertir-en-marketing-de-eventos/ | Yoast: guardado
+content/blog/infografia-tu-silla-y-tu-puesto-de-trabajo-tienen-que-ser-ergonomicos.md: post actualizada (publish) id=2187 https://www.inbound.com.mx/infografia-tu-silla-y-tu-puesto-de-trabajo-tienen-que-ser-ergonomicos/ | Yoast: guardado
+content/blog/infografia-uber-vs-didi.md: post actualizada (publish) id=1653 https://www.inbound.com.mx/infografia-uber-vs-didi/ | Yoast: guardado

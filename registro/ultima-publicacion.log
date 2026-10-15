@@ -1,26 +1,25 @@
-fecha: 2026-10-15T18:00:57Z
-commit: 14f7e7053c3496c22f879906c35db9dcac491c58
+fecha: 2026-10-15T18:02:25Z
+commit: 3718ab40072775523c2233a3e62753f59d58b951
 evento: push
-resultado: failure
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38781804215
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38782209753
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-ad-verification-para-publicidad-programatica.md content/blog/infografia-cuantos-anuncios-retira-google-al-ano.md content/blog/infografia-desmontando-los-mitos-negativos-del-cloud-computing.md content/blog/infografia-en-que-crean-empleo-las-pymes-espanolas.md content/blog/infografia-guia-practica-para-elegir-medio-para-campana-publicitaria.md content/blog/infografia-las-cifras-de-la-hoteleria-en-2016.md content/blog/infografia-plan-de-inbound-marketing.md content/blog/infografia-ramsonware-lo-que-debes-saber.md content/blog/infografia-telefonos-que-mas-fidelizan-a-sus-usuarios.md content/blog/infografia-usuarios-de-tecnologias-de-la-informacion-en-mexico.md 
+Argumentos: content/blog/infografia-4-habilidades-de-comunicacion.md content/blog/infografia-control-parental-preocupaciones-de-los-padres-digitales.md content/blog/infografia-el-mundo-abandona-el-dinero-en-efectivo.md content/blog/infografia-evolucion-del-marketing-en-el-tiempo.md content/blog/infografia-evolucion-del-sistema-financiero-espanol.md content/blog/infografia-instagram-stories-y-whastapp-status-superan-a-snapchat.md content/blog/infografia-la-evolucion-de-las-4p%c2%92s-a-las-4c%c2%92s-del-maketing.md content/blog/infografia-por-que-una-empresa-debe-de-invertir-en-marketing-de-eventos.md content/blog/infografia-tu-silla-y-tu-puesto-de-trabajo-tienen-que-ser-ergonomicos.md content/blog/infografia-uber-vs-didi.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-ad-verification-para-publicidad-programatica.md: post actualizada (publish) id=1493 https://www.inbound.com.mx/infografia-ad-verification-para-publicidad-programatica/ | Yoast: guardado
-content/blog/infografia-cuantos-anuncios-retira-google-al-ano.md: post actualizada (publish) id=2143 https://www.inbound.com.mx/infografia-cuantos-anuncios-retira-google-al-ano/ | Yoast: guardado
-content/blog/infografia-desmontando-los-mitos-negativos-del-cloud-computing.md: post actualizada (publish) id=1767 https://www.inbound.com.mx/infografia-desmontando-los-mitos-negativos-del-cloud-computing/ | Yoast: guardado
-content/blog/infografia-en-que-crean-empleo-las-pymes-espanolas.md: post actualizada (publish) id=1979 https://www.inbound.com.mx/infografia-en-que-crean-empleo-las-pymes-espanolas/ | Yoast: guardado
-content/blog/infografia-guia-practica-para-elegir-medio-para-campana-publicitaria.md: post actualizada (publish) id=2367 https://www.inbound.com.mx/infografia-guia-practica-para-elegir-medio-para-campana-publicitaria/ | Yoast: guardado
-content/blog/infografia-las-cifras-de-la-hoteleria-en-2016.md: post actualizada (publish) id=2253 https://www.inbound.com.mx/infografia-las-cifras-de-la-hoteleria-en-2016/ | Yoast: guardado
-content/blog/infografia-plan-de-inbound-marketing.md: post actualizada (publish) id=2221 https://www.inbound.com.mx/infografia-plan-de-inbound-marketing/ | Yoast: guardado
-content/blog/infografia-ramsonware-lo-que-debes-saber.md: post actualizada (publish) id=1663 https://www.inbound.com.mx/infografia-ramsonware-lo-que-debes-saber/ | Yoast: guardado
-content/blog/infografia-telefonos-que-mas-fidelizan-a-sus-usuarios.md: post actualizada (publish) id=2075 https://www.inbound.com.mx/infografia-telefonos-que-mas-fidelizan-a-sus-usuarios/ | Yoast: guardado
-ERROR content/blog/infografia-usuarios-de-tecnologias-de-la-informacion-en-mexico.md: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-1 archivo(s) con error
+content/blog/infografia-4-habilidades-de-comunicacion.md: post actualizada (publish) id=1450 https://www.inbound.com.mx/infografia-4-habilidades-de-comunicacion/ | Yoast: guardado
+content/blog/infografia-control-parental-preocupaciones-de-los-padres-digitales.md: post actualizada (publish) id=1404 https://www.inbound.com.mx/infografia-control-parental-preocupaciones-de-los-padres-digitales/ | Yoast: guardado
+content/blog/infografia-el-mundo-abandona-el-dinero-en-efectivo.md: post actualizada (publish) id=1304 https://www.inbound.com.mx/infografia-el-mundo-abandona-el-dinero-en-efectivo/ | Yoast: guardado
+content/blog/infografia-evolucion-del-marketing-en-el-tiempo.md: post actualizada (publish) id=1793 https://www.inbound.com.mx/infografia-evolucion-del-marketing-en-el-tiempo/ | Yoast: guardado
+content/blog/infografia-evolucion-del-sistema-financiero-espanol.md: post actualizada (publish) id=1937 https://www.inbound.com.mx/infografia-evolucion-del-sistema-financiero-espanol/ | Yoast: guardado
+content/blog/infografia-instagram-stories-y-whastapp-status-superan-a-snapchat.md: post actualizada (publish) id=1495 https://www.inbound.com.mx/infografia-instagram-stories-y-whastapp-status-superan-a-snapchat/ | Yoast: guardado
+content/blog/infografia-la-evolucion-de-las-4p%c2%92s-a-las-4c%c2%92s-del-maketing.md: post actualizada (publish) id=1669 https://www.inbound.com.mx/infografia-la-evolucion-de-las-4p%c2%92s-a-las-4c%c2%92s-del-maketing/ | Yoast: guardado
+content/blog/infografia-por-que-una-empresa-debe-de-invertir-en-marketing-de-eventos.md: post actualizada (publish) id=1577 https://www.inbound.com.mx/infografia-por-que-una-empresa-debe-de-invertir-en-marketing-de-eventos/ | Yoast: guardado
+content/blog/infografia-tu-silla-y-tu-puesto-de-trabajo-tienen-que-ser-ergonomicos.md: post actualizada (publish) id=2187 https://www.inbound.com.mx/infografia-tu-silla-y-tu-puesto-de-trabajo-tienen-que-ser-ergonomicos/ | Yoast: guardado
+content/blog/infografia-uber-vs-didi.md: post actualizada (publish) id=1653 https://www.inbound.com.mx/infografia-uber-vs-didi/ | Yoast: guardado
