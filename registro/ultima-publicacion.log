@@ -1,243 +1,75 @@
-fecha: 2026-10-15T16:40:23Z
-commit: 5b9dfd2a26ab4ed4c65bed0525238db9a9c89982
+fecha: 2026-10-15T16:45:29Z
+commit: 65ecf0fab271faa48d5dcf8f9ed1559c07dc6298
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38767076708
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38771498063
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/PIL/Image.py:1054: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  warnings.warn(
-Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
-Métodos de autenticación anunciados: application-passwords
-lista infografias: 592 entradas
-descargado: infografia-que-es-el-autismo (id 2331, 244 caracteres)
-descargado: infografia-algunos-datos-que-debes-conocer-sobre-el-video (id 1931, 290 caracteres)
-descargado: infografia-la-atencion-a-los-anuncios-la-efectividad-no-solo-depende-de-la-cobertura (id 1362, 331 caracteres)
-descargado: infografia-10-diferencias-entre-inbound-y-outboung-marketing (id 1454, 316 caracteres)
-descargado: infografia-9-consejos-para-convertir-emails-en-reservas-para-tu-hotel (id 2385, 300 caracteres)
-descargado: infografia-10-claves-para-proyectar-seguridad (id 1426, 301 caracteres)
-descargado: infografia-tamanos-de-videos-e-imagenes-para-redes-sociales (id 2239, 318 caracteres)
-descargado: infografia-5-habilidades-del-reclutador-actual (id 1292, 295 caracteres)
-descargado: infografia-chatbots-y-experiencia-de-cliente (id 1859, 332 caracteres)
-descargado: infografia-diferencias-entre-el-periodista-del-siglo-pasado-y-el-actual (id 1456, 325 caracteres)
-descargado: infografia-8-herramientas-de-la-transformacion-digital (id 1326, 318 caracteres)
-descargado: infografia-7-razones-por-las-que-pagar-a-los-becarios (id 1302, 284 caracteres)
-descargado: infografia-cloud-computing-e-internet-de-las-cosas-de-la-mano (id 2045, 297 caracteres)
-descargado: infografia-infografias-todo-lo-que-debes-de-saber (id 1967, 266 caracteres)
-descargado: infografia-secretos-de-promocion-de-tus-contenidos (id 2191, 306 caracteres)
-descargado: infografia-6-trucos-para-tener-mas-energia-en-el-trabajo (id 1951, 307 caracteres)
-descargado: infografia-breve-historia-de-la-tecnologia (id 1999, 6183 caracteres)
-descargado: infografia-7-consejos-para-emprendedores-del-fundador-de-privalia (id 2315, 313 caracteres)
-descargado: infografia-que-es-un-troll (id 1955, 262 caracteres)
-descargado: infografia-por-que-tu-empresa-necesita-tener-una-web (id 2101, 292 caracteres)
-descargado: infografia-apple-distribucion-de-ingresos-por-productos (id 1543, 287 caracteres)
-descargado: infografia-10-herramientas-seo-gratis (id 1424, 297 caracteres)
-descargado: infografia-plano-del-metro-de-milan-milan-subway (id 1480, 265 caracteres)
-descargado: infografia-redes-sociales-en-cifras (id 2359, 277 caracteres)
-descargado: infografia-aprovecha-el-potencial-de-la-medicion-en-el-canal-movil (id 1344, 313 caracteres)
-descargado: infografia-snapchat-tiene-muchos-usuarios-que-no-utilizan-otras-redes (id 2117, 318 caracteres)
-descargado: infografia-radiografia-del-consumidor-online-espanol (id 1795, 5926 caracteres)
-descargado: infografia-4-estilos-de-aprendizaje (id 1893, 5906 caracteres)
-descargado: infografia-demografia-de-las-redes-sociales (id 2323, 289 caracteres)
-descargado: infografia-citas-celebres-de-expertos-en-productividad (id 1677, 279 caracteres)
-descargado: infografia-interrail (id 1821, 236 caracteres)
-descargado: infografia-m2m-y-el-iot-en-cifras (id 2225, 242 caracteres)
-descargado: infografia-tendencias-del-sector-ti (id 2033, 282 caracteres)
-descargado: infografia-consejos-para-conseguir-trabajo (id 1597, 6361 caracteres)
-descargado: infografia-top-10-habilidades-del-lider (id 1529, 278 caracteres)
-descargado: infografia-10-frases-para-captar-clientes (id 1925, 274 caracteres)
-descargado: infografia-para-que-necesita-tu-empresa-las-redes-sociales (id 1645, 335 caracteres)
-descargado: infografia-en-que-gasta-el-tiempo-de-su-vida-un-adulto-normal (id 1977, 308 caracteres)
-descargado: infografia-residuos-alimentarios-en-la-union-europea (id 2085, 296 caracteres)
-descargado: infografia-senalizacion-horizontal-en-las-pistas-de-los-aeropuertos (id 2289, 316 caracteres)
-descargado: infografia-3-pasos-activar-pulse-en-linkedin (id 2237, 279 caracteres)
-descargado: infografia-juego-de-tronos-y-turismo (id 1589, 267 caracteres)
-descargado: infografia-chatbots-como-transforman-la-experiencia-del-cliente-online (id 1803, 341 caracteres)
-descargado: infografia-ventas-en-la-dark-web (id 1555, 274 caracteres)
-descargado: infografia-chile-el-consumidor-conectado (id 1627, 297 caracteres)
-descargado: infografia-pilares-de-contenido-en-redes-sociales (id 1975, 305 caracteres)
-descargado: infografia-10-anos-de-la-vida-del-iphone (id 1775, 260 caracteres)
-descargado: infografia-automatiza-tus-mensajes-de-bienvenida-en-twitter-con-botice (id 1915, 6165 caracteres)
-descargado: infografia-apple-park-el-ultimo-sueno-de-steve-jobs (id 2099, 289 caracteres)
-descargado: infografia-111-consejos-para-elevar-la-ciberseguridad-de-tu-empresa (id 2345, 327 caracteres)
-descargado: infografia-reglas-basicas-para-escribir-en-internet (id 1298, 307 caracteres)
-descargado: infografia-por-que-tu-negocio-deberia-tener-tienda-on-line (id 2391, 338 caracteres)
-descargado: infografia-sectores-donde-tendra-mas-presencia-en-internet-de-las-cosas (id 1294, 293 caracteres)
-descargado: infografia-que-valoran-los-inversores-de-mi-empresa (id 2205, 318 caracteres)
-descargado: infografia-economia-colaborativa-en-la-union-europea (id 1813, 314 caracteres)
-descargado: infografia-calendario-de-fechas-de-interes-para-marketing (id 2371, 304 caracteres)
-descargado: infografia-7-estrategias-del-curador-de-contenidos (id 1470, 309 caracteres)
-descargado: infografia-estrategias-para-la-curacion-de-contenidos-2 (id 1953, 310 caracteres)
-descargado: infografia-el-futuro-de-la-localizacion-en-interiores-y-los-servicios-de-retail (id 1511, 329 caracteres)
-descargado: infografia-el-turista-de-negocios-en-cifras (id 2381, 276 caracteres)
-descargado: infografia-estadisticas-sobre-las-tasas-de-apertura-del-email-marketing (id 2285, 327 caracteres)
-descargado: infografia-10-preguntas-para-definir-tu-buyer-persona (id 1460, 305 caracteres)
-descargado: infografia-la-importancia-del-contenido-visual (id 2115, 308 caracteres)
-descargado: infografia-metro-de-roma-roma-subway (id 1517, 252 caracteres)
-descargado: infografia-por-que-debes-de-proteger-tu-reputacion-online (id 1587, 310 caracteres)
-descargado: infografia-5-novedades-para-administrar-grupos-de-facebook (id 1811, 318 caracteres)
-descargado: infografia-mexico-el-consumidor-conectado (id 1617, 299 caracteres)
-descargado: infografia-8-secretos-matutinos-de-las-personas-de-exito (id 2161, 318 caracteres)
-descargado: infografia-algunos-datos-sobre-el-cerebro (id 2195, 298 caracteres)
-descargado: infografia-buen-networking (id 1869, 268 caracteres)
-descargado: infografia-evolucion-del-precio-del-bitcoin (id 2052, 284 caracteres)
-descargado: infografia-que-preguntas-hacer-en-una-entrevista-de-trabajo (id 1585, 292 caracteres)
-descargado: infografia-10-profesiones-mas-dificiles-de-cubrir (id 1763, 301 caracteres)
-descargado: infografia-9-pasos-para-una-buena-estrategia-de-employer-branding (id 1290, 315 caracteres)
-descargado: infografia-5-miedos-que-frenan-tu-exito-en-el-trabajo (id 1929, 300 caracteres)
-descargado: infografia-como-es-el-s-pen-del-samsung-galaxy-note-8 (id 1382, 298 caracteres)
-descargado: infografia-pago-movil-tendencias (id 2058, 253 caracteres)
-descargado: infografia-10-nuevas-claves-del-consumo-mobile (id 2003, 297 caracteres)
-descargado: infografia-el-sector-de-la-automocion-en-colombia (id 2129, 295 caracteres)
-descargado: infografia-youtube-en-la-television-o-la-television-en-youtube (id 1318, 313 caracteres)
-descargado: infografia-10-claves-a-tener-en-cuenta-en-una-estrategia-de-contenidos-2 (id 2365, 328 caracteres)
-  imagen no descargada https://www.inbound.com.mx/wp-content/uploads/aumento-precios-alimentacion-brexit-infografia.png: 404 Client Error: Not Found for url: https://www.inbound.com.mx/wp-content/uploads/aumento-precios-alimentacion-brexit-i
-descargado: infografia-como-un-%c2%93brexit-duro%c2%94-afectaria-al-desayuno-tradicional-ingles (id 1679, 335 caracteres)
-descargado: infografia-40-errores-tecnicos-en-seo (id 1384, 291 caracteres)
-descargado: infografia-5-acciones-de-participacion-para-crear-engagement-en-facebook (id 1845, 332 caracteres)
-descargado: infografia-deben-tomarse-en-serio-los-mercadologos-el-marketing-de-contenidos (id 1406, 352 caracteres)
-descargado: infografia-desconectar-del-trabajo-en-vacaciones (id 1284, 294 caracteres)
-descargado: infografia-privacidad-que-piensan-los-consumidores (id 2317, 288 caracteres)
-descargado: infografia-viajeros-millenials-compra-y-reserva-en-dispositivos-moviles (id 1332, 298 caracteres)
-descargado: infografia-como-insertar-imagen-con-link-en-cuerpo-de-correo-gmail (id 2395, 340 caracteres)
-descargado: infografia-proyectos-app-en-america-latina (id 2079, 269 caracteres)
-descargado: infografia-ecosistema-linkedin (id 1779, 269 caracteres)
-descargado: infografia-pasos-para-una-mejor-composicion-visual (id 2363, 286 caracteres)
-descargado: infografia-tipos-de-chatbots (id 1372, 308 caracteres)
-descargado: infografia-10-elementos-de-diseno-para-un-gran-curriculum (id 2305, 279 caracteres)
-descargado: infografia-frases-y-citas-de-don-quijote-de-la-mancha (id 1458, 5978 caracteres)
-descargado: infografia-6-razones-para-salir-pronto-de-la-oficina (id 1963, 307 caracteres)
-descargado: infografia-como-se-forma-el-petroleo (id 2107, 5551 caracteres)
-descargado: infografia-11-ideas-clave-para-entender-la-situacion-laboral-de-las-personas-con-discapacidad (id 2209, 359 caracteres)
-descargado: infografia-ingresos-y-beneficios-de-las-100-empresas-mas-grandes-del-mundo (id 1923, 320 caracteres)
-descargado: infografia-8-reglas-de-oro-para-invertir-en-bolsa (id 2291, 302 caracteres)
-descargado: infografia-economia-colaborativa-en-la-union-europea-2 (id 2175, 316 caracteres)
-descargado: infografia-estadisticas-del-blogtrip (id 1943, 263 caracteres)
-descargado: infografia-5-extensiones-de-google-chrome-para-aumentar-tu-productividad (id 2353, 341 caracteres)
-descargado: infografia-infoproductos-que-son-y-como-venderlos (id 2379, 317 caracteres)
-descargado: infografia-5-consejos-para-implantar-la-gestion-por-valores (id 2093, 305 caracteres)
-descargado: infografia-9-mejores-herramientas-online-para-comprimir-imagenes (id 1755, 325 caracteres)
-descargado: infografia-8-secretos-para-crear-confianza-como-lider (id 1885, 292 caracteres)
-descargado: infografia-ultimas-tendencias-en-diseno-grafico (id 2073, 283 caracteres)
-descargado: infografia-10-errores-frecuentes-en-comunicacion-de-crisis (id 1609, 317 caracteres)
-descargado: infografia-13-herramientas-para-trabajar-en-la-nube (id 1785, 269 caracteres)
-descargado: infografia-evolucion-de-los-ingresos-de-facebook (id 1569, 288 caracteres)
-descargado: infografia-mujeres-pioneras-de-la-tecnologia (id 2247, 272 caracteres)
-descargado: infografia-guia-sobre-microinfluencers (id 1787, 283 caracteres)
-descargado: infografia-presente-y-futuro-de-la-atencion-al-cliente (id 2295, 315 caracteres)
-descargado: infografia-que-hay-en-el-corazon-de-una-empresa-saludable (id 2249, 330 caracteres)
-descargado: infografia-5-pautas-con-las-que-podras-comunicarte-eficazmente-con-tus-clientes (id 2065, 353 caracteres)
-descargado: infografia-evolucion-del-audiolibro-en-espanol (id 2335, 310 caracteres)
-descargado: infografia-6-consejos-para-crecer-tu-negocio-a-traves-de-tu-app (id 2163, 321 caracteres)
-descargado: infografia-que-sucede-en-internet-en-un-minuto (id 2393, 287 caracteres)
-descargado: infografia-mindfulness-9-maneras-de-practicar-la-atencion-plena-en-tu-vida-cotidiana (id 1913, 338 caracteres)
-descargado: infografia-brand-articulation-las-bases-para-solidificar-tu-marca-desde-cero (id 2031, 324 caracteres)
-descargado: infografia-25-mejores-twitteras-de-marketing-digital (id 1879, 311 caracteres)
-descargado: infografia-8-tareas-de-un-community-manager-en-una-empresa (id 2185, 306 caracteres)
-descargado: infografia-echas-algun-vistazo-a-los-perfiles-de-redes-sociales-de-tus-exparejas (id 1535, 329 caracteres)
-descargado: infografia-algunos-cambios-de-nombre-de-empresas-muy-conocidas (id 2149, 316 caracteres)
-descargado: infografia-la-sociedad-de-la-informacion-en-castilla-y-leon (id 2177, 322 caracteres)
-descargado: infografia-5-sectores-que-mas-creceran-de-la-economia-espanola (id 2159, 321 caracteres)
-descargado: infografia-5-buenas-razones-detras-de-la-jornada-intensiva-de-verano (id 1891, 317 caracteres)
-descargado: infografia-impacto-de-la-tecnologia-en-el-reclutamiento (id 1489, 314 caracteres)
-descargado: infografia-cuanto-se-visitan-las-webs-de-empleo-en-el-mundo (id 2297, 277 caracteres)
-descargado: infografia-los-7-magnificos-de-la-transformacion-digital (id 1320, 320 caracteres)
-  imagen no descargada https://www.inbound.com.mx/wp-content/uploads/peste-infografia.jpg: 404 Client Error: Not Found for url: https://www.inbound.com.mx/wp-content/uploads/peste-infografia.jpg
-descargado: infografia-vuelve-la-peste (id 1671, 242 caracteres)
-descargado: infografia-7-pasos-para-construir-un-proyecto-big-data-en-salud (id 2257, 284 caracteres)
-  imagen no descargada https://www.inbound.com.mx/wp-content/uploads/curiosidades-revenue-management-infografia.jpg: 404 Client Error: Not Found for url: https://www.inbound.com.mx/wp-content/uploads/curiosidades-revenue-management-infog
-descargado: infografia-curiosidades-del-revenue-management (id 1681, 306 caracteres)
-descargado: infografia-consejos-sobre-publicidad-en-las-redes-sociales (id 1605, 315 caracteres)
-descargado: infografia-7-maneras-de-mejorar-la-comunicacion-con-tus-colaboradores (id 2229, 342 caracteres)
-descargado: infografia-10-claves-para-educar-con-mindfulness (id 1909, 293 caracteres)
-descargado: infografia-estrategias-para-la-curacion-de-contenidos (id 1593, 313 caracteres)
-descargado: infografia-consejos-para-perder-el-miedo-a-volar (id 1505, 294 caracteres)
-descargado: infografia-la-industria-de-marketing-y-ventas-en-argentina (id 1525, 313 caracteres)
-descargado: infografia-cuanto-ganan-los-directores-ejecutivos-de-las-25-mayores-empresa-del-sp-500 (id 1547, 331 caracteres)
-descargado: infografia-hoja-de-ruta-de-la-metodologia-inbound-marketing (id 1619, 330 caracteres)
-  imagen no descargada https://www.inbound.com.mx/wp-content/uploads/riesgos-de-seguridad-para-establecimientos-medicos-infografia.jpg: 404 Client Error: Not Found for url: https://www.inbound.com.mx/wp-content/uploads/riesgos-de-seguridad-para-establecimi
-descargado: infografia-riesgos-de-seguridad-digital-para-establecimientos-medicos (id 1683, 348 caracteres)
-descargado: infografia-la-paradoja-entre-el-indice-big-mac-y-el-indice-iphone (id 2091, 320 caracteres)
-descargado: infografia-la-globalizacion-de-las-aeronaves (id 2197, 268 caracteres)
-descargado: infografia-el-continuo-crecimiento-de-los-ingresos-de-facebook (id 1563, 312 caracteres)
-descargado: infografia-mindfulness-en-la-escuela (id 1911, 274 caracteres)
-descargado: infografia-todos-los-productos-de-google (id 1430, 285 caracteres)
-descargado: infografia-gestion-de-residuos-en-la-union-europea (id 1819, 290 caracteres)
-descargado: infografia-coches-conectados-mediante-5g (id 1515, 263 caracteres)
-descargado: infografia-como-crear-tu-marca-personal (id 1945, 296 caracteres)
-descargado: infografia-10-apps-interesantes-para-el-verano (id 1789, 307 caracteres)
-  imagen no descargada https://www.inbound.com.mx/wp-content/uploads/color-branding-infografia.jpg: 404 Client Error: Not Found for url: https://www.inbound.com.mx/wp-content/uploads/color-branding-infografia.jpg
-descargado: infografia-la-importancia-del-color-en-el-branding (id 2047, 293 caracteres)
-descargado: infografia-descubre-la-ubicacion-optima-para-tu-empresa (id 1917, 326 caracteres)
-descargado: infografia-cuales-son-los-alimentos-nocivos-que-toman-los-disenadores (id 2001, 294 caracteres)
-descargado: infografia-12-tendencias-en-diseno-web (id 2217, 269 caracteres)
-descargado: infografia-un-ahorrador-de-vacaciones (id 1486, 289 caracteres)
-descargado: infografia-17-senales-de-que-tu-companero-de-trabajo-te-odia (id 2155, 6080 caracteres)
-descargado: infografia-como-debe-ser-tu-pagina-web (id 2183, 277 caracteres)
-descargado: infografia-beneficios-y-desventajas-de-las-oficinas-con-espacios-abiertos (id 1286, 317 caracteres)
-descargado: infografia-10-claves-para-que-tu-startup-logre-financiacion (id 1771, 308 caracteres)
-descargado: infografia-funnel-marketing-sistema-que-convierte-desconocidos-en-clientes (id 2373, 320 caracteres)
-descargado: infografia-malos-tiempos-para-el-dolar (id 1635, 286 caracteres)
-descargado: infografia-yoast-vs-all-in-one-cual-es-mejor-para-tu-wordpress (id 2041, 322 caracteres)
-descargado: infografia-7-ventajas-de-usar-vectores-en-un-blog-o-web (id 1338, 283 caracteres)
-descargado: infografia-las-necesidades-tecnologicas-de-las-empresas-del-siglo-xxi (id 1366, 303 caracteres)
-descargado: infografia-ingenieria-en-electronicaelectricidad-simbolos-formulas-estandares (id 2125, 315 caracteres)
-descargado: infografia-efectividad-de-la-radio-para-b2b (id 1446, 298 caracteres)
-descargado: infografia-10-elementos-comunes-de-las-mejores-paginas-web-del-mundo (id 1537, 337 caracteres)
-descargado: infografia-que-fabricantes-venden-mas-ordenadores-en-el-mundo (id 1657, 312 caracteres)
-descargado: infografia-pasos-clave-para-entender-al-cliente (id 1442, 307 caracteres)
-descargado: infografia-7-axiomas-de-la-cadena-de-suministros-segun-steve-jobs (id 2383, 348 caracteres)
-descargado: infografia-guia-para-manejar-el-estres-en-el-trabajo (id 2227, 298 caracteres)
-descargado: infografia-el-camino-a-la-transformacion-digital (id 1867, 306 caracteres)
-descargado: infografia-plano-del-metro-de-moscu-moscow-subway (id 1527, 269 caracteres)
-descargado: infografia-que-es-una-fintech (id 1861, 265 caracteres)
-descargado: infografia-informe-infoempleo-adecco-redes-sociales-y-mercado-de-trabajo (id 2399, 321 caracteres)
-descargado: infografia-los-6-no-en-el-momento-de-vender (id 2369, 291 caracteres)
-descargado: infografia-la-sociedad-de-la-informacion-en-el-mundo (id 2181, 307 caracteres)
-descargado: infografia-busqueda-en-google-por-dispositivo (id 1965, 297 caracteres)
-descargado: infografia-color-branding (id 1352, 274 caracteres)
-descargado: infografia-trabajar-gratis-si-o-no-he-ahi-el-dilema (id 2235, 304 caracteres)
-  imagen no descargada https://www.inbound.com.mx/wp-content/uploads/8-ventajas-comunicacion-empresa-infografia.jpg: 404 Client Error: Not Found for url: https://www.inbound.com.mx/wp-content/uploads/8-ventajas-comunicacion-empresa-infog
-descargado: infografia-8-ventajas-de-la-comunicacion-para-la-empresa (id 1667, 316 caracteres)
-descargado: infografia-estrategias-de-los-directivos-para-afrontar-la-escasez-de-talento (id 1759, 318 caracteres)
-descargado: infografia-4-desventajas-de-los-temas-gratis-de-wordpress (id 1877, 315 caracteres)
-descargado: infografia-automatizacion-del-trabajo-hombre-vs-robot (id 2233, 276 caracteres)
-descargado: infografia-5-aberraciones-electricas-en-la-automatizacion-industrial (id 1595, 318 caracteres)
-descargado: infografia-deficit-presupuestario-de-los-paises-del-g20 (id 1783, 295 caracteres)
-descargado: infografia-7-pautas-para-crear-tu-estrategia-de-experiencia-del-cliente (id 2279, 328 caracteres)
-descargado: infografia-como-hacer-un-presupuesto-de-marketing-en-redes-sociales (id 1983, 316 caracteres)
-descargado: infografia-cual-son-las-funciones-de-un-analista-web (id 2141, 303 caracteres)
-descargado: infografia-las-empresas-que-mas-ingresan-por-empleado (id 1887, 320 caracteres)
-descargado: infografia-5-momentos-importantes-de-un-a-marca-de-automocion-para-convencer (id 1402, 395 caracteres)
-descargado: infografia-videojuegos-en-mexico (id 2275, 5555 caracteres)
-descargado: infografia-ejercicios-para-evitar-la-tendinitis-por-el-uso-del-movil (id 2387, 295 caracteres)
-descargado: infografia-atajos-de-teclado-para-social-media (id 2245, 302 caracteres)
-descargado: infografia-guarda-y-clasifica-las-fotos-que-te-gusten-en-instagram (id 1847, 311 caracteres)
-descargado: infografia-el-auge-de-loa-videos-online-en-las-pantallas-de-tv (id 1398, 309 caracteres)
-descargado: infografia-prime-day-de-amazon-vs-otros-periodos-de-ofertas (id 1651, 304 caracteres)
-descargado: infografia-aerolineas-que-disponen-de-wifi-por-paises (id 2397, 277 caracteres)
-  imagen no descargada https://www.inbound.com.mx/wp-content/uploads/10-tendencias-de-capital-humano-infografc3ada-andrc3a9s-macario.png: 404 Client Error: Not Found for url: https://www.inbound.com.mx/wp-content/uploads/10-tendencias-de-capital-humano-infog
-descargado: infografia-10-tendencias-de-capital-humano (id 1673, 323 caracteres)
-descargado: infografia-funciones-de-un-director-comercial (id 2119, 6830 caracteres)
-descargado: infografia-whatsapp-en-atencion-al-cliente (id 1557, 299 caracteres)
-descargado: infografia-chrome-el-rey-de-nos-navegadores (id 1583, 284 caracteres)
-descargado: infografia-que-es-aso-app-store-optimization (id 2355, 289 caracteres)
-descargado: infografia-7-consejos-para-que-tu-blog-no-duerma-en-verano (id 1428, 308 caracteres)
-descargado: infografia-8-niveles-de-startups-de-exito (id 1957, 285 caracteres)
-descargado: infografia-10-errores-imperdonables-en-la-ejecucion-del-branding (id 1575, 309 caracteres)
-descargado: infografia-10-cosas-que-un-lider-no-debe-hacer (id 1531, 294 caracteres)
-descargado: infografia-la-voz-de-tu-marca-lo-que-debieras-tener-en-cuenta (id 1579, 303 caracteres)
-descargado: infografia-10-mayores-multas-a-empresas-por-parte-de-la-comision-europea (id 1601, 335 caracteres)
-descargado: infografia-indice-de-malos-habitos (id 1665, 283 caracteres)
-descargado: infografia-whatsapp-en-cifras (id 1551, 424 caracteres)
-descargado: infografia-principales-factores-para-posicionar-en-la-primera-pagina-de-google (id 2007, 340 caracteres)
-descargado: infografia-realidad-virtual-y-marketing (id 2299, 283 caracteres)
-descargado: infografia-tendencias-sobre-comercio-electronico (id 2337, 303 caracteres)
-Argumentos: --check
+Argumentos: content/blog/infografia-10-tecnologias-emergentes-de-2017.md content/blog/infografia-11-ideas-para-publicar-en-tu-blog-de-empresa.md content/blog/infografia-30-canales-para-la-busqueda-de-empleo.md content/blog/infografia-30-estadisticas-sobre-instagram-que-todo-negocio-deberia-conocer-en-2019.md content/blog/infografia-5-factores-de-inteligencia-emocional.md content/blog/infografia-5-ideas-para-aprovechar-pinterest-en-las-empresas.md content/blog/infografia-5-pautas-para-crear-una-comunidad-para-tu-marca-en-redes-sociales.md content/blog/infografia-5-tendencias-tecnologicas-que-cambiaran-el-mundo.md content/blog/infografia-6-tipos-de-influencers.md content/blog/infografia-7-consejos-para-maestros-al-inicio-del-ciclo-escolar.md content/blog/infografia-7-pecados-capitales-de-tu-marca-personal.md content/blog/infografia-8-companeros-de-trabajo-toxicos.md content/blog/infografia-9-consejos-para-vender-un-producto.md content/blog/infografia-anatomia-del-buen-lider.md content/blog/infografia-auge-y-caida-del-ipod.md content/blog/infografia-barreras-culturales-legales-y-economicas-que-afectan-a-las-mipymes-infografia.md content/blog/infografia-beneficios-de-ls-marca-personal.md content/blog/infografia-como-crear-el-post-perfecto-en-redes-sociales.md content/blog/infografia-como-eliminar-el-fondo-de-una-imagen-en-segundos.md content/blog/infografia-como-hacer-un-plan-de-empresa.md content/blog/infografia-como-hacer-una-manual-de-crisis-de-reputacion.md content/blog/infografia-como-identificar-noticias-falsas-en-facebook.md content/blog/infografia-como-se-comporta-el-mercado-de-los-smartwatch.md content/blog/infografia-conoce-apple-ventas-ingresos-y-valor-de-marca-actual.md content/blog/infografia-consejos-para-las-entrevistas-de-trabajo-online.md content/blog/infografia-datos-para-entender-el-amor-y-el-desamor-en-mexico.md content/blog/infografia-del-marketing-1-0-al-marketing-3-0.md content/blog/infografia-dia-de-la-tierra.md content/blog/infografia-diferencias-entre-el-diseno-web-responsive-y-el-diseno-web-adaptativo.md content/blog/infografia-el-arte-de-negociar.md content/blog/infografia-el-nuevo-lider-protagonista-del-cambio.md content/blog/infografia-el-papel-de-la-mujer-en-el-mundo.md content/blog/infografia-estrategias-para-que-tu-empresa-sea-lider.md content/blog/infografia-guia-de-buenas-practicas-para-el-uso-y-gestion-de-redes-sociales.md content/blog/infografia-habilidades-sociales.md content/blog/infografia-herramientas-de-google-para-optimizar-tu-pagina-web.md content/blog/infografia-historia-de-instagram.md content/blog/infografia-hoyo-negro.md content/blog/infografia-industria-de-videojuegos-en-mexico-2018.md content/blog/infografia-infografias-estaticas-vs-interactivas.md content/blog/infografia-liderazgo-situacional.md content/blog/infografia-los-auriculares-bluetooth-dominan-el-mercado-de-las-wearables.md content/blog/infografia-los-colores-y-su-relacion-con-la-publicidad.md content/blog/infografia-mapa-de-la-empatia.md content/blog/infografia-marvel-vs-dc-comics-la-batalla-de-los-superheroes.md content/blog/infografia-ofertas-de-trabajo-falsas-10-indicadores-para-reconocerlas.md content/blog/infografia-panorama-de-las-empresas-de-inteligencia-artificial.md content/blog/infografia-perfil-de-trabajador-peruano.md content/blog/infografia-promociona-tu-libro-en-los-medios-sociales.md content/blog/infografia-que-es-el-social-selling-index-ssi.md content/blog/infografia-que-es-un-chatbot.md content/blog/infografia-realidad-virtual-y-realidad-aumentada-tendencias.md content/blog/infografia-retrato-robot-del-comprador-online-en-europa.md content/blog/infografia-salario-emocional-la-clave-para-retener-el-talento.md content/blog/infografia-seo-social-las-senales-sociales-mas-relevantes-para-google.md content/blog/infografia-storytelling-vs-storydoing.md content/blog/infografia-tipos-de-companeros-de-trabajo.md content/blog/infografia-tipos-de-consumidor-para-tu-tienda.md content/blog/infografia-turismo-y-transformacion-digital.md content/blog/infografia-videojuegos-beneficios-vs-adiccion.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
+content/blog/infografia-10-tecnologias-emergentes-de-2017.md: post actualizada (publish) id=2303 https://www.inbound.com.mx/infografia-10-tecnologias-emergentes-de-2017/ | Yoast: guardado
+content/blog/infografia-11-ideas-para-publicar-en-tu-blog-de-empresa.md: post actualizada (publish) id=2021 https://www.inbound.com.mx/infografia-11-ideas-para-publicar-en-tu-blog-de-empresa/ | Yoast: guardado
+content/blog/infografia-30-canales-para-la-busqueda-de-empleo.md: post actualizada (publish) id=2043 https://www.inbound.com.mx/infografia-30-canales-para-la-busqueda-de-empleo/ | Yoast: guardado
+content/blog/infografia-30-estadisticas-sobre-instagram-que-todo-negocio-deberia-conocer-en-2019.md: post actualizada (publish) id=8901 https://www.inbound.com.mx/infografia-30-estadisticas-sobre-instagram-que-todo-negocio-deberia-conocer-en-2019/ | Yoast: guardado
+content/blog/infografia-5-factores-de-inteligencia-emocional.md: post actualizada (publish) id=2327 https://www.inbound.com.mx/infografia-5-factores-de-inteligencia-emocional/ | Yoast: guardado
+content/blog/infografia-5-ideas-para-aprovechar-pinterest-en-las-empresas.md: post actualizada (publish) id=1350 https://www.inbound.com.mx/infografia-5-ideas-para-aprovechar-pinterest-en-las-empresas/ | Yoast: guardado
+content/blog/infografia-5-pautas-para-crear-una-comunidad-para-tu-marca-en-redes-sociales.md: post actualizada (publish) id=2103 https://www.inbound.com.mx/infografia-5-pautas-para-crear-una-comunidad-para-tu-marca-en-redes-sociales/ | Yoast: guardado
+content/blog/infografia-5-tendencias-tecnologicas-que-cambiaran-el-mundo.md: post actualizada (publish) id=1835 https://www.inbound.com.mx/infografia-5-tendencias-tecnologicas-que-cambiaran-el-mundo/ | Yoast: guardado
+content/blog/infografia-6-tipos-de-influencers.md: post actualizada (publish) id=2223 https://www.inbound.com.mx/infografia-6-tipos-de-influencers/ | Yoast: guardado
+content/blog/infografia-7-consejos-para-maestros-al-inicio-del-ciclo-escolar.md: post actualizada (publish) id=1300 https://www.inbound.com.mx/infografia-7-consejos-para-maestros-al-inicio-del-ciclo-escolar/ | Yoast: guardado
+content/blog/infografia-7-pecados-capitales-de-tu-marca-personal.md: post actualizada (publish) id=2213 https://www.inbound.com.mx/infografia-7-pecados-capitales-de-tu-marca-personal/ | Yoast: guardado
+content/blog/infografia-8-companeros-de-trabajo-toxicos.md: post actualizada (publish) id=1851 https://www.inbound.com.mx/infografia-8-companeros-de-trabajo-toxicos/ | Yoast: guardado
+content/blog/infografia-9-consejos-para-vender-un-producto.md: post actualizada (publish) id=2349 https://www.inbound.com.mx/infografia-9-consejos-para-vender-un-producto/ | Yoast: guardado
+content/blog/infografia-anatomia-del-buen-lider.md: post actualizada (publish) id=1641 https://www.inbound.com.mx/infografia-anatomia-del-buen-lider/ | Yoast: guardado
+content/blog/infografia-auge-y-caida-del-ipod.md: post actualizada (publish) id=1549 https://www.inbound.com.mx/infografia-auge-y-caida-del-ipod/ | Yoast: guardado
+content/blog/infografia-barreras-culturales-legales-y-economicas-que-afectan-a-las-mipymes-infografia.md: post actualizada (publish) id=7521 https://www.inbound.com.mx/infografia-barreras-culturales-legales-y-economicas-que-afectan-a-las-mipymes-infografia/ | Yoast: guardado
+content/blog/infografia-beneficios-de-ls-marca-personal.md: post actualizada (publish) id=1553 https://www.inbound.com.mx/infografia-beneficios-de-ls-marca-personal/ | Yoast: guardado
+content/blog/infografia-como-crear-el-post-perfecto-en-redes-sociales.md: post actualizada (publish) id=1629 https://www.inbound.com.mx/infografia-como-crear-el-post-perfecto-en-redes-sociales/ | Yoast: guardado
+content/blog/infografia-como-eliminar-el-fondo-de-una-imagen-en-segundos.md: post actualizada (publish) id=2261 https://www.inbound.com.mx/infografia-como-eliminar-el-fondo-de-una-imagen-en-segundos/ | Yoast: guardado
+content/blog/infografia-como-hacer-un-plan-de-empresa.md: post actualizada (publish) id=1270 https://www.inbound.com.mx/infografia-como-hacer-un-plan-de-empresa/ | Yoast: guardado
+content/blog/infografia-como-hacer-una-manual-de-crisis-de-reputacion.md: post actualizada (publish) id=1559 https://www.inbound.com.mx/infografia-como-hacer-una-manual-de-crisis-de-reputacion/ | Yoast: guardado
+content/blog/infografia-como-identificar-noticias-falsas-en-facebook.md: post actualizada (publish) id=1390 https://www.inbound.com.mx/infografia-como-identificar-noticias-falsas-en-facebook/ | Yoast: guardado
+content/blog/infografia-como-se-comporta-el-mercado-de-los-smartwatch.md: post actualizada (publish) id=5749 https://www.inbound.com.mx/infografia-como-se-comporta-el-mercado-de-los-smartwatch/ | Yoast: guardado
+content/blog/infografia-conoce-apple-ventas-ingresos-y-valor-de-marca-actual.md: post actualizada (publish) id=7562 https://www.inbound.com.mx/infografia-conoce-apple-ventas-ingresos-y-valor-de-marca-actual/ | Yoast: guardado
+content/blog/infografia-consejos-para-las-entrevistas-de-trabajo-online.md: post actualizada (publish) id=1324 https://www.inbound.com.mx/infografia-consejos-para-las-entrevistas-de-trabajo-online/ | Yoast: guardado
+content/blog/infografia-datos-para-entender-el-amor-y-el-desamor-en-mexico.md: post actualizada (publish) id=5120 https://www.inbound.com.mx/infografia-datos-para-entender-el-amor-y-el-desamor-en-mexico/ | Yoast: guardado
+content/blog/infografia-del-marketing-1-0-al-marketing-3-0.md: post actualizada (publish) id=1941 https://www.inbound.com.mx/infografia-del-marketing-1-0-al-marketing-3-0/ | Yoast: guardado
+content/blog/infografia-dia-de-la-tierra.md: post actualizada (publish) id=7509 https://www.inbound.com.mx/infografia-dia-de-la-tierra/ | Yoast: guardado
+content/blog/infografia-diferencias-entre-el-diseno-web-responsive-y-el-diseno-web-adaptativo.md: post actualizada (publish) id=1959 https://www.inbound.com.mx/infografia-diferencias-entre-el-diseno-web-responsive-y-el-diseno-web-adaptativo/ | Yoast: guardado
+content/blog/infografia-el-arte-de-negociar.md: post actualizada (publish) id=2273 https://www.inbound.com.mx/infografia-el-arte-de-negociar/ | Yoast: guardado
+content/blog/infografia-el-nuevo-lider-protagonista-del-cambio.md: post actualizada (publish) id=1865 https://www.inbound.com.mx/infografia-el-nuevo-lider-protagonista-del-cambio/ | Yoast: guardado
+content/blog/infografia-el-papel-de-la-mujer-en-el-mundo.md: post actualizada (publish) id=5681 https://www.inbound.com.mx/infografia-el-papel-de-la-mujer-en-el-mundo/ | Yoast: guardado
+content/blog/infografia-estrategias-para-que-tu-empresa-sea-lider.md: post actualizada (publish) id=5080 https://www.inbound.com.mx/infografia-estrategias-para-que-tu-empresa-sea-lider/ | Yoast: guardado
+content/blog/infografia-guia-de-buenas-practicas-para-el-uso-y-gestion-de-redes-sociales.md: post actualizada (publish) id=1939 https://www.inbound.com.mx/infografia-guia-de-buenas-practicas-para-el-uso-y-gestion-de-redes-sociales/ | Yoast: guardado
+content/blog/infografia-habilidades-sociales.md: post actualizada (publish) id=2329 https://www.inbound.com.mx/infografia-habilidades-sociales/ | Yoast: guardado
+content/blog/infografia-herramientas-de-google-para-optimizar-tu-pagina-web.md: post actualizada (publish) id=2377 https://www.inbound.com.mx/infografia-herramientas-de-google-para-optimizar-tu-pagina-web/ | Yoast: guardado
+content/blog/infografia-historia-de-instagram.md: post actualizada (publish) id=1472 https://www.inbound.com.mx/infografia-historia-de-instagram/ | Yoast: guardado
+content/blog/infografia-hoyo-negro.md: post actualizada (publish) id=7197 https://www.inbound.com.mx/infografia-hoyo-negro/ | Yoast: guardado
+content/blog/infografia-industria-de-videojuegos-en-mexico-2018.md: post actualizada (publish) id=6924 https://www.inbound.com.mx/infografia-industria-de-videojuegos-en-mexico-2018/ | Yoast: guardado
+content/blog/infografia-infografias-estaticas-vs-interactivas.md: post actualizada (publish) id=1649 https://www.inbound.com.mx/infografia-infografias-estaticas-vs-interactivas/ | Yoast: guardado
+content/blog/infografia-liderazgo-situacional.md: post actualizada (publish) id=2087 https://www.inbound.com.mx/infografia-liderazgo-situacional/ | Yoast: guardado
+content/blog/infografia-los-auriculares-bluetooth-dominan-el-mercado-de-las-wearables.md: post actualizada (publish) id=1328 https://www.inbound.com.mx/infografia-los-auriculares-bluetooth-dominan-el-mercado-de-las-wearables/ | Yoast: guardado
+content/blog/infografia-los-colores-y-su-relacion-con-la-publicidad.md: post actualizada (publish) id=5643 https://www.inbound.com.mx/infografia-los-colores-y-su-relacion-con-la-publicidad/ | Yoast: guardado
+content/blog/infografia-mapa-de-la-empatia.md: post actualizada (publish) id=1519 https://www.inbound.com.mx/infografia-mapa-de-la-empatia/ | Yoast: guardado
+content/blog/infografia-marvel-vs-dc-comics-la-batalla-de-los-superheroes.md: post actualizada (publish) id=2207 https://www.inbound.com.mx/infografia-marvel-vs-dc-comics-la-batalla-de-los-superheroes/ | Yoast: guardado
+content/blog/infografia-ofertas-de-trabajo-falsas-10-indicadores-para-reconocerlas.md: post actualizada (publish) id=1336 https://www.inbound.com.mx/infografia-ofertas-de-trabajo-falsas-10-indicadores-para-reconocerlas/ | Yoast: guardado
+content/blog/infografia-panorama-de-las-empresas-de-inteligencia-artificial.md: post actualizada (publish) id=1807 https://www.inbound.com.mx/infografia-panorama-de-las-empresas-de-inteligencia-artificial/ | Yoast: guardado
+content/blog/infografia-perfil-de-trabajador-peruano.md: post actualizada (publish) id=2171 https://www.inbound.com.mx/infografia-perfil-de-trabajador-peruano/ | Yoast: guardado
+content/blog/infografia-promociona-tu-libro-en-los-medios-sociales.md: post actualizada (publish) id=2151 https://www.inbound.com.mx/infografia-promociona-tu-libro-en-los-medios-sociales/ | Yoast: guardado
+content/blog/infografia-que-es-el-social-selling-index-ssi.md: post actualizada (publish) id=2111 https://www.inbound.com.mx/infografia-que-es-el-social-selling-index-ssi/ | Yoast: guardado
+content/blog/infografia-que-es-un-chatbot.md: post actualizada (publish) id=1883 https://www.inbound.com.mx/infografia-que-es-un-chatbot/ | Yoast: guardado
+content/blog/infografia-realidad-virtual-y-realidad-aumentada-tendencias.md: post actualizada (publish) id=2056 https://www.inbound.com.mx/infografia-realidad-virtual-y-realidad-aumentada-tendencias/ | Yoast: guardado
+content/blog/infografia-retrato-robot-del-comprador-online-en-europa.md: post actualizada (publish) id=2011 https://www.inbound.com.mx/infografia-retrato-robot-del-comprador-online-en-europa/ | Yoast: guardado
+content/blog/infografia-salario-emocional-la-clave-para-retener-el-talento.md: post actualizada (publish) id=1342 https://www.inbound.com.mx/infografia-salario-emocional-la-clave-para-retener-el-talento/ | Yoast: guardado
+content/blog/infografia-seo-social-las-senales-sociales-mas-relevantes-para-google.md: post actualizada (publish) id=2281 https://www.inbound.com.mx/infografia-seo-social-las-senales-sociales-mas-relevantes-para-google/ | Yoast: guardado
+content/blog/infografia-storytelling-vs-storydoing.md: post actualizada (publish) id=1823 https://www.inbound.com.mx/infografia-storytelling-vs-storydoing/ | Yoast: guardado
+content/blog/infografia-tipos-de-companeros-de-trabajo.md: post actualizada (publish) id=1388 https://www.inbound.com.mx/infografia-tipos-de-companeros-de-trabajo/ | Yoast: guardado
+content/blog/infografia-tipos-de-consumidor-para-tu-tienda.md: post actualizada (publish) id=2333 https://www.inbound.com.mx/infografia-tipos-de-consumidor-para-tu-tienda/ | Yoast: guardado
+content/blog/infografia-turismo-y-transformacion-digital.md: post actualizada (publish) id=1412 https://www.inbound.com.mx/infografia-turismo-y-transformacion-digital/ | Yoast: guardado
+content/blog/infografia-videojuegos-beneficios-vs-adiccion.md: post actualizada (publish) id=1322 https://www.inbound.com.mx/infografia-videojuegos-beneficios-vs-adiccion/ | Yoast: guardado
