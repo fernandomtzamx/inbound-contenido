@@ -1,0 +1,40 @@
+{
+ "id": 5643,
+ "slug": "infografia-los-colores-y-su-relacion-con-la-publicidad",
+ "status": "publish",
+ "date": "2019-02-28T22:24:48",
+ "modified": "2019-02-28T22:24:48",
+ "link": "https://www.inbound.com.mx/infografia-los-colores-y-su-relacion-con-la-publicidad/",
+ "featured_media": 5644,
+ "categories": [
+  105
+ ],
+ "tags": [
+  107,
+  152
+ ],
+ "template": "",
+ "format": "standard",
+ "title": "[Infografía] Los colores y su relación con la publicidad",
+ "excerpt": "",
+ "content": "<img class=\"aligncenter wp-image-5644 size-full\" src=\"https://www.inbound.com.mx/wp-content/uploads/2019/02/infografia_color.jpg\" alt=\"color publicidad\" width=\"1024\" height=\"2048\" />",
+ "tipo": "posts",
+ "yoast_head_json": {
+  "title": "[Infografía] Los colores y su relación con la publicidad - INBOUND",
+  "description": null,
+  "og_image": [
+   {
+    "width": 1024,
+    "height": 2048,
+    "url": "https://www.inbound.com.mx/wp-content/uploads/2019/02/infografia_color.jpg",
+    "type": "image/jpeg"
+   }
+  ]
+ },
+ "featured": {
+  "source_url": "https://www.inbound.com.mx/wp-content/uploads/2019/02/infografia_color.jpg",
+  "alt": "color publicidad",
+  "width": 1024,
+  "height": 2048
+ }
+}

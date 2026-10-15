@@ -1,0 +1,40 @@
+{
+ "id": 1501,
+ "slug": "infografia-el-desafio-de-la-ciberseguridad-en-el-iot",
+ "status": "publish",
+ "date": "2017-10-29T21:25:37",
+ "modified": "2018-01-27T02:01:15",
+ "link": "https://www.inbound.com.mx/infografia-el-desafio-de-la-ciberseguridad-en-el-iot/",
+ "featured_media": 1502,
+ "categories": [
+  105
+ ],
+ "tags": [
+  107,
+  108
+ ],
+ "template": "",
+ "format": "standard",
+ "title": "[Infografía] El desafío de la ciberseguridad en el IoT",
+ "excerpt": "Infografía sobre IoT con el tema: \"El desafío de la ciberseguridad en el IoT\"",
+ "content": "En esta ocasión te compartimos una Infografía sobre IoT con el tema: \"El desafío de la ciberseguridad en el IoT\".\r\n\r\n<img class=\"img-responsive\" src=\"https://www.inbound.com.mx//wp-content/uploads/2017/10/ciberseguridad-internet-de-las-cosas-infografia.png\" alt=\"Infografía sobre IoT\" />",
+ "tipo": "posts",
+ "yoast_head_json": {
+  "title": "[Infografía] El desafío de la ciberseguridad en el IoT",
+  "description": "Infografía sobre IoT con el tema: \"El desafío de la ciberseguridad en el IoT\"",
+  "og_image": [
+   {
+    "width": 400,
+    "height": 400,
+    "url": "https://www.inbound.com.mx/wp-content/uploads/2017/07/GL5yK8Lr_400x400.png",
+    "type": "image/png"
+   }
+  ]
+ },
+ "featured": {
+  "source_url": "https://www.inbound.com.mx/wp-content/uploads/2017/09/ciberseguridad-internet-de-las-cosas-infografia.png",
+  "alt": "",
+  "width": 960,
+  "height": 3531
+ }
+}

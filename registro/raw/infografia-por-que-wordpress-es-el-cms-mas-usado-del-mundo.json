@@ -1,0 +1,40 @@
+{
+ "id": 2095,
+ "slug": "infografia-por-que-wordpress-es-el-cms-mas-usado-del-mundo",
+ "status": "publish",
+ "date": "2017-11-12T09:38:21",
+ "modified": "2018-01-27T01:51:42",
+ "link": "https://www.inbound.com.mx/infografia-por-que-wordpress-es-el-cms-mas-usado-del-mundo/",
+ "featured_media": 2096,
+ "categories": [
+  105
+ ],
+ "tags": [
+  15,
+  107
+ ],
+ "template": "",
+ "format": "standard",
+ "title": "[Infografía] Por qué WordPress es el CMS más usado del Mundo",
+ "excerpt": "Infografía sobre Inbound Marketing con el tema: \"Por qué WordPress es el CMS más usado del Mundo\"",
+ "content": "En esta ocasión te compartimos una Infografía sobre Inbound Marketing con el tema: \"Por qué WordPress es el CMS más usado del Mundo\".\r\n\r\n<img class=\"img-responsive\" src=\"https://www.inbound.com.mx//wp-content/uploads/2017/11/wordpress-cms-mas-utilizado-del-mundo-infografia.png\" alt=\"Infografía sobre Inbound Marketing\" />",
+ "tipo": "posts",
+ "yoast_head_json": {
+  "title": "[Infografía] Por qué WordPress es el CMS más usado del Mundo",
+  "description": "Infografía sobre Inbound Marketing con el tema: \"Por qué WordPress es el CMS más usado del Mundo\"",
+  "og_image": [
+   {
+    "width": 400,
+    "height": 400,
+    "url": "https://www.inbound.com.mx/wp-content/uploads/2017/07/GL5yK8Lr_400x400.png",
+    "type": "image/png"
+   }
+  ]
+ },
+ "featured": {
+  "source_url": "https://www.inbound.com.mx/wp-content/uploads/2017/09/wordpress-cms-mas-utilizado-del-mundo-infografia.png",
+  "alt": "",
+  "width": 800,
+  "height": 2000
+ }
+}

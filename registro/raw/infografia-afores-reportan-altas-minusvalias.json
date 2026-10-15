@@ -1,0 +1,39 @@
+{
+ "id": 4415,
+ "slug": "infografia-afores-reportan-altas-minusvalias",
+ "status": "publish",
+ "date": "2019-01-25T20:44:45",
+ "modified": "2019-02-18T17:49:43",
+ "link": "https://www.inbound.com.mx/infografia-afores-reportan-altas-minusvalias/",
+ "featured_media": 4411,
+ "categories": [
+  105
+ ],
+ "tags": [
+  107
+ ],
+ "template": "",
+ "format": "standard",
+ "title": "[Infografía]  Afores reportan altas minusvalías",
+ "excerpt": "",
+ "content": "<img src=\"https://www.inbound.com.mx/wp-content/uploads/2019/01/367792-2.jpeg\" alt=\"\" />",
+ "tipo": "posts",
+ "yoast_head_json": {
+  "title": "[Infografía] Afores reportan altas minusvalías - INBOUND",
+  "description": null,
+  "og_image": [
+   {
+    "width": 800,
+    "height": 533,
+    "url": "http://ec2-13-59-38-8.us-east-2.compute.amazonaws.com/wp-content/uploads/2019/01/Afores-reportan-altas-minusvalías-Infografía84655.jpeg",
+    "type": "image/jpeg"
+   }
+  ]
+ },
+ "featured": {
+  "source_url": "https://www.inbound.com.mx/wp-content/uploads/2019/01/Afores-reportan-altas-minusvalías-Infografía84655.jpeg",
+  "alt": "",
+  "width": 800,
+  "height": 533
+ }
+}
