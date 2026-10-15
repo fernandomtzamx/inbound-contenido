@@ -1,0 +1,25 @@
+fecha: 2026-10-15T18:21:11Z
+commit: 974b6c92adfb940c4516df13cd402b6b335dd135
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38784833359
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-5-novedades-para-administrar-grupos-de-facebook.md content/blog/infografia-calendario-de-fechas-de-interes-para-marketing.md content/blog/infografia-chatbots-como-transforman-la-experiencia-del-cliente-online.md content/blog/infografia-economia-colaborativa-en-la-union-europea.md content/blog/infografia-el-futuro-de-la-localizacion-en-interiores-y-los-servicios-de-retail.md content/blog/infografia-estrategias-para-la-curacion-de-contenidos-2.md content/blog/infografia-juego-de-tronos-y-turismo.md content/blog/infografia-que-preguntas-hacer-en-una-entrevista-de-trabajo.md content/blog/infografia-reglas-basicas-para-escribir-en-internet.md content/blog/infografia-senalizacion-horizontal-en-las-pistas-de-los-aeropuertos.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-5-novedades-para-administrar-grupos-de-facebook.md: post actualizada (publish) id=1811 https://www.inbound.com.mx/infografia-5-novedades-para-administrar-grupos-de-facebook/ | Yoast: guardado
+content/blog/infografia-calendario-de-fechas-de-interes-para-marketing.md: post actualizada (publish) id=2371 https://www.inbound.com.mx/infografia-calendario-de-fechas-de-interes-para-marketing/ | Yoast: guardado
+content/blog/infografia-chatbots-como-transforman-la-experiencia-del-cliente-online.md: post actualizada (publish) id=1803 https://www.inbound.com.mx/infografia-chatbots-como-transforman-la-experiencia-del-cliente-online/ | Yoast: guardado
+content/blog/infografia-economia-colaborativa-en-la-union-europea.md: post actualizada (publish) id=1813 https://www.inbound.com.mx/infografia-economia-colaborativa-en-la-union-europea/ | Yoast: guardado
+content/blog/infografia-el-futuro-de-la-localizacion-en-interiores-y-los-servicios-de-retail.md: post actualizada (publish) id=1511 https://www.inbound.com.mx/infografia-el-futuro-de-la-localizacion-en-interiores-y-los-servicios-de-retail/ | Yoast: guardado
+content/blog/infografia-estrategias-para-la-curacion-de-contenidos-2.md: post actualizada (publish) id=1953 https://www.inbound.com.mx/infografia-estrategias-para-la-curacion-de-contenidos-2/ | Yoast: guardado
+content/blog/infografia-juego-de-tronos-y-turismo.md: post actualizada (publish) id=1589 https://www.inbound.com.mx/infografia-juego-de-tronos-y-turismo/ | Yoast: guardado
+content/blog/infografia-que-preguntas-hacer-en-una-entrevista-de-trabajo.md: post actualizada (publish) id=1585 https://www.inbound.com.mx/infografia-que-preguntas-hacer-en-una-entrevista-de-trabajo/ | Yoast: guardado
+content/blog/infografia-reglas-basicas-para-escribir-en-internet.md: post actualizada (publish) id=1298 https://www.inbound.com.mx/infografia-reglas-basicas-para-escribir-en-internet/ | Yoast: guardado
+content/blog/infografia-senalizacion-horizontal-en-las-pistas-de-los-aeropuertos.md: post actualizada (publish) id=2289 https://www.inbound.com.mx/infografia-senalizacion-horizontal-en-las-pistas-de-los-aeropuertos/ | Yoast: guardado
