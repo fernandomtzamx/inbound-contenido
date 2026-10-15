@@ -5,7 +5,10 @@ Lee los slugs de docs/importar.txt (uno por línea). Líneas especiales:
   categoria:<slug>   importa todas las entradas publicadas de esa categoría
   buscar:<texto>     importa todas las entradas que coinciden con la búsqueda
   imagenes:si        además descarga las imágenes del contenido a registro/img/<slug>/
+  solo-lista         solo guarda las listas en registro/listas/, sin descargar entradas
+  minutos:<n>        detiene la descarga después de n minutos (lo ya bajado se guarda)
 """
+import time
 import io
 import re
 import importlib.util
@@ -48,7 +51,7 @@ def bajar_imagenes(wp, slug, content, featured):
             continue
         seen.append(url)
         try:
-            r = wp.s.get(url, timeout=60)
+            r = wp.s.get(url, timeout=(10, 40))
             r.raise_for_status()
             from PIL import Image
             im = Image.open(io.BytesIO(r.content)).convert("RGB")
@@ -67,10 +70,13 @@ def main():
              if s.strip() and not s.startswith("#")]
     wp = pub.WP(pub.env("WP_URL"), pub.env("WP_USER"), pub.env("WP_APP_PASSWORD"))
     con_img = "imagenes:si" in lines
+    solo_lista = "solo-lista" in lines
+    limite = next((int(l.split(":")[1]) for l in lines if l.startswith("minutos:")), 25) * 60
+    t0 = time.time()
     slugs = []
     listas = ROOT / "registro" / "listas"
     for ln in lines:
-        if ln == "imagenes:si":
+        if ln in ("imagenes:si", "solo-lista") or ln.startswith("minutos:"):
             continue
         if ln.startswith("categoria:"):
             cs = ln.split(":", 1)[1]
@@ -92,9 +98,16 @@ def main():
         print(f"lista {cs}: {len(posts)} entradas")
         slugs += [p["slug"] for p in posts]
     slugs = list(dict.fromkeys(slugs))
+    if solo_lista:
+        return
     out_dir = ROOT / "registro" / "raw"
     out_dir.mkdir(parents=True, exist_ok=True)
     for slug in slugs:
+        if time.time() - t0 > limite:
+            print(f"límite de tiempo: faltaron {len(slugs) - slugs.index(slug)} entradas", flush=True)
+            break
+        if con_img and (ROOT / "registro" / "img" / slug).exists():
+            continue
         res = wp.req("GET", "posts", params={"slug": slug, "context": "edit", "status": "any"})
         tipo = "posts"
         if not res:

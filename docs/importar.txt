@@ -1,4 +1,4 @@
-# Infografías: todas las entradas de la categoría y las que mencionan infografía, con sus imágenes.
+# Infografías: imágenes faltantes.
 imagenes:si
+minutos:40
 categoria:infografias
-buscar:infografia
