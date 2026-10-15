@@ -1,25 +1,25 @@
-fecha: 2026-10-15T18:23:59Z
-commit: f4e3e80dfe91d6ddd2428b7ee7665941919c6550
+fecha: 2026-10-15T18:26:34Z
+commit: 959b621be699fd01bd8038ae13b7850352435077
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38785229377
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38785589660
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-nuevas-claves-del-consumo-mobile.md content/blog/infografia-40-errores-tecnicos-en-seo.md content/blog/infografia-5-extensiones-de-google-chrome-para-aumentar-tu-productividad.md content/blog/infografia-5-sectores-que-mas-creceran-de-la-economia-espanola.md content/blog/infografia-como-un-%c2%93brexit-duro%c2%94-afectaria-al-desayuno-tradicional-ingles.md content/blog/infografia-deben-tomarse-en-serio-los-mercadologos-el-marketing-de-contenidos.md content/blog/infografia-echas-algun-vistazo-a-los-perfiles-de-redes-sociales-de-tus-exparejas.md content/blog/infografia-economia-colaborativa-en-la-union-europea-2.md content/blog/infografia-estadisticas-del-blogtrip.md content/blog/infografia-privacidad-que-piensan-los-consumidores.md 
+Argumentos: content/blog/infografia-10-apps-interesantes-para-el-verano.md content/blog/infografia-10-claves-para-educar-con-mindfulness.md content/blog/infografia-como-debe-ser-tu-pagina-web.md content/blog/infografia-cuanto-ganan-los-directores-ejecutivos-de-las-25-mayores-empresa-del-sp-500.md content/blog/infografia-cuanto-se-visitan-las-webs-de-empleo-en-el-mundo.md content/blog/infografia-curiosidades-del-revenue-management.md content/blog/infografia-el-continuo-crecimiento-de-los-ingresos-de-facebook.md content/blog/infografia-gestion-de-residuos-en-la-union-europea.md content/blog/infografia-mindfulness-en-la-escuela.md content/blog/infografia-yoast-vs-all-in-one-cual-es-mejor-para-tu-wordpress.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-nuevas-claves-del-consumo-mobile.md: post actualizada (publish) id=2003 https://www.inbound.com.mx/infografia-10-nuevas-claves-del-consumo-mobile/ | Yoast: guardado
-content/blog/infografia-40-errores-tecnicos-en-seo.md: post actualizada (publish) id=1384 https://www.inbound.com.mx/infografia-40-errores-tecnicos-en-seo/ | Yoast: guardado
-content/blog/infografia-5-extensiones-de-google-chrome-para-aumentar-tu-productividad.md: post actualizada (publish) id=2353 https://www.inbound.com.mx/infografia-5-extensiones-de-google-chrome-para-aumentar-tu-productividad/ | Yoast: guardado
-content/blog/infografia-5-sectores-que-mas-creceran-de-la-economia-espanola.md: post actualizada (publish) id=2159 https://www.inbound.com.mx/infografia-5-sectores-que-mas-creceran-de-la-economia-espanola/ | Yoast: guardado
-content/blog/infografia-como-un-%c2%93brexit-duro%c2%94-afectaria-al-desayuno-tradicional-ingles.md: post actualizada (publish) id=1679 https://www.inbound.com.mx/infografia-como-un-%c2%93brexit-duro%c2%94-afectaria-al-desayuno-tradicional-ingles/ | Yoast: guardado
-content/blog/infografia-deben-tomarse-en-serio-los-mercadologos-el-marketing-de-contenidos.md: post actualizada (publish) id=1406 https://www.inbound.com.mx/infografia-deben-tomarse-en-serio-los-mercadologos-el-marketing-de-contenidos/ | Yoast: guardado
-content/blog/infografia-echas-algun-vistazo-a-los-perfiles-de-redes-sociales-de-tus-exparejas.md: post actualizada (publish) id=1535 https://www.inbound.com.mx/infografia-echas-algun-vistazo-a-los-perfiles-de-redes-sociales-de-tus-exparejas/ | Yoast: guardado
-content/blog/infografia-economia-colaborativa-en-la-union-europea-2.md: post actualizada (publish) id=2175 https://www.inbound.com.mx/infografia-economia-colaborativa-en-la-union-europea-2/ | Yoast: guardado
-content/blog/infografia-estadisticas-del-blogtrip.md: post actualizada (publish) id=1943 https://www.inbound.com.mx/infografia-estadisticas-del-blogtrip/ | Yoast: guardado
-content/blog/infografia-privacidad-que-piensan-los-consumidores.md: post actualizada (publish) id=2317 https://www.inbound.com.mx/infografia-privacidad-que-piensan-los-consumidores/ | Yoast: guardado
+content/blog/infografia-10-apps-interesantes-para-el-verano.md: post actualizada (publish) id=1789 https://www.inbound.com.mx/infografia-10-apps-interesantes-para-el-verano/ | Yoast: guardado
+content/blog/infografia-10-claves-para-educar-con-mindfulness.md: post actualizada (publish) id=1909 https://www.inbound.com.mx/infografia-10-claves-para-educar-con-mindfulness/ | Yoast: guardado
+content/blog/infografia-como-debe-ser-tu-pagina-web.md: post actualizada (publish) id=2183 https://www.inbound.com.mx/infografia-como-debe-ser-tu-pagina-web/ | Yoast: guardado
+content/blog/infografia-cuanto-ganan-los-directores-ejecutivos-de-las-25-mayores-empresa-del-sp-500.md: post actualizada (publish) id=1547 https://www.inbound.com.mx/infografia-cuanto-ganan-los-directores-ejecutivos-de-las-25-mayores-empresa-del-sp-500/ | Yoast: guardado
+content/blog/infografia-cuanto-se-visitan-las-webs-de-empleo-en-el-mundo.md: post actualizada (publish) id=2297 https://www.inbound.com.mx/infografia-cuanto-se-visitan-las-webs-de-empleo-en-el-mundo/ | Yoast: guardado
+content/blog/infografia-curiosidades-del-revenue-management.md: post actualizada (publish) id=1681 https://www.inbound.com.mx/infografia-curiosidades-del-revenue-management/ | Yoast: guardado
+content/blog/infografia-el-continuo-crecimiento-de-los-ingresos-de-facebook.md: post actualizada (publish) id=1563 https://www.inbound.com.mx/infografia-el-continuo-crecimiento-de-los-ingresos-de-facebook/ | Yoast: guardado
+content/blog/infografia-gestion-de-residuos-en-la-union-europea.md: post actualizada (publish) id=1819 https://www.inbound.com.mx/infografia-gestion-de-residuos-en-la-union-europea/ | Yoast: guardado
+content/blog/infografia-mindfulness-en-la-escuela.md: post actualizada (publish) id=1911 https://www.inbound.com.mx/infografia-mindfulness-en-la-escuela/ | Yoast: guardado
+content/blog/infografia-yoast-vs-all-in-one-cual-es-mejor-para-tu-wordpress.md: post actualizada (publish) id=2041 https://www.inbound.com.mx/infografia-yoast-vs-all-in-one-cual-es-mejor-para-tu-wordpress/ | Yoast: guardado
