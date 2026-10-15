@@ -56,3 +56,4 @@ Las encuestas más recientes del INEGI reportan más del 80% de la población de
 - [Así compran los mexicanos en línea](https://www.inbound.com.mx/infografia-asi-compran-los-mexicanos-en-linea/)
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cuántos mexicanos usaban internet en 2016?","acceptedAnswer":{"@type":"Answer","text":"65.5 millones de personas de 6 años o más, el 59.5% de esa población, según la ENDUTIH 2016 del INEGI."}},{"@type":"Question","name":"¿Qué estados tenían más acceso a internet?","acceptedAnswer":{"@type":"Answer","text":"Baja California Sur, Sonora y Baja California; los de menor acceso eran Tlaxcala, Oaxaca y Chiapas."}},{"@type":"Question","name":"¿Cuántos mexicanos usan internet hoy?","acceptedAnswer":{"@type":"Answer","text":"Las encuestas más recientes del INEGI reportan más del 80% de la población de 6 años o más."}}]}</script>
+

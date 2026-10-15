@@ -57,3 +57,4 @@ China e India encabezan la lista, seguidas de Estados Unidos, Brasil, Indonesia,
 - [Qué es un buyer persona](https://www.inbound.com.mx/buyer-persona/)
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué porcentaje de la población mundial es menor de 15 años?","acceptedAnswer":{"@type":"Answer","text":"Según la infografía, alrededor del 26%, mientras que cerca del 9% tiene más de 64 años."}},{"@type":"Question","name":"¿Qué países tienen más población urbana?","acceptedAnswer":{"@type":"Answer","text":"China e India encabezan la lista, seguidas de Estados Unidos, Brasil, Indonesia, Japón, Rusia y México."}},{"@type":"Question","name":"¿Qué continente tiene la población más joven?","acceptedAnswer":{"@type":"Answer","text":"África, con alrededor del 41% de su población menor de 15 años según la infografía."}}]}</script>
+

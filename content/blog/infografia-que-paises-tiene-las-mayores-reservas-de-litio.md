@@ -60,3 +60,4 @@ Principalmente en baterías de celulares, computadoras, autos eléctricos y sist
 - [Más infografías](https://www.inbound.com.mx/seccion/centro/infografias/)
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué países tienen las mayores reservas de litio?","acceptedAnswer":{"@type":"Answer","text":"Argentina, Bolivia y Chile, el llamado triángulo del litio, concentran más de la mitad de las reservas mundiales según la infografía."}},{"@type":"Question","name":"¿Por qué Australia produce tanto litio?","acceptedAnswer":{"@type":"Answer","text":"Porque, aunque tiene menos reservas, ofrecía un entorno más favorable para la inversión y para hacer negocios."}},{"@type":"Question","name":"¿Para qué se usa el litio?","acceptedAnswer":{"@type":"Answer","text":"Principalmente en baterías de celulares, computadoras, autos eléctricos y sistemas de almacenamiento de energía."}}]}</script>
+

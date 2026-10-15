@@ -65,3 +65,4 @@ El software es gratuito, pero necesitas pagar hosting y dominio, y opcionalmente
 - [Accesibilidad web](https://www.inbound.com.mx/infografia-accesibilidad-web/)
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Por qué WordPress es el CMS más usado?","acceptedAnswer":{"@type":"Answer","text":"Porque es gratuito y de código abierto, muy flexible, tiene miles de plugins y temas, una comunidad enorme y buenas herramientas para SEO."}},{"@type":"Question","name":"¿Qué porcentaje de sitios web usa WordPress?","acceptedAnswer":{"@type":"Answer","text":"La infografía hablaba de 24% en su momento; hoy WordPress impulsa alrededor de 4 de cada 10 sitios web del mundo."}},{"@type":"Question","name":"¿WordPress es gratis?","acceptedAnswer":{"@type":"Answer","text":"El software es gratuito, pero necesitas pagar hosting y dominio, y opcionalmente temas o plugins premium."}}]}</script>
+
