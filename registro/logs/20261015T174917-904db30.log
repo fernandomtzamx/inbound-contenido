@@ -1,0 +1,25 @@
+fecha: 2026-10-15T17:49:17Z
+commit: 904db301ff43aac3603662e52788d15fb746abb3
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38780398149
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-claves-a-tener-en-cuenta-en-una-estrategia-de-contenidos-2.md content/blog/infografia-12-razones-por-las-que-el-cerebro-necesita-unas-vacaciones.md content/blog/infografia-7-consejos-para-que-tu-blog-no-duerma-en-verano.md content/blog/infografia-7-errores-seo-a-evitar-para-un-buen-rediseno-web.md content/blog/infografia-byod-y-mooc-en-las-aulas.md content/blog/infografia-guia-completa-de-publicidad-en-twitter.md content/blog/infografia-las-redes-sociales-que-mas-usan-los-comerciantes.md content/blog/infografia-metro-de-paris-paris-subway.md content/blog/infografia-que-valoran-los-inversores-de-mi-empresa.md content/blog/infografia-trabajar-gratis-si-o-no-he-ahi-el-dilema.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-claves-a-tener-en-cuenta-en-una-estrategia-de-contenidos-2.md: post actualizada (publish) id=2365 https://www.inbound.com.mx/infografia-10-claves-a-tener-en-cuenta-en-una-estrategia-de-contenidos-2/ | Yoast: guardado
+content/blog/infografia-12-razones-por-las-que-el-cerebro-necesita-unas-vacaciones.md: post actualizada (publish) id=2375 https://www.inbound.com.mx/infografia-12-razones-por-las-que-el-cerebro-necesita-unas-vacaciones/ | Yoast: guardado
+content/blog/infografia-7-consejos-para-que-tu-blog-no-duerma-en-verano.md: post actualizada (publish) id=1428 https://www.inbound.com.mx/infografia-7-consejos-para-que-tu-blog-no-duerma-en-verano/ | Yoast: guardado
+content/blog/infografia-7-errores-seo-a-evitar-para-un-buen-rediseno-web.md: post actualizada (publish) id=1831 https://www.inbound.com.mx/infografia-7-errores-seo-a-evitar-para-un-buen-rediseno-web/ | Yoast: guardado
+content/blog/infografia-byod-y-mooc-en-las-aulas.md: post actualizada (publish) id=2173 https://www.inbound.com.mx/infografia-byod-y-mooc-en-las-aulas/ | Yoast: guardado
+content/blog/infografia-guia-completa-de-publicidad-en-twitter.md: post actualizada (publish) id=1432 https://www.inbound.com.mx/infografia-guia-completa-de-publicidad-en-twitter/ | Yoast: guardado
+content/blog/infografia-las-redes-sociales-que-mas-usan-los-comerciantes.md: post actualizada (publish) id=1907 https://www.inbound.com.mx/infografia-las-redes-sociales-que-mas-usan-los-comerciantes/ | Yoast: guardado
+content/blog/infografia-metro-de-paris-paris-subway.md: post actualizada (publish) id=1513 https://www.inbound.com.mx/infografia-metro-de-paris-paris-subway/ | Yoast: guardado
+content/blog/infografia-que-valoran-los-inversores-de-mi-empresa.md: post actualizada (publish) id=2205 https://www.inbound.com.mx/infografia-que-valoran-los-inversores-de-mi-empresa/ | Yoast: guardado
+content/blog/infografia-trabajar-gratis-si-o-no-he-ahi-el-dilema.md: post actualizada (publish) id=2235 https://www.inbound.com.mx/infografia-trabajar-gratis-si-o-no-he-ahi-el-dilema/ | Yoast: guardado
