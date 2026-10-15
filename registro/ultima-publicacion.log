@@ -1,25 +1,25 @@
-fecha: 2026-10-15T17:36:33Z
-commit: 8dcfe5348d5fdd785595df7ed88f6b2fa3d56055
+fecha: 2026-10-15T17:38:41Z
+commit: 754567307dae64796c0164e33c8f2a0b41b56d01
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38778679445
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38778980706
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-27-hechos-impactantes-que-la-gente-no-sabe-sobre-las-startups.md content/blog/infografia-6-consejos-para-crecer-tu-negocio-a-traves-de-tu-app.md content/blog/infografia-8-secretos-matutinos-de-las-personas-de-exito.md content/blog/infografia-argentina-el-consumidor-conectado.md content/blog/infografia-el-metodo-de-estudio-definitivo.md content/blog/infografia-el-sector-de-la-automocion-en-colombia.md content/blog/infografia-estrategias-para-la-curacion-de-contenidos.md content/blog/infografia-que-es-rankbrain-y-como-influye-en-el-seo.md content/blog/infografia-redes-lte-a-despego-en-paises-latinoamericanos-2018.md content/blog/infografia-viajeros-millenials-compra-y-reserva-en-dispositivos-moviles.md 
+Argumentos: content/blog/infografia-10-formas-de-optimizar-tu-creatividad-en-la-escuela.md content/blog/infografia-20-pasos-para-hacer-unas-fotos-perfectas-de-tu-casa.md content/blog/infografia-8-razones-para-elegir-programatica.md content/blog/infografia-checklist-seo-antes-de-publicar-un-articulo.md content/blog/infografia-como-ser-un-blogger-mas-productivo-y-eficiente.md content/blog/infografia-como-seran-los-consumidores-en-latinoamerica-del-futuro.md content/blog/infografia-contrata-en-la-nube-con-seguridad.md content/blog/infografia-cuanto-tiempo-se-tarda-en-leer-algunos-de-los-libros-mas-populares.md content/blog/infografia-secretos-del-comercio-electronico-rentable.md content/blog/infografia-video-en-directo-en-redes-sociales.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-27-hechos-impactantes-que-la-gente-no-sabe-sobre-las-startups.md: post actualizada (publish) id=2179 https://www.inbound.com.mx/infografia-27-hechos-impactantes-que-la-gente-no-sabe-sobre-las-startups/ | Yoast: guardado
-content/blog/infografia-6-consejos-para-crecer-tu-negocio-a-traves-de-tu-app.md: post actualizada (publish) id=2163 https://www.inbound.com.mx/infografia-6-consejos-para-crecer-tu-negocio-a-traves-de-tu-app/ | Yoast: guardado
-content/blog/infografia-8-secretos-matutinos-de-las-personas-de-exito.md: post actualizada (publish) id=2161 https://www.inbound.com.mx/infografia-8-secretos-matutinos-de-las-personas-de-exito/ | Yoast: guardado
-content/blog/infografia-argentina-el-consumidor-conectado.md: post actualizada (publish) id=1623 https://www.inbound.com.mx/infografia-argentina-el-consumidor-conectado/ | Yoast: guardado
-content/blog/infografia-el-metodo-de-estudio-definitivo.md: post actualizada (publish) id=2251 https://www.inbound.com.mx/infografia-el-metodo-de-estudio-definitivo/ | Yoast: guardado
-content/blog/infografia-el-sector-de-la-automocion-en-colombia.md: post actualizada (publish) id=2129 https://www.inbound.com.mx/infografia-el-sector-de-la-automocion-en-colombia/ | Yoast: guardado
-content/blog/infografia-estrategias-para-la-curacion-de-contenidos.md: post actualizada (publish) id=1593 https://www.inbound.com.mx/infografia-estrategias-para-la-curacion-de-contenidos/ | Yoast: guardado
-content/blog/infografia-que-es-rankbrain-y-como-influye-en-el-seo.md: post actualizada (publish) id=1599 https://www.inbound.com.mx/infografia-que-es-rankbrain-y-como-influye-en-el-seo/ | Yoast: guardado
-content/blog/infografia-redes-lte-a-despego-en-paises-latinoamericanos-2018.md: post actualizada (publish) id=5964 https://www.inbound.com.mx/infografia-redes-lte-a-despego-en-paises-latinoamericanos-2018/ | Yoast: guardado
-content/blog/infografia-viajeros-millenials-compra-y-reserva-en-dispositivos-moviles.md: post actualizada (publish) id=1332 https://www.inbound.com.mx/infografia-viajeros-millenials-compra-y-reserva-en-dispositivos-moviles/ | Yoast: guardado
+content/blog/infografia-10-formas-de-optimizar-tu-creatividad-en-la-escuela.md: post actualizada (publish) id=1410 https://www.inbound.com.mx/infografia-10-formas-de-optimizar-tu-creatividad-en-la-escuela/ | Yoast: guardado
+content/blog/infografia-20-pasos-para-hacer-unas-fotos-perfectas-de-tu-casa.md: post actualizada (publish) id=2139 https://www.inbound.com.mx/infografia-20-pasos-para-hacer-unas-fotos-perfectas-de-tu-casa/ | Yoast: guardado
+content/blog/infografia-8-razones-para-elegir-programatica.md: post actualizada (publish) id=1507 https://www.inbound.com.mx/infografia-8-razones-para-elegir-programatica/ | Yoast: guardado
+content/blog/infografia-checklist-seo-antes-de-publicar-un-articulo.md: post actualizada (publish) id=2019 https://www.inbound.com.mx/infografia-checklist-seo-antes-de-publicar-un-articulo/ | Yoast: guardado
+content/blog/infografia-como-ser-un-blogger-mas-productivo-y-eficiente.md: post actualizada (publish) id=1266 https://www.inbound.com.mx/infografia-como-ser-un-blogger-mas-productivo-y-eficiente/ | Yoast: guardado
+content/blog/infografia-como-seran-los-consumidores-en-latinoamerica-del-futuro.md: post actualizada (publish) id=1523 https://www.inbound.com.mx/infografia-como-seran-los-consumidores-en-latinoamerica-del-futuro/ | Yoast: guardado
+content/blog/infografia-contrata-en-la-nube-con-seguridad.md: post actualizada (publish) id=1921 https://www.inbound.com.mx/infografia-contrata-en-la-nube-con-seguridad/ | Yoast: guardado
+content/blog/infografia-cuanto-tiempo-se-tarda-en-leer-algunos-de-los-libros-mas-populares.md: post actualizada (publish) id=1643 https://www.inbound.com.mx/infografia-cuanto-tiempo-se-tarda-en-leer-algunos-de-los-libros-mas-populares/ | Yoast: guardado
+content/blog/infografia-secretos-del-comercio-electronico-rentable.md: post actualizada (publish) id=1418 https://www.inbound.com.mx/infografia-secretos-del-comercio-electronico-rentable/ | Yoast: guardado
+content/blog/infografia-video-en-directo-en-redes-sociales.md: post actualizada (publish) id=2201 https://www.inbound.com.mx/infografia-video-en-directo-en-redes-sociales/ | Yoast: guardado
