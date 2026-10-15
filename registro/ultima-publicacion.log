@@ -1,25 +1,25 @@
-fecha: 2026-10-15T17:25:34Z
-commit: 5762e7cfc7f8f91fdfb7ea93cb296464392ebc2c
+fecha: 2026-10-15T17:27:47Z
+commit: e33e39ef646831e9857972b691756688506b23fc
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38777160438
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38777456369
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-razones-por-las-que-no-te-contratarian-version-2.md content/blog/infografia-5-desafios-de-rrhh-al-implementar-plataformas-tecnologicas.md content/blog/infografia-6-razones-para-salir-pronto-de-la-oficina.md content/blog/infografia-algunos-datos-que-debes-conocer-sobre-el-video.md content/blog/infografia-como-crear-campanas-de-inbound-marketing.md content/blog/infografia-como-escribir-en-tu-blog-para-generar-engagement.md content/blog/infografia-como-usar-tweetdeck-para-twitter.md content/blog/infografia-gestion-del-talento-en-equipos-de-elearning.md content/blog/infografia-pago-movil-tendencias.md content/blog/infografia-tamanos-de-videos-e-imagenes-para-redes-sociales.md 
+Argumentos: content/blog/infografia-10-consejos-para-negociar-de-forma-efectiva.md content/blog/infografia-12-razones-por-las-que-el-mejor-talento-no-quiere-trabajar-en-tu-empresa.md content/blog/infografia-5-errores-tipicos-de-los-nuevos-directivos.md content/blog/infografia-atajos-de-teclado-para-social-media.md content/blog/infografia-como-es-el-consumo-en-mexico.md content/blog/infografia-el-sector-de-la-hosteleria-en-europa.md content/blog/infografia-entendiendo-el-ride-hailing.md content/blog/infografia-la-sociedad-de-la-informacion-en-castilla-y-leon.md content/blog/infografia-tendencias-sobre-los-viajes-de-verano-en-relacion-a-lo-que-buscan-en-internet.md content/blog/infografia-todo-el-dinero-del-mundo-en-perspectiva.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-razones-por-las-que-no-te-contratarian-version-2.md: post actualizada (publish) id=2215 https://www.inbound.com.mx/infografia-10-razones-por-las-que-no-te-contratarian-version-2/ | Yoast: guardado
-content/blog/infografia-5-desafios-de-rrhh-al-implementar-plataformas-tecnologicas.md: post actualizada (publish) id=1839 https://www.inbound.com.mx/infografia-5-desafios-de-rrhh-al-implementar-plataformas-tecnologicas/ | Yoast: guardado
-content/blog/infografia-6-razones-para-salir-pronto-de-la-oficina.md: post actualizada (publish) id=1963 https://www.inbound.com.mx/infografia-6-razones-para-salir-pronto-de-la-oficina/ | Yoast: guardado
-content/blog/infografia-algunos-datos-que-debes-conocer-sobre-el-video.md: post actualizada (publish) id=1931 https://www.inbound.com.mx/infografia-algunos-datos-que-debes-conocer-sobre-el-video/ | Yoast: guardado
-content/blog/infografia-como-crear-campanas-de-inbound-marketing.md: post actualizada (publish) id=1833 https://www.inbound.com.mx/infografia-como-crear-campanas-de-inbound-marketing/ | Yoast: guardado
-content/blog/infografia-como-escribir-en-tu-blog-para-generar-engagement.md: post actualizada (publish) id=1396 https://www.inbound.com.mx/infografia-como-escribir-en-tu-blog-para-generar-engagement/ | Yoast: guardado
-content/blog/infografia-como-usar-tweetdeck-para-twitter.md: post actualizada (publish) id=1296 https://www.inbound.com.mx/infografia-como-usar-tweetdeck-para-twitter/ | Yoast: guardado
-content/blog/infografia-gestion-del-talento-en-equipos-de-elearning.md: post actualizada (publish) id=2271 https://www.inbound.com.mx/infografia-gestion-del-talento-en-equipos-de-elearning/ | Yoast: guardado
-content/blog/infografia-pago-movil-tendencias.md: post actualizada (publish) id=2058 https://www.inbound.com.mx/infografia-pago-movil-tendencias/ | Yoast: guardado
-content/blog/infografia-tamanos-de-videos-e-imagenes-para-redes-sociales.md: post actualizada (publish) id=2239 https://www.inbound.com.mx/infografia-tamanos-de-videos-e-imagenes-para-redes-sociales/ | Yoast: guardado
+content/blog/infografia-10-consejos-para-negociar-de-forma-efectiva.md: post actualizada (publish) id=2357 https://www.inbound.com.mx/infografia-10-consejos-para-negociar-de-forma-efectiva/ | Yoast: guardado
+content/blog/infografia-12-razones-por-las-que-el-mejor-talento-no-quiere-trabajar-en-tu-empresa.md: post actualizada (publish) id=2193 https://www.inbound.com.mx/infografia-12-razones-por-las-que-el-mejor-talento-no-quiere-trabajar-en-tu-empresa/ | Yoast: guardado
+content/blog/infografia-5-errores-tipicos-de-los-nuevos-directivos.md: post actualizada (publish) id=2037 https://www.inbound.com.mx/infografia-5-errores-tipicos-de-los-nuevos-directivos/ | Yoast: guardado
+content/blog/infografia-atajos-de-teclado-para-social-media.md: post actualizada (publish) id=2245 https://www.inbound.com.mx/infografia-atajos-de-teclado-para-social-media/ | Yoast: guardado
+content/blog/infografia-como-es-el-consumo-en-mexico.md: post actualizada (publish) id=1581 https://www.inbound.com.mx/infografia-como-es-el-consumo-en-mexico/ | Yoast: guardado
+content/blog/infografia-el-sector-de-la-hosteleria-en-europa.md: post actualizada (publish) id=2013 https://www.inbound.com.mx/infografia-el-sector-de-la-hosteleria-en-europa/ | Yoast: guardado
+content/blog/infografia-entendiendo-el-ride-hailing.md: post actualizada (publish) id=7269 https://www.inbound.com.mx/infografia-entendiendo-el-ride-hailing/ | Yoast: guardado
+content/blog/infografia-la-sociedad-de-la-informacion-en-castilla-y-leon.md: post actualizada (publish) id=2177 https://www.inbound.com.mx/infografia-la-sociedad-de-la-informacion-en-castilla-y-leon/ | Yoast: guardado
+content/blog/infografia-tendencias-sobre-los-viajes-de-verano-en-relacion-a-lo-que-buscan-en-internet.md: post actualizada (publish) id=1386 https://www.inbound.com.mx/infografia-tendencias-sobre-los-viajes-de-verano-en-relacion-a-lo-que-buscan-en-internet/ | Yoast: guardado
+content/blog/infografia-todo-el-dinero-del-mundo-en-perspectiva.md: post actualizada (publish) id=1855 https://www.inbound.com.mx/infografia-todo-el-dinero-del-mundo-en-perspectiva/ | Yoast: guardado
