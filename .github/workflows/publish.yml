@@ -108,5 +108,7 @@ jobs:
           [ -f registro/auditoria.json ] && git add registro/auditoria.json
           [ -d registro/raw ] && git add registro/raw
           [ -f registro/busqueda.json ] && git add registro/busqueda.json
+          [ -d registro/img ] && git add registro/img
+          [ -d registro/listas ] && git add registro/listas
           git commit -m "Registro de publicación [skip ci]" || exit 0
           git pull --rebase -q origin main && git push -q origin HEAD:main

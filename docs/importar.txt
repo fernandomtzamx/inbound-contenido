@@ -1,25 +1,4 @@
-# Slugs cuyo contenido original se descarga a registro/raw/ (solo lectura).
-como-iniciar-una-tienda-online
-hubspot-mexico
-hubspot-cos-vs-wordpress-cms
-agencia-de-marketing-digital-mexico
-buyer-persona
-4-fases-del-inbound-marketing
-desarrolla-un-plan-de-marketing-de-contenidos-para-tu-pagina-web
-inbound-marketing-para-empresas-b2b
-inbound-marketing-para-hoteles
-inbound-marketing-para-escuelas-privadas
-inbound-marketing-politico
-por-que-implementar-procesos-de-marketing-dentro-de-tu-empresa
-estrategias-de-marketing-empresas-exitosas
-como-funciona-shopify
-imagenes-libres-de-derechos-gratis
-pequenos-negocios
-que-hacer-cuando-un-cliente-no-te-paga
-cuando-abandonar-un-cliente
-employer-branding
-casos-de-exito-en-shopify
-inbound-marketing-para-agencias-de-autos
-que-hacer-ante-la-salida-de-un-empleado-clave
-contacto
-# 2026-10-13 verificación contacto
+# Infografías: todas las entradas de la categoría y las que mencionan infografía, con sus imágenes.
+imagenes:si
+categoria:infografias
+buscar:infografia
