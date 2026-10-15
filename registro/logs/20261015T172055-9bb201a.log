@@ -1,0 +1,25 @@
+fecha: 2026-10-15T17:20:55Z
+commit: 9bb201a862631f51df545fa5595f485dd1f4abd4
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38776500512
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-3-consejos-para-agudizar-tu-capacidad-de-observar-la-comunicacion-no-verbal.md content/blog/infografia-cosas-que-steve-jobs-odiaria-en-un-sitio-web.md content/blog/infografia-cuantos-usuarios-tienen-las-principales-redes-sociales.md content/blog/infografia-cuentas-de-mascotas-con-mas-seguidores-en-instagram.md content/blog/infografia-el-boom-de-la-fotografia-provocado-por-los-dispositivos-moviles.md content/blog/infografia-el-ecosistema-blockchain.md content/blog/infografia-el-futuro-de-las-empresas-esta-en-la-nube.md content/blog/infografia-estado-de-la-ciberseguridad-industrial.md content/blog/infografia-funnel-marketing-sistema-que-convierte-desconocidos-en-clientes.md content/blog/infografia-seo-la-receta-ideal-para-que-consuman-tu-contenido.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-3-consejos-para-agudizar-tu-capacidad-de-observar-la-comunicacion-no-verbal.md: post actualizada (publish) id=1625 https://www.inbound.com.mx/infografia-3-consejos-para-agudizar-tu-capacidad-de-observar-la-comunicacion-no-verbal/ | Yoast: guardado
+content/blog/infografia-cosas-que-steve-jobs-odiaria-en-un-sitio-web.md: post actualizada (publish) id=1280 https://www.inbound.com.mx/infografia-cosas-que-steve-jobs-odiaria-en-un-sitio-web/ | Yoast: guardado
+content/blog/infografia-cuantos-usuarios-tienen-las-principales-redes-sociales.md: post actualizada (publish) id=1829 https://www.inbound.com.mx/infografia-cuantos-usuarios-tienen-las-principales-redes-sociales/ | Yoast: guardado
+content/blog/infografia-cuentas-de-mascotas-con-mas-seguidores-en-instagram.md: post actualizada (publish) id=1312 https://www.inbound.com.mx/infografia-cuentas-de-mascotas-con-mas-seguidores-en-instagram/ | Yoast: guardado
+content/blog/infografia-el-boom-de-la-fotografia-provocado-por-los-dispositivos-moviles.md: post actualizada (publish) id=1288 https://www.inbound.com.mx/infografia-el-boom-de-la-fotografia-provocado-por-los-dispositivos-moviles/ | Yoast: guardado
+content/blog/infografia-el-ecosistema-blockchain.md: post actualizada (publish) id=1330 https://www.inbound.com.mx/infografia-el-ecosistema-blockchain/ | Yoast: guardado
+content/blog/infografia-el-futuro-de-las-empresas-esta-en-la-nube.md: post actualizada (publish) id=1268 https://www.inbound.com.mx/infografia-el-futuro-de-las-empresas-esta-en-la-nube/ | Yoast: guardado
+content/blog/infografia-estado-de-la-ciberseguridad-industrial.md: post actualizada (publish) id=1591 https://www.inbound.com.mx/infografia-estado-de-la-ciberseguridad-industrial/ | Yoast: guardado
+content/blog/infografia-funnel-marketing-sistema-que-convierte-desconocidos-en-clientes.md: post actualizada (publish) id=2373 https://www.inbound.com.mx/infografia-funnel-marketing-sistema-que-convierte-desconocidos-en-clientes/ | Yoast: guardado
+content/blog/infografia-seo-la-receta-ideal-para-que-consuman-tu-contenido.md: post actualizada (publish) id=1991 https://www.inbound.com.mx/infografia-seo-la-receta-ideal-para-que-consuman-tu-contenido/ | Yoast: guardado

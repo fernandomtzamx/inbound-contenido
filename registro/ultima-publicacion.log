@@ -1,35 +1,25 @@
-fecha: 2026-10-15T17:18:44Z
-commit: 0d69416e8d91adc163d03cff2cc112a74fa99751
+fecha: 2026-10-15T17:20:55Z
+commit: 9bb201a862631f51df545fa5595f485dd1f4abd4
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38776181990
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38776500512
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-claves-para-que-tu-startup-logre-financiacion.md content/blog/infografia-3-pasos-activar-pulse-en-linkedin.md content/blog/infografia-3-pasos-para-anadir-tu-horario-de-atencion-al-cliente-en-twitter.md content/blog/infografia-30-primeros-anos-de-amadeus.md content/blog/infografia-5-momentos-importantes-de-un-a-marca-de-automocion-para-convencer.md content/blog/infografia-7-errores-que-no-debes-cometer-cuando-buscas-trabajo.md content/blog/infografia-7-pasos-para-construir-un-proyecto-big-data-en-salud.md content/blog/infografia-8-estrategias-de-marketing-de-contenidos-para-instagram.md content/blog/infografia-9-consejos-para-convertir-emails-en-reservas-para-tu-hotel.md content/blog/infografia-buen-networking.md content/blog/infografia-checklist-para-webinar.md content/blog/infografia-como-conseguir-seguidores-de-calidad-en-twitter.md content/blog/infografia-como-sera-el-trabajador-del-futuro.md content/blog/infografia-la-paradoja-entre-el-indice-big-mac-y-el-indice-iphone.md content/blog/infografia-mindfulness-meditacion-y-retiros-de-silencio.md content/blog/infografia-mindfulness-para-ninos.md content/blog/infografia-paises-donde-dominan-los-centros-comerciales.md content/blog/infografia-panorama-editorial-en-mexico.md content/blog/infografia-que-sucede-en-internet-en-un-minuto.md content/blog/infografia-tendencias-del-sector-ti.md 
+Argumentos: content/blog/infografia-3-consejos-para-agudizar-tu-capacidad-de-observar-la-comunicacion-no-verbal.md content/blog/infografia-cosas-que-steve-jobs-odiaria-en-un-sitio-web.md content/blog/infografia-cuantos-usuarios-tienen-las-principales-redes-sociales.md content/blog/infografia-cuentas-de-mascotas-con-mas-seguidores-en-instagram.md content/blog/infografia-el-boom-de-la-fotografia-provocado-por-los-dispositivos-moviles.md content/blog/infografia-el-ecosistema-blockchain.md content/blog/infografia-el-futuro-de-las-empresas-esta-en-la-nube.md content/blog/infografia-estado-de-la-ciberseguridad-industrial.md content/blog/infografia-funnel-marketing-sistema-que-convierte-desconocidos-en-clientes.md content/blog/infografia-seo-la-receta-ideal-para-que-consuman-tu-contenido.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-claves-para-que-tu-startup-logre-financiacion.md: post actualizada (publish) id=1771 https://www.inbound.com.mx/infografia-10-claves-para-que-tu-startup-logre-financiacion/ | Yoast: guardado
-content/blog/infografia-3-pasos-activar-pulse-en-linkedin.md: post actualizada (publish) id=2237 https://www.inbound.com.mx/infografia-3-pasos-activar-pulse-en-linkedin/ | Yoast: guardado
-content/blog/infografia-3-pasos-para-anadir-tu-horario-de-atencion-al-cliente-en-twitter.md: post actualizada (publish) id=2015 https://www.inbound.com.mx/infografia-3-pasos-para-anadir-tu-horario-de-atencion-al-cliente-en-twitter/ | Yoast: guardado
-content/blog/infografia-30-primeros-anos-de-amadeus.md: post actualizada (publish) id=2165 https://www.inbound.com.mx/infografia-30-primeros-anos-de-amadeus/ | Yoast: guardado
-content/blog/infografia-5-momentos-importantes-de-un-a-marca-de-automocion-para-convencer.md: post actualizada (publish) id=1402 https://www.inbound.com.mx/infografia-5-momentos-importantes-de-un-a-marca-de-automocion-para-convencer/ | Yoast: guardado
-content/blog/infografia-7-errores-que-no-debes-cometer-cuando-buscas-trabajo.md: post actualizada (publish) id=1310 https://www.inbound.com.mx/infografia-7-errores-que-no-debes-cometer-cuando-buscas-trabajo/ | Yoast: guardado
-content/blog/infografia-7-pasos-para-construir-un-proyecto-big-data-en-salud.md: post actualizada (publish) id=2257 https://www.inbound.com.mx/infografia-7-pasos-para-construir-un-proyecto-big-data-en-salud/ | Yoast: guardado
-content/blog/infografia-8-estrategias-de-marketing-de-contenidos-para-instagram.md: post actualizada (publish) id=2147 https://www.inbound.com.mx/infografia-8-estrategias-de-marketing-de-contenidos-para-instagram/ | Yoast: guardado
-content/blog/infografia-9-consejos-para-convertir-emails-en-reservas-para-tu-hotel.md: post actualizada (publish) id=2385 https://www.inbound.com.mx/infografia-9-consejos-para-convertir-emails-en-reservas-para-tu-hotel/ | Yoast: guardado
-content/blog/infografia-buen-networking.md: post actualizada (publish) id=1869 https://www.inbound.com.mx/infografia-buen-networking/ | Yoast: guardado
-content/blog/infografia-checklist-para-webinar.md: post actualizada (publish) id=2035 https://www.inbound.com.mx/infografia-checklist-para-webinar/ | Yoast: guardado
-content/blog/infografia-como-conseguir-seguidores-de-calidad-en-twitter.md: post actualizada (publish) id=2339 https://www.inbound.com.mx/infografia-como-conseguir-seguidores-de-calidad-en-twitter/ | Yoast: guardado
-content/blog/infografia-como-sera-el-trabajador-del-futuro.md: post actualizada (publish) id=1761 https://www.inbound.com.mx/infografia-como-sera-el-trabajador-del-futuro/ | Yoast: guardado
-content/blog/infografia-la-paradoja-entre-el-indice-big-mac-y-el-indice-iphone.md: post actualizada (publish) id=2091 https://www.inbound.com.mx/infografia-la-paradoja-entre-el-indice-big-mac-y-el-indice-iphone/ | Yoast: guardado
-content/blog/infografia-mindfulness-meditacion-y-retiros-de-silencio.md: post actualizada (publish) id=1895 https://www.inbound.com.mx/infografia-mindfulness-meditacion-y-retiros-de-silencio/ | Yoast: guardado
-content/blog/infografia-mindfulness-para-ninos.md: post actualizada (publish) id=1901 https://www.inbound.com.mx/infografia-mindfulness-para-ninos/ | Yoast: guardado
-content/blog/infografia-paises-donde-dominan-los-centros-comerciales.md: post actualizada (publish) id=2077 https://www.inbound.com.mx/infografia-paises-donde-dominan-los-centros-comerciales/ | Yoast: guardado
-content/blog/infografia-panorama-editorial-en-mexico.md: post actualizada (publish) id=2137 https://www.inbound.com.mx/infografia-panorama-editorial-en-mexico/ | Yoast: guardado
-content/blog/infografia-que-sucede-en-internet-en-un-minuto.md: post actualizada (publish) id=2393 https://www.inbound.com.mx/infografia-que-sucede-en-internet-en-un-minuto/ | Yoast: guardado
-content/blog/infografia-tendencias-del-sector-ti.md: post actualizada (publish) id=2033 https://www.inbound.com.mx/infografia-tendencias-del-sector-ti/ | Yoast: guardado
+content/blog/infografia-3-consejos-para-agudizar-tu-capacidad-de-observar-la-comunicacion-no-verbal.md: post actualizada (publish) id=1625 https://www.inbound.com.mx/infografia-3-consejos-para-agudizar-tu-capacidad-de-observar-la-comunicacion-no-verbal/ | Yoast: guardado
+content/blog/infografia-cosas-que-steve-jobs-odiaria-en-un-sitio-web.md: post actualizada (publish) id=1280 https://www.inbound.com.mx/infografia-cosas-que-steve-jobs-odiaria-en-un-sitio-web/ | Yoast: guardado
+content/blog/infografia-cuantos-usuarios-tienen-las-principales-redes-sociales.md: post actualizada (publish) id=1829 https://www.inbound.com.mx/infografia-cuantos-usuarios-tienen-las-principales-redes-sociales/ | Yoast: guardado
+content/blog/infografia-cuentas-de-mascotas-con-mas-seguidores-en-instagram.md: post actualizada (publish) id=1312 https://www.inbound.com.mx/infografia-cuentas-de-mascotas-con-mas-seguidores-en-instagram/ | Yoast: guardado
+content/blog/infografia-el-boom-de-la-fotografia-provocado-por-los-dispositivos-moviles.md: post actualizada (publish) id=1288 https://www.inbound.com.mx/infografia-el-boom-de-la-fotografia-provocado-por-los-dispositivos-moviles/ | Yoast: guardado
+content/blog/infografia-el-ecosistema-blockchain.md: post actualizada (publish) id=1330 https://www.inbound.com.mx/infografia-el-ecosistema-blockchain/ | Yoast: guardado
+content/blog/infografia-el-futuro-de-las-empresas-esta-en-la-nube.md: post actualizada (publish) id=1268 https://www.inbound.com.mx/infografia-el-futuro-de-las-empresas-esta-en-la-nube/ | Yoast: guardado
+content/blog/infografia-estado-de-la-ciberseguridad-industrial.md: post actualizada (publish) id=1591 https://www.inbound.com.mx/infografia-estado-de-la-ciberseguridad-industrial/ | Yoast: guardado
+content/blog/infografia-funnel-marketing-sistema-que-convierte-desconocidos-en-clientes.md: post actualizada (publish) id=2373 https://www.inbound.com.mx/infografia-funnel-marketing-sistema-que-convierte-desconocidos-en-clientes/ | Yoast: guardado
+content/blog/infografia-seo-la-receta-ideal-para-que-consuman-tu-contenido.md: post actualizada (publish) id=1991 https://www.inbound.com.mx/infografia-seo-la-receta-ideal-para-que-consuman-tu-contenido/ | Yoast: guardado
