@@ -1,0 +1,35 @@
+fecha: 2026-10-15T17:05:52Z
+commit: 629c054479d4ae70c38be5979e4b022d8639bc78
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38774380732
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-ciudades-con-mayor-calidad-de-vida.md content/blog/infografia-10-errores-imperdonables-en-la-ejecucion-del-branding.md content/blog/infografia-12-tendencias-en-diseno-web.md content/blog/infografia-5-aberraciones-electricas-en-la-automatizacion-industrial.md content/blog/infografia-5-beneficios-de-una-buena-atencion-al-cliente-en-las-redes-sociales.md content/blog/infografia-5-consejos-de-5-grandes-empresarios-latinoamericanos.md content/blog/infografia-8-apps-moviles-para-escanear-y-digitalizar-documentos.md content/blog/infografia-apple-park-el-ultimo-sueno-de-steve-jobs.md content/blog/infografia-blog-vs-noticias-en-una-web.md content/blog/infografia-ciudades-del-mundo-con-el-metro-cuadrado-mas-caro.md content/blog/infografia-como-crear-tu-marca-personal.md content/blog/infografia-evolucion-del-precio-del-bitcoin.md content/blog/infografia-hoja-de-ruta-de-la-metodologia-inbound-marketing.md content/blog/infografia-ingresos-y-beneficios-de-las-100-empresas-mas-grandes-del-mundo.md content/blog/infografia-iva-quienes-estan-afectados-por-el-sii.md content/blog/infografia-la-4a-revolucion-industrial.md content/blog/infografia-los-7-magnificos-de-la-transformacion-digital.md content/blog/infografia-realidad-virtual-y-marketing.md content/blog/infografia-tipos-de-chatbots.md content/blog/infografia-todo-el-dinero-digital-del-mundo.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-ciudades-con-mayor-calidad-de-vida.md: post actualizada (publish) id=1436 https://www.inbound.com.mx/infografia-10-ciudades-con-mayor-calidad-de-vida/ | Yoast: guardado
+content/blog/infografia-10-errores-imperdonables-en-la-ejecucion-del-branding.md: post actualizada (publish) id=1575 https://www.inbound.com.mx/infografia-10-errores-imperdonables-en-la-ejecucion-del-branding/ | Yoast: guardado
+content/blog/infografia-12-tendencias-en-diseno-web.md: post actualizada (publish) id=2217 https://www.inbound.com.mx/infografia-12-tendencias-en-diseno-web/ | Yoast: guardado
+content/blog/infografia-5-aberraciones-electricas-en-la-automatizacion-industrial.md: post actualizada (publish) id=1595 https://www.inbound.com.mx/infografia-5-aberraciones-electricas-en-la-automatizacion-industrial/ | Yoast: guardado
+content/blog/infografia-5-beneficios-de-una-buena-atencion-al-cliente-en-las-redes-sociales.md: post actualizada (publish) id=1675 https://www.inbound.com.mx/infografia-5-beneficios-de-una-buena-atencion-al-cliente-en-las-redes-sociales/ | Yoast: guardado
+content/blog/infografia-5-consejos-de-5-grandes-empresarios-latinoamericanos.md: post actualizada (publish) id=2277 https://www.inbound.com.mx/infografia-5-consejos-de-5-grandes-empresarios-latinoamericanos/ | Yoast: guardado
+content/blog/infografia-8-apps-moviles-para-escanear-y-digitalizar-documentos.md: post actualizada (publish) id=2361 https://www.inbound.com.mx/infografia-8-apps-moviles-para-escanear-y-digitalizar-documentos/ | Yoast: guardado
+content/blog/infografia-apple-park-el-ultimo-sueno-de-steve-jobs.md: post actualizada (publish) id=2099 https://www.inbound.com.mx/infografia-apple-park-el-ultimo-sueno-de-steve-jobs/ | Yoast: guardado
+content/blog/infografia-blog-vs-noticias-en-una-web.md: post actualizada (publish) id=1825 https://www.inbound.com.mx/infografia-blog-vs-noticias-en-una-web/ | Yoast: guardado
+content/blog/infografia-ciudades-del-mundo-con-el-metro-cuadrado-mas-caro.md: post actualizada (publish) id=1799 https://www.inbound.com.mx/infografia-ciudades-del-mundo-con-el-metro-cuadrado-mas-caro/ | Yoast: guardado
+content/blog/infografia-como-crear-tu-marca-personal.md: post actualizada (publish) id=1945 https://www.inbound.com.mx/infografia-como-crear-tu-marca-personal/ | Yoast: guardado
+content/blog/infografia-evolucion-del-precio-del-bitcoin.md: post actualizada (publish) id=2052 https://www.inbound.com.mx/infografia-evolucion-del-precio-del-bitcoin/ | Yoast: guardado
+content/blog/infografia-hoja-de-ruta-de-la-metodologia-inbound-marketing.md: post actualizada (publish) id=1619 https://www.inbound.com.mx/infografia-hoja-de-ruta-de-la-metodologia-inbound-marketing/ | Yoast: guardado
+content/blog/infografia-ingresos-y-beneficios-de-las-100-empresas-mas-grandes-del-mundo.md: post actualizada (publish) id=1923 https://www.inbound.com.mx/infografia-ingresos-y-beneficios-de-las-100-empresas-mas-grandes-del-mundo/ | Yoast: guardado
+content/blog/infografia-iva-quienes-estan-afectados-por-el-sii.md: post actualizada (publish) id=2203 https://www.inbound.com.mx/infografia-iva-quienes-estan-afectados-por-el-sii/ | Yoast: guardado
+content/blog/infografia-la-4a-revolucion-industrial.md: post actualizada (publish) id=1863 https://www.inbound.com.mx/infografia-la-4a-revolucion-industrial/ | Yoast: guardado
+content/blog/infografia-los-7-magnificos-de-la-transformacion-digital.md: post actualizada (publish) id=1320 https://www.inbound.com.mx/infografia-los-7-magnificos-de-la-transformacion-digital/ | Yoast: guardado
+content/blog/infografia-realidad-virtual-y-marketing.md: post actualizada (publish) id=2299 https://www.inbound.com.mx/infografia-realidad-virtual-y-marketing/ | Yoast: guardado
+content/blog/infografia-tipos-de-chatbots.md: post actualizada (publish) id=1372 https://www.inbound.com.mx/infografia-tipos-de-chatbots/ | Yoast: guardado
+content/blog/infografia-todo-el-dinero-digital-del-mundo.md: post actualizada (publish) id=1949 https://www.inbound.com.mx/infografia-todo-el-dinero-digital-del-mundo/ | Yoast: guardado
