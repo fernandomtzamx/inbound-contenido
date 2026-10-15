@@ -18,6 +18,7 @@ Repositorio fuente del blog de [inbound.com.mx](https://www.inbound.com.mx). Cad
 - `scripts/lint.py`, `scripts/cover.py`, `scripts/article.css`: control de calidad, portadas 1200x630 y estilos del artículo (ajustar colores a la marca).
 - `wordpress/mu-plugins/inbound-auth.php`: subir a `wp-content/mu-plugins/` si el servidor borra el header `Authorization`.
 - `wordpress/mu-plugins/inbound-yoast-rest.php`: subir a `wp-content/mu-plugins/` para que `seo_title` y `seo_description` se guarden en Yoast.
+- `wordpress/mu-plugins/inbound-host-canonico.php`: subir a `wp-content/mu-plugins/`. Redirige con 301 a https://www.inbound.com.mx todo lo que llegue por otro host (mail.inbound.com.mx, la IP, etc.) para que Google no indexe el sitio duplicado.
 - `scripts/build_posts.py` + `remediacion/*.py`: fichas de las entradas remediadas; generan `content/blog/<slug>.md`.
 - `scripts/audit.py` (`docs/auditoria.txt`) e `scripts/import_raw.py` (`docs/importar.txt`): auditoría y descarga del contenido original, solo lectura; se ejecutan al cambiar esos archivos.
 - `registro/ultima-publicacion.log`: log del último run, para leerlo sin capturas.
