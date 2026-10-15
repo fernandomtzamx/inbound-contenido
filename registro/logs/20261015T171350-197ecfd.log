@@ -1,0 +1,25 @@
+fecha: 2026-10-15T17:13:50Z
+commit: 197ecfd70f0423c69840ee4bc96575b45ed3dce2
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38775508958
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-frases-que-nunca-debes-poner-en-tu-cv.md content/blog/infografia-7-consejos-para-emprendedores-del-fundador-de-privalia.md content/blog/infografia-aprovecha-el-potencial-de-la-medicion-en-el-canal-movil.md content/blog/infografia-cloud-computing-e-internet-de-las-cosas-de-la-mano.md content/blog/infografia-comportamiento-del-empleo-turistico-en-2018.md content/blog/infografia-ejercicios-para-evitar-la-tendinitis-por-el-uso-del-movil.md content/blog/infografia-hashtags-para-cada-dia-de-la-semana.md content/blog/infografia-las-ciudades-con-mayor-cantidad-de-habitantes-multimillonarios.md content/blog/infografia-pros-y-contras-de-una-retroalimentacion-de-360o.md content/blog/infografia-que-es-una-fintech.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-frases-que-nunca-debes-poner-en-tu-cv.md: post actualizada (publish) id=5714 https://www.inbound.com.mx/infografia-10-frases-que-nunca-debes-poner-en-tu-cv/ | Yoast: guardado
+content/blog/infografia-7-consejos-para-emprendedores-del-fundador-de-privalia.md: post actualizada (publish) id=2315 https://www.inbound.com.mx/infografia-7-consejos-para-emprendedores-del-fundador-de-privalia/ | Yoast: guardado
+content/blog/infografia-aprovecha-el-potencial-de-la-medicion-en-el-canal-movil.md: post actualizada (publish) id=1344 https://www.inbound.com.mx/infografia-aprovecha-el-potencial-de-la-medicion-en-el-canal-movil/ | Yoast: guardado
+content/blog/infografia-cloud-computing-e-internet-de-las-cosas-de-la-mano.md: post actualizada (publish) id=2045 https://www.inbound.com.mx/infografia-cloud-computing-e-internet-de-las-cosas-de-la-mano/ | Yoast: guardado
+content/blog/infografia-comportamiento-del-empleo-turistico-en-2018.md: post actualizada (publish) id=5410 https://www.inbound.com.mx/infografia-comportamiento-del-empleo-turistico-en-2018/ | Yoast: guardado
+content/blog/infografia-ejercicios-para-evitar-la-tendinitis-por-el-uso-del-movil.md: post actualizada (publish) id=2387 https://www.inbound.com.mx/infografia-ejercicios-para-evitar-la-tendinitis-por-el-uso-del-movil/ | Yoast: guardado
+content/blog/infografia-hashtags-para-cada-dia-de-la-semana.md: post actualizada (publish) id=2029 https://www.inbound.com.mx/infografia-hashtags-para-cada-dia-de-la-semana/ | Yoast: guardado
+content/blog/infografia-las-ciudades-con-mayor-cantidad-de-habitantes-multimillonarios.md: post actualizada (publish) id=6547 https://www.inbound.com.mx/infografia-las-ciudades-con-mayor-cantidad-de-habitantes-multimillonarios/ | Yoast: guardado
+content/blog/infografia-pros-y-contras-de-una-retroalimentacion-de-360o.md: post actualizada (publish) id=1805 https://www.inbound.com.mx/infografia-pros-y-contras-de-una-retroalimentacion-de-360o/ | Yoast: guardado
+content/blog/infografia-que-es-una-fintech.md: post actualizada (publish) id=1861 https://www.inbound.com.mx/infografia-que-es-una-fintech/ | Yoast: guardado
