@@ -1,0 +1,26 @@
+fecha: 2026-10-15T18:29:35Z
+commit: a1f99fc4c7be92a4b31a2966f3b88fd2060a4ada
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38785999124
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-tendencias-de-capital-humano.md content/blog/infografia-7-ventajas-de-usar-vectores-en-un-blog-o-web.md content/blog/infografia-aerolineas-que-disponen-de-wifi-por-paises.md content/blog/infografia-automatizacion-del-trabajo-hombre-vs-robot.md content/blog/infografia-busqueda-en-google-por-dispositivo.md content/blog/infografia-la-voz-de-tu-marca-lo-que-debieras-tener-en-cuenta.md content/blog/infografia-las-empresas-que-mas-ingresan-por-empleado.md content/blog/infografia-los-6-no-en-el-momento-de-vender.md content/blog/infografia-principales-factores-para-posicionar-en-la-primera-pagina-de-google.md content/blog/infografia-que-fabricantes-venden-mas-ordenadores-en-el-mundo.md content/blog/infografia-tendencias-sobre-comercio-electronico.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-tendencias-de-capital-humano.md: post actualizada (publish) id=1673 https://www.inbound.com.mx/infografia-10-tendencias-de-capital-humano/ | Yoast: guardado
+content/blog/infografia-7-ventajas-de-usar-vectores-en-un-blog-o-web.md: post actualizada (publish) id=1338 https://www.inbound.com.mx/infografia-7-ventajas-de-usar-vectores-en-un-blog-o-web/ | Yoast: guardado
+content/blog/infografia-aerolineas-que-disponen-de-wifi-por-paises.md: post actualizada (publish) id=2397 https://www.inbound.com.mx/infografia-aerolineas-que-disponen-de-wifi-por-paises/ | Yoast: guardado
+content/blog/infografia-automatizacion-del-trabajo-hombre-vs-robot.md: post actualizada (publish) id=2233 https://www.inbound.com.mx/infografia-automatizacion-del-trabajo-hombre-vs-robot/ | Yoast: guardado
+content/blog/infografia-busqueda-en-google-por-dispositivo.md: post actualizada (publish) id=1965 https://www.inbound.com.mx/infografia-busqueda-en-google-por-dispositivo/ | Yoast: guardado
+content/blog/infografia-la-voz-de-tu-marca-lo-que-debieras-tener-en-cuenta.md: post actualizada (publish) id=1579 https://www.inbound.com.mx/infografia-la-voz-de-tu-marca-lo-que-debieras-tener-en-cuenta/ | Yoast: guardado
+content/blog/infografia-las-empresas-que-mas-ingresan-por-empleado.md: post actualizada (publish) id=1887 https://www.inbound.com.mx/infografia-las-empresas-que-mas-ingresan-por-empleado/ | Yoast: guardado
+content/blog/infografia-los-6-no-en-el-momento-de-vender.md: post actualizada (publish) id=2369 https://www.inbound.com.mx/infografia-los-6-no-en-el-momento-de-vender/ | Yoast: guardado
+content/blog/infografia-principales-factores-para-posicionar-en-la-primera-pagina-de-google.md: post actualizada (publish) id=2007 https://www.inbound.com.mx/infografia-principales-factores-para-posicionar-en-la-primera-pagina-de-google/ | Yoast: guardado
+content/blog/infografia-que-fabricantes-venden-mas-ordenadores-en-el-mundo.md: post actualizada (publish) id=1657 https://www.inbound.com.mx/infografia-que-fabricantes-venden-mas-ordenadores-en-el-mundo/ | Yoast: guardado
+content/blog/infografia-tendencias-sobre-comercio-electronico.md: post actualizada (publish) id=2337 https://www.inbound.com.mx/infografia-tendencias-sobre-comercio-electronico/ | Yoast: guardado
