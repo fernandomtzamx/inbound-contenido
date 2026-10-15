@@ -39,7 +39,7 @@ El móvil siguió ganando y hoy concentra la mayoría de las búsquedas en casi 
 
 ## Para tu negocio
 
-Revisa tu sitio primero en el celular: velocidad, botones fáciles de tocar, teléfono y WhatsApp a un toque. Lee [la búsqueda móvil y el SEO](https://www.inbound.com.mx/infografia-como-indexa-google-el-contenido/) y [factores para posicionar en la primera página de Google](https://www.inbound.com.mx/infografia-principales-factores-para-posicionar-en-la-primera-pagina-de-google/).
+Revisa tu sitio primero en el celular: velocidad, botones fáciles de tocar, teléfono y WhatsApp a un toque. Lee [cómo indexa Google el contenido](https://www.inbound.com.mx/infografia-como-indexa-google-el-contenido/) y [factores para posicionar en la primera página de Google](https://www.inbound.com.mx/infografia-principales-factores-para-posicionar-en-la-primera-pagina-de-google/).
 
 ## Preguntas frecuentes
 

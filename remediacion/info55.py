@@ -145,7 +145,7 @@ El móvil siguió ganando y hoy concentra la mayoría de las búsquedas en casi 
 
 ## Para tu negocio
 
-Revisa tu sitio primero en el celular: velocidad, botones fáciles de tocar, teléfono y WhatsApp a un toque. Lee [la búsqueda móvil y el SEO]({S}/infografia-como-indexa-google-el-contenido/) y [factores para posicionar en la primera página de Google]({S}/infografia-principales-factores-para-posicionar-en-la-primera-pagina-de-google/).
+Revisa tu sitio primero en el celular: velocidad, botones fáciles de tocar, teléfono y WhatsApp a un toque. Lee [cómo indexa Google el contenido]({S}/infografia-como-indexa-google-el-contenido/) y [factores para posicionar en la primera página de Google]({S}/infografia-principales-factores-para-posicionar-en-la-primera-pagina-de-google/).
 """,
 faq=[
 ("¿Se busca más en Google desde el celular o la computadora?", "Desde el celular en la mayoría de los países; ya en 2017 era mayoría en Estados Unidos, España, Italia, Brasil e India."),
