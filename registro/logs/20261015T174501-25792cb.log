@@ -1,0 +1,25 @@
+fecha: 2026-10-15T17:45:01Z
+commit: 25792cb1976c47753c1a4bed2b6d648835c8e76f
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38779822238
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-herramientas-que-deben-formar-parte-de-tu-estrategia-seo.md content/blog/infografia-9-herramientas-gratuitas-imprescindibles-para-bloggers.md content/blog/infografia-como-hacer-que-tus-post-se-compartan-mas-en-las-redes-sociales.md content/blog/infografia-como-son-los-compradores-online-en-europa.md content/blog/infografia-dime-tu-edad-y-te-digo-tu-app.md content/blog/infografia-el-futuro-de-customer-experience.md content/blog/infografia-empresas-del-sp-500-que-tienen-mas-dinero-en-el-extranjero.md content/blog/infografia-evolucion-de-los-ingresos-de-facebook.md content/blog/infografia-proyectos-app-en-america-latina.md content/blog/infografia-viewability-y-conversiones-para-el-dia-de-san-valentin.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-herramientas-que-deben-formar-parte-de-tu-estrategia-seo.md: post actualizada (publish) id=2269 https://www.inbound.com.mx/infografia-10-herramientas-que-deben-formar-parte-de-tu-estrategia-seo/ | Yoast: guardado
+content/blog/infografia-9-herramientas-gratuitas-imprescindibles-para-bloggers.md: post actualizada (publish) id=1837 https://www.inbound.com.mx/infografia-9-herramientas-gratuitas-imprescindibles-para-bloggers/ | Yoast: guardado
+content/blog/infografia-como-hacer-que-tus-post-se-compartan-mas-en-las-redes-sociales.md: post actualizada (publish) id=2301 https://www.inbound.com.mx/infografia-como-hacer-que-tus-post-se-compartan-mas-en-las-redes-sociales/ | Yoast: guardado
+content/blog/infografia-como-son-los-compradores-online-en-europa.md: post actualizada (publish) id=5307 https://www.inbound.com.mx/infografia-como-son-los-compradores-online-en-europa/ | Yoast: guardado
+content/blog/infografia-dime-tu-edad-y-te-digo-tu-app.md: post actualizada (publish) id=1314 https://www.inbound.com.mx/infografia-dime-tu-edad-y-te-digo-tu-app/ | Yoast: guardado
+content/blog/infografia-el-futuro-de-customer-experience.md: post actualizada (publish) id=1416 https://www.inbound.com.mx/infografia-el-futuro-de-customer-experience/ | Yoast: guardado
+content/blog/infografia-empresas-del-sp-500-que-tienen-mas-dinero-en-el-extranjero.md: post actualizada (publish) id=1603 https://www.inbound.com.mx/infografia-empresas-del-sp-500-que-tienen-mas-dinero-en-el-extranjero/ | Yoast: guardado
+content/blog/infografia-evolucion-de-los-ingresos-de-facebook.md: post actualizada (publish) id=1569 https://www.inbound.com.mx/infografia-evolucion-de-los-ingresos-de-facebook/ | Yoast: guardado
+content/blog/infografia-proyectos-app-en-america-latina.md: post actualizada (publish) id=2079 https://www.inbound.com.mx/infografia-proyectos-app-en-america-latina/ | Yoast: guardado
+content/blog/infografia-viewability-y-conversiones-para-el-dia-de-san-valentin.md: post actualizada (publish) id=5071 https://www.inbound.com.mx/infografia-viewability-y-conversiones-para-el-dia-de-san-valentin/ | Yoast: guardado
