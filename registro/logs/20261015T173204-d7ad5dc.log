@@ -1,0 +1,25 @@
+fecha: 2026-10-15T17:32:04Z
+commit: d7ad5dca1f446b484075b8fcbf5ee9c9a359ab4d
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38778047489
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-herramientas-seo-gratis.md content/blog/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante.md content/blog/infografia-7-razones-por-las-que-pagar-a-los-becarios.md content/blog/infografia-9-mejores-herramientas-online-para-comprimir-imagenes.md content/blog/infografia-clasificacion-de-las-motivaciones-sociales.md content/blog/infografia-estructura-de-la-declaracion-de-la-renta.md content/blog/infografia-la-importancia-del-color-en-el-branding.md content/blog/infografia-que-es-el-black-friday.md content/blog/infografia-rutas-aereas-transpolares.md content/blog/infografia-snapcraft-para-desarrolladores.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-herramientas-seo-gratis.md: post actualizada (publish) id=1424 https://www.inbound.com.mx/infografia-10-herramientas-seo-gratis/ | Yoast: guardado
+content/blog/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante.md: post actualizada (publish) id=1981 https://www.inbound.com.mx/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante/ | Yoast: guardado
+content/blog/infografia-7-razones-por-las-que-pagar-a-los-becarios.md: post actualizada (publish) id=1302 https://www.inbound.com.mx/infografia-7-razones-por-las-que-pagar-a-los-becarios/ | Yoast: guardado
+content/blog/infografia-9-mejores-herramientas-online-para-comprimir-imagenes.md: post actualizada (publish) id=1755 https://www.inbound.com.mx/infografia-9-mejores-herramientas-online-para-comprimir-imagenes/ | Yoast: guardado
+content/blog/infografia-clasificacion-de-las-motivaciones-sociales.md: post actualizada (publish) id=1903 https://www.inbound.com.mx/infografia-clasificacion-de-las-motivaciones-sociales/ | Yoast: guardado
+content/blog/infografia-estructura-de-la-declaracion-de-la-renta.md: post actualizada (publish) id=1935 https://www.inbound.com.mx/infografia-estructura-de-la-declaracion-de-la-renta/ | Yoast: guardado
+content/blog/infografia-la-importancia-del-color-en-el-branding.md: post actualizada (publish) id=2047 https://www.inbound.com.mx/infografia-la-importancia-del-color-en-el-branding/ | Yoast: guardado
+content/blog/infografia-que-es-el-black-friday.md: post actualizada (publish) id=1919 https://www.inbound.com.mx/infografia-que-es-el-black-friday/ | Yoast: guardado
+content/blog/infografia-rutas-aereas-transpolares.md: post actualizada (publish) id=1462 https://www.inbound.com.mx/infografia-rutas-aereas-transpolares/ | Yoast: guardado
+content/blog/infografia-snapcraft-para-desarrolladores.md: post actualizada (publish) id=5881 https://www.inbound.com.mx/infografia-snapcraft-para-desarrolladores/ | Yoast: guardado

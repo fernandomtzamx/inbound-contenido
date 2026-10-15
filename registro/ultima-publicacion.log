@@ -1,25 +1,25 @@
-fecha: 2026-10-15T17:29:44Z
-commit: 47b9b46af660bbc0b5659f74234fa76a4bdca6ba
+fecha: 2026-10-15T17:32:04Z
+commit: d7ad5dca1f446b484075b8fcbf5ee9c9a359ab4d
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38777738248
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38778047489
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-14-habitos-de-las-personas-que-caen-sinceramente-bien.md content/blog/infografia-28-terminos-de-diseno-que-marketing-debe-conocer.md content/blog/infografia-5-buenas-razones-detras-de-la-jornada-intensiva-de-verano.md content/blog/infografia-brand-articulation-las-bases-para-solidificar-tu-marca-desde-cero.md content/blog/infografia-citas-celebres-de-expertos-en-productividad.md content/blog/infografia-como-crear-un-buyer-person.md content/blog/infografia-facility-managementla-cultura-de-las-empresas-exitosas.md content/blog/infografia-ingresos-de-google-por-publicidad-vs-gasto-publicitario-principales-paises.md content/blog/infografia-pasos-clave-para-entender-al-cliente.md content/blog/infografia-te-planteas-comprar-un-samsung-galaxy-note-8.md 
+Argumentos: content/blog/infografia-10-herramientas-seo-gratis.md content/blog/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante.md content/blog/infografia-7-razones-por-las-que-pagar-a-los-becarios.md content/blog/infografia-9-mejores-herramientas-online-para-comprimir-imagenes.md content/blog/infografia-clasificacion-de-las-motivaciones-sociales.md content/blog/infografia-estructura-de-la-declaracion-de-la-renta.md content/blog/infografia-la-importancia-del-color-en-el-branding.md content/blog/infografia-que-es-el-black-friday.md content/blog/infografia-rutas-aereas-transpolares.md content/blog/infografia-snapcraft-para-desarrolladores.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-14-habitos-de-las-personas-que-caen-sinceramente-bien.md: post actualizada (publish) id=2325 https://www.inbound.com.mx/infografia-14-habitos-de-las-personas-que-caen-sinceramente-bien/ | Yoast: guardado
-content/blog/infografia-28-terminos-de-diseno-que-marketing-debe-conocer.md: post actualizada (publish) id=2265 https://www.inbound.com.mx/infografia-28-terminos-de-diseno-que-marketing-debe-conocer/ | Yoast: guardado
-content/blog/infografia-5-buenas-razones-detras-de-la-jornada-intensiva-de-verano.md: post actualizada (publish) id=1891 https://www.inbound.com.mx/infografia-5-buenas-razones-detras-de-la-jornada-intensiva-de-verano/ | Yoast: guardado
-content/blog/infografia-brand-articulation-las-bases-para-solidificar-tu-marca-desde-cero.md: post actualizada (publish) id=2031 https://www.inbound.com.mx/infografia-brand-articulation-las-bases-para-solidificar-tu-marca-desde-cero/ | Yoast: guardado
-content/blog/infografia-citas-celebres-de-expertos-en-productividad.md: post actualizada (publish) id=1677 https://www.inbound.com.mx/infografia-citas-celebres-de-expertos-en-productividad/ | Yoast: guardado
-content/blog/infografia-como-crear-un-buyer-person.md: post actualizada (publish) id=1380 https://www.inbound.com.mx/infografia-como-crear-un-buyer-person/ | Yoast: guardado
-content/blog/infografia-facility-managementla-cultura-de-las-empresas-exitosas.md: post actualizada (publish) id=1897 https://www.inbound.com.mx/infografia-facility-managementla-cultura-de-las-empresas-exitosas/ | Yoast: guardado
-content/blog/infografia-ingresos-de-google-por-publicidad-vs-gasto-publicitario-principales-paises.md: post actualizada (publish) id=1573 https://www.inbound.com.mx/infografia-ingresos-de-google-por-publicidad-vs-gasto-publicitario-principales-paises/ | Yoast: guardado
-content/blog/infografia-pasos-clave-para-entender-al-cliente.md: post actualizada (publish) id=1442 https://www.inbound.com.mx/infografia-pasos-clave-para-entender-al-cliente/ | Yoast: guardado
-content/blog/infografia-te-planteas-comprar-un-samsung-galaxy-note-8.md: post actualizada (publish) id=1358 https://www.inbound.com.mx/infografia-te-planteas-comprar-un-samsung-galaxy-note-8/ | Yoast: guardado
+content/blog/infografia-10-herramientas-seo-gratis.md: post actualizada (publish) id=1424 https://www.inbound.com.mx/infografia-10-herramientas-seo-gratis/ | Yoast: guardado
+content/blog/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante.md: post actualizada (publish) id=1981 https://www.inbound.com.mx/infografia-5-inesperadas-razones-por-las-que-el-engagement-de-tu-equipo-es-importante/ | Yoast: guardado
+content/blog/infografia-7-razones-por-las-que-pagar-a-los-becarios.md: post actualizada (publish) id=1302 https://www.inbound.com.mx/infografia-7-razones-por-las-que-pagar-a-los-becarios/ | Yoast: guardado
+content/blog/infografia-9-mejores-herramientas-online-para-comprimir-imagenes.md: post actualizada (publish) id=1755 https://www.inbound.com.mx/infografia-9-mejores-herramientas-online-para-comprimir-imagenes/ | Yoast: guardado
+content/blog/infografia-clasificacion-de-las-motivaciones-sociales.md: post actualizada (publish) id=1903 https://www.inbound.com.mx/infografia-clasificacion-de-las-motivaciones-sociales/ | Yoast: guardado
+content/blog/infografia-estructura-de-la-declaracion-de-la-renta.md: post actualizada (publish) id=1935 https://www.inbound.com.mx/infografia-estructura-de-la-declaracion-de-la-renta/ | Yoast: guardado
+content/blog/infografia-la-importancia-del-color-en-el-branding.md: post actualizada (publish) id=2047 https://www.inbound.com.mx/infografia-la-importancia-del-color-en-el-branding/ | Yoast: guardado
+content/blog/infografia-que-es-el-black-friday.md: post actualizada (publish) id=1919 https://www.inbound.com.mx/infografia-que-es-el-black-friday/ | Yoast: guardado
+content/blog/infografia-rutas-aereas-transpolares.md: post actualizada (publish) id=1462 https://www.inbound.com.mx/infografia-rutas-aereas-transpolares/ | Yoast: guardado
+content/blog/infografia-snapcraft-para-desarrolladores.md: post actualizada (publish) id=5881 https://www.inbound.com.mx/infografia-snapcraft-para-desarrolladores/ | Yoast: guardado
