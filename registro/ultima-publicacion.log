@@ -1,25 +1,25 @@
-fecha: 2026-10-15T17:27:47Z
-commit: e33e39ef646831e9857972b691756688506b23fc
+fecha: 2026-10-15T17:29:44Z
+commit: 47b9b46af660bbc0b5659f74234fa76a4bdca6ba
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38777456369
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38777738248
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-consejos-para-negociar-de-forma-efectiva.md content/blog/infografia-12-razones-por-las-que-el-mejor-talento-no-quiere-trabajar-en-tu-empresa.md content/blog/infografia-5-errores-tipicos-de-los-nuevos-directivos.md content/blog/infografia-atajos-de-teclado-para-social-media.md content/blog/infografia-como-es-el-consumo-en-mexico.md content/blog/infografia-el-sector-de-la-hosteleria-en-europa.md content/blog/infografia-entendiendo-el-ride-hailing.md content/blog/infografia-la-sociedad-de-la-informacion-en-castilla-y-leon.md content/blog/infografia-tendencias-sobre-los-viajes-de-verano-en-relacion-a-lo-que-buscan-en-internet.md content/blog/infografia-todo-el-dinero-del-mundo-en-perspectiva.md 
+Argumentos: content/blog/infografia-14-habitos-de-las-personas-que-caen-sinceramente-bien.md content/blog/infografia-28-terminos-de-diseno-que-marketing-debe-conocer.md content/blog/infografia-5-buenas-razones-detras-de-la-jornada-intensiva-de-verano.md content/blog/infografia-brand-articulation-las-bases-para-solidificar-tu-marca-desde-cero.md content/blog/infografia-citas-celebres-de-expertos-en-productividad.md content/blog/infografia-como-crear-un-buyer-person.md content/blog/infografia-facility-managementla-cultura-de-las-empresas-exitosas.md content/blog/infografia-ingresos-de-google-por-publicidad-vs-gasto-publicitario-principales-paises.md content/blog/infografia-pasos-clave-para-entender-al-cliente.md content/blog/infografia-te-planteas-comprar-un-samsung-galaxy-note-8.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-consejos-para-negociar-de-forma-efectiva.md: post actualizada (publish) id=2357 https://www.inbound.com.mx/infografia-10-consejos-para-negociar-de-forma-efectiva/ | Yoast: guardado
-content/blog/infografia-12-razones-por-las-que-el-mejor-talento-no-quiere-trabajar-en-tu-empresa.md: post actualizada (publish) id=2193 https://www.inbound.com.mx/infografia-12-razones-por-las-que-el-mejor-talento-no-quiere-trabajar-en-tu-empresa/ | Yoast: guardado
-content/blog/infografia-5-errores-tipicos-de-los-nuevos-directivos.md: post actualizada (publish) id=2037 https://www.inbound.com.mx/infografia-5-errores-tipicos-de-los-nuevos-directivos/ | Yoast: guardado
-content/blog/infografia-atajos-de-teclado-para-social-media.md: post actualizada (publish) id=2245 https://www.inbound.com.mx/infografia-atajos-de-teclado-para-social-media/ | Yoast: guardado
-content/blog/infografia-como-es-el-consumo-en-mexico.md: post actualizada (publish) id=1581 https://www.inbound.com.mx/infografia-como-es-el-consumo-en-mexico/ | Yoast: guardado
-content/blog/infografia-el-sector-de-la-hosteleria-en-europa.md: post actualizada (publish) id=2013 https://www.inbound.com.mx/infografia-el-sector-de-la-hosteleria-en-europa/ | Yoast: guardado
-content/blog/infografia-entendiendo-el-ride-hailing.md: post actualizada (publish) id=7269 https://www.inbound.com.mx/infografia-entendiendo-el-ride-hailing/ | Yoast: guardado
-content/blog/infografia-la-sociedad-de-la-informacion-en-castilla-y-leon.md: post actualizada (publish) id=2177 https://www.inbound.com.mx/infografia-la-sociedad-de-la-informacion-en-castilla-y-leon/ | Yoast: guardado
-content/blog/infografia-tendencias-sobre-los-viajes-de-verano-en-relacion-a-lo-que-buscan-en-internet.md: post actualizada (publish) id=1386 https://www.inbound.com.mx/infografia-tendencias-sobre-los-viajes-de-verano-en-relacion-a-lo-que-buscan-en-internet/ | Yoast: guardado
-content/blog/infografia-todo-el-dinero-del-mundo-en-perspectiva.md: post actualizada (publish) id=1855 https://www.inbound.com.mx/infografia-todo-el-dinero-del-mundo-en-perspectiva/ | Yoast: guardado
+content/blog/infografia-14-habitos-de-las-personas-que-caen-sinceramente-bien.md: post actualizada (publish) id=2325 https://www.inbound.com.mx/infografia-14-habitos-de-las-personas-que-caen-sinceramente-bien/ | Yoast: guardado
+content/blog/infografia-28-terminos-de-diseno-que-marketing-debe-conocer.md: post actualizada (publish) id=2265 https://www.inbound.com.mx/infografia-28-terminos-de-diseno-que-marketing-debe-conocer/ | Yoast: guardado
+content/blog/infografia-5-buenas-razones-detras-de-la-jornada-intensiva-de-verano.md: post actualizada (publish) id=1891 https://www.inbound.com.mx/infografia-5-buenas-razones-detras-de-la-jornada-intensiva-de-verano/ | Yoast: guardado
+content/blog/infografia-brand-articulation-las-bases-para-solidificar-tu-marca-desde-cero.md: post actualizada (publish) id=2031 https://www.inbound.com.mx/infografia-brand-articulation-las-bases-para-solidificar-tu-marca-desde-cero/ | Yoast: guardado
+content/blog/infografia-citas-celebres-de-expertos-en-productividad.md: post actualizada (publish) id=1677 https://www.inbound.com.mx/infografia-citas-celebres-de-expertos-en-productividad/ | Yoast: guardado
+content/blog/infografia-como-crear-un-buyer-person.md: post actualizada (publish) id=1380 https://www.inbound.com.mx/infografia-como-crear-un-buyer-person/ | Yoast: guardado
+content/blog/infografia-facility-managementla-cultura-de-las-empresas-exitosas.md: post actualizada (publish) id=1897 https://www.inbound.com.mx/infografia-facility-managementla-cultura-de-las-empresas-exitosas/ | Yoast: guardado
+content/blog/infografia-ingresos-de-google-por-publicidad-vs-gasto-publicitario-principales-paises.md: post actualizada (publish) id=1573 https://www.inbound.com.mx/infografia-ingresos-de-google-por-publicidad-vs-gasto-publicitario-principales-paises/ | Yoast: guardado
+content/blog/infografia-pasos-clave-para-entender-al-cliente.md: post actualizada (publish) id=1442 https://www.inbound.com.mx/infografia-pasos-clave-para-entender-al-cliente/ | Yoast: guardado
+content/blog/infografia-te-planteas-comprar-un-samsung-galaxy-note-8.md: post actualizada (publish) id=1358 https://www.inbound.com.mx/infografia-te-planteas-comprar-un-samsung-galaxy-note-8/ | Yoast: guardado
