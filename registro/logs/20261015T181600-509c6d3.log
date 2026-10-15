@@ -1,0 +1,25 @@
+fecha: 2026-10-15T18:16:00Z
+commit: 509c6d37529f40926cd39a75b10ce91d868010a9
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38784108877
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-5-datos-clave-sobre-los-empleos-del-futuro.md content/blog/infografia-con-quien-pasamos-el-tiempo.md content/blog/infografia-desglose-de-una-nomina-de-un-trabajador-temporal.md content/blog/infografia-el-desafio-de-la-ciberseguridad-en-el-iot.md content/blog/infografia-guia-para-hacer-un-podcast.md content/blog/infografia-inbound-sales-vs-otbound-sales.md content/blog/infografia-juego-de-tronos-el-mercado-que-mueve.md content/blog/infografia-las-primeras-ciudades-que-seran-afectadas-por-el-cambio-climatico-son-%c2%85.md content/blog/infografia-que-buscan-los-consumidores-en-un-commerce.md content/blog/infografia-smartcars-los-coches-del-futuro.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-5-datos-clave-sobre-los-empleos-del-futuro.md: post actualizada (publish) id=1378 https://www.inbound.com.mx/infografia-5-datos-clave-sobre-los-empleos-del-futuro/ | Yoast: guardado
+content/blog/infografia-con-quien-pasamos-el-tiempo.md: post actualizada (publish) id=1478 https://www.inbound.com.mx/infografia-con-quien-pasamos-el-tiempo/ | Yoast: guardado
+content/blog/infografia-desglose-de-una-nomina-de-un-trabajador-temporal.md: post actualizada (publish) id=1841 https://www.inbound.com.mx/infografia-desglose-de-una-nomina-de-un-trabajador-temporal/ | Yoast: guardado
+content/blog/infografia-el-desafio-de-la-ciberseguridad-en-el-iot.md: post actualizada (publish) id=1501 https://www.inbound.com.mx/infografia-el-desafio-de-la-ciberseguridad-en-el-iot/ | Yoast: guardado
+content/blog/infografia-guia-para-hacer-un-podcast.md: post actualizada (publish) id=1961 https://www.inbound.com.mx/infografia-guia-para-hacer-un-podcast/ | Yoast: guardado
+content/blog/infografia-inbound-sales-vs-otbound-sales.md: post actualizada (publish) id=1464 https://www.inbound.com.mx/infografia-inbound-sales-vs-otbound-sales/ | Yoast: guardado
+content/blog/infografia-juego-de-tronos-el-mercado-que-mueve.md: post actualizada (publish) id=1376 https://www.inbound.com.mx/infografia-juego-de-tronos-el-mercado-que-mueve/ | Yoast: guardado
+content/blog/infografia-las-primeras-ciudades-que-seran-afectadas-por-el-cambio-climatico-son-%c2%85.md: post actualizada (publish) id=1997 https://www.inbound.com.mx/infografia-las-primeras-ciudades-que-seran-afectadas-por-el-cambio-climatico-son-%c2%85/ | Yoast: guardado
+content/blog/infografia-que-buscan-los-consumidores-en-un-commerce.md: post actualizada (publish) id=1482 https://www.inbound.com.mx/infografia-que-buscan-los-consumidores-en-un-commerce/ | Yoast: guardado
+content/blog/infografia-smartcars-los-coches-del-futuro.md: post actualizada (publish) id=2311 https://www.inbound.com.mx/infografia-smartcars-los-coches-del-futuro/ | Yoast: guardado
