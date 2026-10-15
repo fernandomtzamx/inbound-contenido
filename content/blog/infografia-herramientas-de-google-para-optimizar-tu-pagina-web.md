@@ -66,3 +66,4 @@ Google vendió el negocio de Google Domains a Squarespace en 2023 y cerró Googl
 - [Por qué hacer campañas en buscadores](https://www.inbound.com.mx/campana-en-buscadores/)
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué herramientas gratuitas de Google sirven para optimizar una página web?","acceptedAnswer":{"@type":"Answer","text":"Las principales son Google Search Console, PageSpeed Insights, Google Analytics 4, Google Tag Manager y Google Trends."}},{"@type":"Question","name":"¿Google AdWords sigue existiendo?","acceptedAnswer":{"@type":"Answer","text":"Sí, pero desde 2018 se llama Google Ads."}},{"@type":"Question","name":"¿Qué pasó con Google Domains y Google Correlate?","acceptedAnswer":{"@type":"Answer","text":"Google vendió el negocio de Google Domains a Squarespace en 2023 y cerró Google Correlate en 2019."}}]}</script>
+

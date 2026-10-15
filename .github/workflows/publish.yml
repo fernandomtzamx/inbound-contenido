@@ -25,7 +25,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: publish-wordpress
+  group: publish-${{ github.sha }}
   cancel-in-progress: false
 
 jobs:
@@ -102,13 +102,20 @@ jobs:
             echo "---"
             cat publish.log 2>/dev/null || echo "(sin log)"
           } > registro/ultima-publicacion.log
+          mkdir -p registro/logs
+          cp registro/ultima-publicacion.log "registro/logs/$(date -u +%Y%m%dT%H%M%S)-${GITHUB_SHA:0:7}.log"
           git config user.name "inbound-bot"
           git config user.email "inbound-bot@users.noreply.github.com"
-          git add registro/ultima-publicacion.log
+          git add registro/ultima-publicacion.log registro/logs
           [ -f registro/auditoria.json ] && git add registro/auditoria.json
           [ -d registro/raw ] && git add registro/raw
           [ -f registro/busqueda.json ] && git add registro/busqueda.json
           [ -d registro/img ] && git add registro/img
           [ -d registro/listas ] && git add registro/listas
           git commit -m "Registro de publicación [skip ci]" || exit 0
-          git pull --rebase -q origin main && git push -q origin HEAD:main
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs -q origin main && git push -q origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 7))
+          done
+          exit 1

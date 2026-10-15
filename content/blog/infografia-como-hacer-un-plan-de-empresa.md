@@ -69,3 +69,4 @@ Para validar una idea basta una versión de una página; para buscar inversión 
 - [Qué es un buyer persona](https://www.inbound.com.mx/buyer-persona/)
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué debe incluir un plan de empresa?","acceptedAnswer":{"@type":"Answer","text":"Resumen ejecutivo, problema y solución, mercado objetivo, modelo de ingresos, marketing y ventas, operación, equipo y finanzas."}},{"@type":"Question","name":"¿Qué preguntas responde el modelo de negocio?","acceptedAnswer":{"@type":"Answer","text":"Cómo vas a ganar dinero, a través de qué vías y cómo te vas a promocionar."}},{"@type":"Question","name":"¿Cuánto debe medir un plan de empresa?","acceptedAnswer":{"@type":"Answer","text":"Para validar una idea basta una versión de una página; para buscar inversión o crédito conviene un documento más completo con proyecciones financieras."}}]}</script>
+
