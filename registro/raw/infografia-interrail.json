@@ -1,0 +1,40 @@
+{
+ "id": 1821,
+ "slug": "infografia-interrail",
+ "status": "publish",
+ "date": "2017-10-15T08:29:28",
+ "modified": "2018-01-27T02:46:20",
+ "link": "https://www.inbound.com.mx/infografia-interrail/",
+ "featured_media": 1822,
+ "categories": [
+  105
+ ],
+ "tags": [
+  107,
+  121
+ ],
+ "template": "",
+ "format": "standard",
+ "title": "[Infografía] Interrail",
+ "excerpt": "Infografía sobre Turismo con el tema: \"Interrail\"",
+ "content": "En esta ocasión te compartimos una Infografía sobre Turismo con el tema: \"Interrail\".\r\n\r\n<img class=\"img-responsive\" src=\"https://www.inbound.com.mx//wp-content/uploads/2017/10/interrail-infografia.png\" alt=\"Infografía sobre Turismo\" />",
+ "tipo": "posts",
+ "yoast_head_json": {
+  "title": "[Infografía] Interrail",
+  "description": "Infografía sobre Turismo con el tema: \"Interrail\"",
+  "og_image": [
+   {
+    "width": 400,
+    "height": 400,
+    "url": "https://www.inbound.com.mx/wp-content/uploads/2017/07/GL5yK8Lr_400x400.png",
+    "type": "image/png"
+   }
+  ]
+ },
+ "featured": {
+  "source_url": "https://www.inbound.com.mx/wp-content/uploads/2017/09/interrail-infografia.png",
+  "alt": "",
+  "width": 1520,
+  "height": 2488
+ }
+}
