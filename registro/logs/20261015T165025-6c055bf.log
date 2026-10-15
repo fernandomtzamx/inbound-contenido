@@ -1,0 +1,35 @@
+fecha: 2026-10-15T16:50:25Z
+commit: 6c055bf0e81cb6c068828230143c9a258bd711cd
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38772251885
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-frases-para-captar-clientes.md content/blog/infografia-10-preguntas-para-definir-tu-buyer-persona.md content/blog/infografia-10-profesiones-mas-dificiles-de-cubrir.md content/blog/infografia-5-consejos-para-implantar-la-gestion-por-valores.md content/blog/infografia-7-axiomas-de-la-cadena-de-suministros-segun-steve-jobs.md content/blog/infografia-7-maneras-de-mejorar-la-comunicacion-con-tus-colaboradores.md content/blog/infografia-8-herramientas-de-la-transformacion-digital.md content/blog/infografia-8-tareas-de-un-community-manager-en-una-empresa.md content/blog/infografia-apple-distribucion-de-ingresos-por-productos.md content/blog/infografia-chile-el-consumidor-conectado.md content/blog/infografia-como-hacer-un-presupuesto-de-marketing-en-redes-sociales.md content/blog/infografia-consejos-para-perder-el-miedo-a-volar.md content/blog/infografia-deficit-presupuestario-de-los-paises-del-g20.md content/blog/infografia-mindfulness-9-maneras-de-practicar-la-atencion-plena-en-tu-vida-cotidiana.md content/blog/infografia-para-que-necesita-tu-empresa-las-redes-sociales.md content/blog/infografia-que-es-aso-app-store-optimization.md content/blog/infografia-top-10-habilidades-del-lider.md content/blog/infografia-ventas-en-la-dark-web.md content/blog/infografia-whatsapp-en-atencion-al-cliente.md content/blog/infografia-youtube-en-la-television-o-la-television-en-youtube.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-frases-para-captar-clientes.md: post actualizada (publish) id=1925 https://www.inbound.com.mx/infografia-10-frases-para-captar-clientes/ | Yoast: guardado
+content/blog/infografia-10-preguntas-para-definir-tu-buyer-persona.md: post actualizada (publish) id=1460 https://www.inbound.com.mx/infografia-10-preguntas-para-definir-tu-buyer-persona/ | Yoast: guardado
+content/blog/infografia-10-profesiones-mas-dificiles-de-cubrir.md: post actualizada (publish) id=1763 https://www.inbound.com.mx/infografia-10-profesiones-mas-dificiles-de-cubrir/ | Yoast: guardado
+content/blog/infografia-5-consejos-para-implantar-la-gestion-por-valores.md: post actualizada (publish) id=2093 https://www.inbound.com.mx/infografia-5-consejos-para-implantar-la-gestion-por-valores/ | Yoast: guardado
+content/blog/infografia-7-axiomas-de-la-cadena-de-suministros-segun-steve-jobs.md: post actualizada (publish) id=2383 https://www.inbound.com.mx/infografia-7-axiomas-de-la-cadena-de-suministros-segun-steve-jobs/ | Yoast: guardado
+content/blog/infografia-7-maneras-de-mejorar-la-comunicacion-con-tus-colaboradores.md: post actualizada (publish) id=2229 https://www.inbound.com.mx/infografia-7-maneras-de-mejorar-la-comunicacion-con-tus-colaboradores/ | Yoast: guardado
+content/blog/infografia-8-herramientas-de-la-transformacion-digital.md: post actualizada (publish) id=1326 https://www.inbound.com.mx/infografia-8-herramientas-de-la-transformacion-digital/ | Yoast: guardado
+content/blog/infografia-8-tareas-de-un-community-manager-en-una-empresa.md: post actualizada (publish) id=2185 https://www.inbound.com.mx/infografia-8-tareas-de-un-community-manager-en-una-empresa/ | Yoast: guardado
+content/blog/infografia-apple-distribucion-de-ingresos-por-productos.md: post actualizada (publish) id=1543 https://www.inbound.com.mx/infografia-apple-distribucion-de-ingresos-por-productos/ | Yoast: guardado
+content/blog/infografia-chile-el-consumidor-conectado.md: post actualizada (publish) id=1627 https://www.inbound.com.mx/infografia-chile-el-consumidor-conectado/ | Yoast: guardado
+content/blog/infografia-como-hacer-un-presupuesto-de-marketing-en-redes-sociales.md: post actualizada (publish) id=1983 https://www.inbound.com.mx/infografia-como-hacer-un-presupuesto-de-marketing-en-redes-sociales/ | Yoast: guardado
+content/blog/infografia-consejos-para-perder-el-miedo-a-volar.md: post actualizada (publish) id=1505 https://www.inbound.com.mx/infografia-consejos-para-perder-el-miedo-a-volar/ | Yoast: guardado
+content/blog/infografia-deficit-presupuestario-de-los-paises-del-g20.md: post actualizada (publish) id=1783 https://www.inbound.com.mx/infografia-deficit-presupuestario-de-los-paises-del-g20/ | Yoast: guardado
+content/blog/infografia-mindfulness-9-maneras-de-practicar-la-atencion-plena-en-tu-vida-cotidiana.md: post actualizada (publish) id=1913 https://www.inbound.com.mx/infografia-mindfulness-9-maneras-de-practicar-la-atencion-plena-en-tu-vida-cotidiana/ | Yoast: guardado
+content/blog/infografia-para-que-necesita-tu-empresa-las-redes-sociales.md: post actualizada (publish) id=1645 https://www.inbound.com.mx/infografia-para-que-necesita-tu-empresa-las-redes-sociales/ | Yoast: guardado
+content/blog/infografia-que-es-aso-app-store-optimization.md: post actualizada (publish) id=2355 https://www.inbound.com.mx/infografia-que-es-aso-app-store-optimization/ | Yoast: guardado
+content/blog/infografia-top-10-habilidades-del-lider.md: post actualizada (publish) id=1529 https://www.inbound.com.mx/infografia-top-10-habilidades-del-lider/ | Yoast: guardado
+content/blog/infografia-ventas-en-la-dark-web.md: post actualizada (publish) id=1555 https://www.inbound.com.mx/infografia-ventas-en-la-dark-web/ | Yoast: guardado
+content/blog/infografia-whatsapp-en-atencion-al-cliente.md: post actualizada (publish) id=1557 https://www.inbound.com.mx/infografia-whatsapp-en-atencion-al-cliente/ | Yoast: guardado
+content/blog/infografia-youtube-en-la-television-o-la-television-en-youtube.md: post actualizada (publish) id=1318 https://www.inbound.com.mx/infografia-youtube-en-la-television-o-la-television-en-youtube/ | Yoast: guardado
