@@ -1,0 +1,35 @@
+fecha: 2026-10-15T16:58:00Z
+commit: 152047d14029fd5dcd515dae6a4fdcbe9f8728b2
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38773300934
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-111-consejos-para-elevar-la-ciberseguridad-de-tu-empresa.md content/blog/infografia-25-mejores-twitteras-de-marketing-digital.md content/blog/infografia-cotizaciones-de-los-autonomos-en-el-mundo.md content/blog/infografia-cual-son-las-funciones-de-un-analista-web.md content/blog/infografia-demografia-de-las-redes-sociales.md content/blog/infografia-efectividad-de-la-radio-para-b2b.md content/blog/infografia-evolucion-del-audiolibro-en-espanol.md content/blog/infografia-guia-para-manejar-el-estres-en-el-trabajo.md content/blog/infografia-infografia-las-mejores-aerolineas-del-mundo.md content/blog/infografia-infoproductos-que-son-y-como-venderlos.md content/blog/infografia-informe-infoempleo-adecco-redes-sociales-y-mercado-de-trabajo.md content/blog/infografia-ingenieria-en-electronicaelectricidad-simbolos-formulas-estandares.md content/blog/infografia-la-importancia-del-contenido-visual.md content/blog/infografia-la-industria-de-marketing-y-ventas-en-argentina.md content/blog/infografia-mujeres-pioneras-de-la-tecnologia.md content/blog/infografia-prime-day-de-amazon-vs-otros-periodos-de-ofertas.md content/blog/infografia-que-es-el-autismo.md content/blog/infografia-redes-sociales-en-cifras.md content/blog/infografia-retos-de-la-gestion-de-datos.md content/blog/infografia-todos-los-productos-de-google.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-111-consejos-para-elevar-la-ciberseguridad-de-tu-empresa.md: post actualizada (publish) id=2345 https://www.inbound.com.mx/infografia-111-consejos-para-elevar-la-ciberseguridad-de-tu-empresa/ | Yoast: guardado
+content/blog/infografia-25-mejores-twitteras-de-marketing-digital.md: post actualizada (publish) id=1879 https://www.inbound.com.mx/infografia-25-mejores-twitteras-de-marketing-digital/ | Yoast: guardado
+content/blog/infografia-cotizaciones-de-los-autonomos-en-el-mundo.md: post actualizada (publish) id=2347 https://www.inbound.com.mx/infografia-cotizaciones-de-los-autonomos-en-el-mundo/ | Yoast: guardado
+content/blog/infografia-cual-son-las-funciones-de-un-analista-web.md: post actualizada (publish) id=2141 https://www.inbound.com.mx/infografia-cual-son-las-funciones-de-un-analista-web/ | Yoast: guardado
+content/blog/infografia-demografia-de-las-redes-sociales.md: post actualizada (publish) id=2323 https://www.inbound.com.mx/infografia-demografia-de-las-redes-sociales/ | Yoast: guardado
+content/blog/infografia-efectividad-de-la-radio-para-b2b.md: post actualizada (publish) id=1446 https://www.inbound.com.mx/infografia-efectividad-de-la-radio-para-b2b/ | Yoast: guardado
+content/blog/infografia-evolucion-del-audiolibro-en-espanol.md: post actualizada (publish) id=2335 https://www.inbound.com.mx/infografia-evolucion-del-audiolibro-en-espanol/ | Yoast: guardado
+content/blog/infografia-guia-para-manejar-el-estres-en-el-trabajo.md: post actualizada (publish) id=2227 https://www.inbound.com.mx/infografia-guia-para-manejar-el-estres-en-el-trabajo/ | Yoast: guardado
+content/blog/infografia-infografia-las-mejores-aerolineas-del-mundo.md: post actualizada (publish) id=9409 https://www.inbound.com.mx/infografia-infografia-las-mejores-aerolineas-del-mundo/ | Yoast: guardado
+content/blog/infografia-infoproductos-que-son-y-como-venderlos.md: post actualizada (publish) id=2379 https://www.inbound.com.mx/infografia-infoproductos-que-son-y-como-venderlos/ | Yoast: guardado
+content/blog/infografia-informe-infoempleo-adecco-redes-sociales-y-mercado-de-trabajo.md: post actualizada (publish) id=2399 https://www.inbound.com.mx/infografia-informe-infoempleo-adecco-redes-sociales-y-mercado-de-trabajo/ | Yoast: guardado
+content/blog/infografia-ingenieria-en-electronicaelectricidad-simbolos-formulas-estandares.md: post actualizada (publish) id=2125 https://www.inbound.com.mx/infografia-ingenieria-en-electronicaelectricidad-simbolos-formulas-estandares/ | Yoast: guardado
+content/blog/infografia-la-importancia-del-contenido-visual.md: post actualizada (publish) id=2115 https://www.inbound.com.mx/infografia-la-importancia-del-contenido-visual/ | Yoast: guardado
+content/blog/infografia-la-industria-de-marketing-y-ventas-en-argentina.md: post actualizada (publish) id=1525 https://www.inbound.com.mx/infografia-la-industria-de-marketing-y-ventas-en-argentina/ | Yoast: guardado
+content/blog/infografia-mujeres-pioneras-de-la-tecnologia.md: post actualizada (publish) id=2247 https://www.inbound.com.mx/infografia-mujeres-pioneras-de-la-tecnologia/ | Yoast: guardado
+content/blog/infografia-prime-day-de-amazon-vs-otros-periodos-de-ofertas.md: post actualizada (publish) id=1651 https://www.inbound.com.mx/infografia-prime-day-de-amazon-vs-otros-periodos-de-ofertas/ | Yoast: guardado
+content/blog/infografia-que-es-el-autismo.md: post actualizada (publish) id=2331 https://www.inbound.com.mx/infografia-que-es-el-autismo/ | Yoast: guardado
+content/blog/infografia-redes-sociales-en-cifras.md: post actualizada (publish) id=2359 https://www.inbound.com.mx/infografia-redes-sociales-en-cifras/ | Yoast: guardado
+content/blog/infografia-retos-de-la-gestion-de-datos.md: post actualizada (publish) id=2287 https://www.inbound.com.mx/infografia-retos-de-la-gestion-de-datos/ | Yoast: guardado
+content/blog/infografia-todos-los-productos-de-google.md: post actualizada (publish) id=1430 https://www.inbound.com.mx/infografia-todos-los-productos-de-google/ | Yoast: guardado
