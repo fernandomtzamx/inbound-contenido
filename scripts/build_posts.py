@@ -30,6 +30,12 @@ def first_image(slug):
     f = d.get("featured") or {}
     if f.get("source_url") and f["source_url"].endswith(src.split("/")[-1]):
         w, h = f.get("width"), f.get("height")
+    if not (w and h):
+        for meta in sorted((ROOT / "registro" / "img" / slug).glob("*.txt")):
+            lines = meta.read_text(encoding="utf-8").split()
+            if len(lines) >= 2 and lines[0].endswith(src.split("/")[-1]) and "x" in lines[1]:
+                w, h = lines[1].split("x")
+                break
     return src, w, h
 
 
