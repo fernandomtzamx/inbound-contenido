@@ -1,25 +1,25 @@
-fecha: 2026-10-15T18:07:52Z
-commit: 45f271a083c6c1468f1140f8fde8cfc15ebb0889
+fecha: 2026-10-15T18:10:21Z
+commit: 4c9119fe735c54eafc209ae68c491ad32ac935f2
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38782989079
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38783343213
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-espanoles-mas-seguidos-en-instagram-no-futbolistas.md content/blog/infografia-20-consejos-para-sacar-el-maximo-partido-de-linkedin.md content/blog/infografia-3-herramientas-de-gestion-de-proyectos.md content/blog/infografia-ciberseguridad-del-internet-de-las-cosas-en-la-empresa.md content/blog/infografia-como-buscan-y-compran-los-usuarios-servicios-de-telecomunicaciones.md content/blog/infografia-como-buscar-a-los-mejores-trabajadores-en-linkedin.md content/blog/infografia-como-deciden-los-consumidores-espanoles.md content/blog/infografia-como-hacer-publicidad-en-facebook.md content/blog/infografia-millenials-y-el-exito-de-los-hoteles-%c2%91pop-up%c2%92.md content/blog/infografia-millenials-y-las-finanzas.md 
+Argumentos: content/blog/infografia-10-cosas-que-debes-conocer-para-posicionar-bien-una-app.md content/blog/infografia-12-cosas-que-un-lider-de-exito-no-tolera.md content/blog/infografia-14-consejos-para-tener-reuniones-eficaces.md content/blog/infografia-9-consejos-para-destacar-y-ser-visible-en-linkedin.md content/blog/infografia-como-aprender-a-delegar-tareas-de-forma-efectiva.md content/blog/infografia-como-crear-una-mejor-estrategia-de-marketing-en-redes-sociales.md content/blog/infografia-los-10-%c2%91must-have%c2%92-del-marketing-movil-hotelero.md content/blog/infografia-momentos-clave-para-llegar-a-compradores-de-productos-de-hogar-y-el-jardin.md content/blog/infografia-tendencias-de-viajes-de-los-millenials-mexicanos.md content/blog/infografia-versiones-de-android-mas-usadas.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-espanoles-mas-seguidos-en-instagram-no-futbolistas.md: post actualizada (publish) id=2050 https://www.inbound.com.mx/infografia-10-espanoles-mas-seguidos-en-instagram-no-futbolistas/ | Yoast: guardado
-content/blog/infografia-20-consejos-para-sacar-el-maximo-partido-de-linkedin.md: post actualizada (publish) id=2389 https://www.inbound.com.mx/infografia-20-consejos-para-sacar-el-maximo-partido-de-linkedin/ | Yoast: guardado
-content/blog/infografia-3-herramientas-de-gestion-de-proyectos.md: post actualizada (publish) id=2009 https://www.inbound.com.mx/infografia-3-herramientas-de-gestion-de-proyectos/ | Yoast: guardado
-content/blog/infografia-ciberseguridad-del-internet-de-las-cosas-en-la-empresa.md: post actualizada (publish) id=1777 https://www.inbound.com.mx/infografia-ciberseguridad-del-internet-de-las-cosas-en-la-empresa/ | Yoast: guardado
-content/blog/infografia-como-buscan-y-compran-los-usuarios-servicios-de-telecomunicaciones.md: post actualizada (publish) id=1354 https://www.inbound.com.mx/infografia-como-buscan-y-compran-los-usuarios-servicios-de-telecomunicaciones/ | Yoast: guardado
-content/blog/infografia-como-buscar-a-los-mejores-trabajadores-en-linkedin.md: post actualizada (publish) id=1613 https://www.inbound.com.mx/infografia-como-buscar-a-los-mejores-trabajadores-en-linkedin/ | Yoast: guardado
-content/blog/infografia-como-deciden-los-consumidores-espanoles.md: post actualizada (publish) id=1334 https://www.inbound.com.mx/infografia-como-deciden-los-consumidores-espanoles/ | Yoast: guardado
-content/blog/infografia-como-hacer-publicidad-en-facebook.md: post actualizada (publish) id=1801 https://www.inbound.com.mx/infografia-como-hacer-publicidad-en-facebook/ | Yoast: guardado
-content/blog/infografia-millenials-y-el-exito-de-los-hoteles-%c2%91pop-up%c2%92.md: post actualizada (publish) id=1420 https://www.inbound.com.mx/infografia-millenials-y-el-exito-de-los-hoteles-%c2%91pop-up%c2%92/ | Yoast: guardado
-content/blog/infografia-millenials-y-las-finanzas.md: post actualizada (publish) id=1474 https://www.inbound.com.mx/infografia-millenials-y-las-finanzas/ | Yoast: guardado
+content/blog/infografia-10-cosas-que-debes-conocer-para-posicionar-bien-una-app.md: post actualizada (publish) id=2071 https://www.inbound.com.mx/infografia-10-cosas-que-debes-conocer-para-posicionar-bien-una-app/ | Yoast: guardado
+content/blog/infografia-12-cosas-que-un-lider-de-exito-no-tolera.md: post actualizada (publish) id=1348 https://www.inbound.com.mx/infografia-12-cosas-que-un-lider-de-exito-no-tolera/ | Yoast: guardado
+content/blog/infografia-14-consejos-para-tener-reuniones-eficaces.md: post actualizada (publish) id=1364 https://www.inbound.com.mx/infografia-14-consejos-para-tener-reuniones-eficaces/ | Yoast: guardado
+content/blog/infografia-9-consejos-para-destacar-y-ser-visible-en-linkedin.md: post actualizada (publish) id=1973 https://www.inbound.com.mx/infografia-9-consejos-para-destacar-y-ser-visible-en-linkedin/ | Yoast: guardado
+content/blog/infografia-como-aprender-a-delegar-tareas-de-forma-efectiva.md: post actualizada (publish) id=1971 https://www.inbound.com.mx/infografia-como-aprender-a-delegar-tareas-de-forma-efectiva/ | Yoast: guardado
+content/blog/infografia-como-crear-una-mejor-estrategia-de-marketing-en-redes-sociales.md: post actualizada (publish) id=1781 https://www.inbound.com.mx/infografia-como-crear-una-mejor-estrategia-de-marketing-en-redes-sociales/ | Yoast: guardado
+content/blog/infografia-los-10-%c2%91must-have%c2%92-del-marketing-movil-hotelero.md: post actualizada (publish) id=1414 https://www.inbound.com.mx/infografia-los-10-%c2%91must-have%c2%92-del-marketing-movil-hotelero/ | Yoast: guardado
+content/blog/infografia-momentos-clave-para-llegar-a-compradores-de-productos-de-hogar-y-el-jardin.md: post actualizada (publish) id=1374 https://www.inbound.com.mx/infografia-momentos-clave-para-llegar-a-compradores-de-productos-de-hogar-y-el-jardin/ | Yoast: guardado
+content/blog/infografia-tendencias-de-viajes-de-los-millenials-mexicanos.md: post actualizada (publish) id=1571 https://www.inbound.com.mx/infografia-tendencias-de-viajes-de-los-millenials-mexicanos/ | Yoast: guardado
+content/blog/infografia-versiones-de-android-mas-usadas.md: post actualizada (publish) id=1394 https://www.inbound.com.mx/infografia-versiones-de-android-mas-usadas/ | Yoast: guardado
