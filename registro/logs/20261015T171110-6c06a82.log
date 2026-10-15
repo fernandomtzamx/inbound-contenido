@@ -1,0 +1,35 @@
+fecha: 2026-10-15T17:11:10Z
+commit: 6c06a82798c78bd886d66e7ed35229556d1d3639
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38775124043
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-herramientas-office-para-usar-en-el-aula.md content/blog/infografia-12-perfiles-imprescindibles-en-publicidad-programatica.md content/blog/infografia-4-ventajas-de-buscar-trabajo-en-linkedin.md content/blog/infografia-5-herramientas-online-para-comprimir-imagenes-sin-perder-calidad.md content/blog/infografia-9-pasos-para-una-buena-estrategia-de-employer-branding.md content/blog/infografia-como-es-el-s-pen-del-samsung-galaxy-note-8.md content/blog/infografia-cuanto-cuesta-incrementar-las-ventas-con-marketing.md content/blog/infografia-cuanto-vale-un-latte-de-starbucks-en-algunos-paises-del-mundo.md content/blog/infografia-derechos-del-consumidor-en-compras-online.md content/blog/infografia-descubre-la-ubicacion-optima-para-tu-empresa.md content/blog/infografia-estadisticas-emailing-b2b.md content/blog/infografia-evolucion-de-los-usuarios-de-twitter.md content/blog/infografia-facility-management-impulsa-al-capital-humano.md content/blog/infografia-gasto-en-productos-de-belleza-en-el-mundo.md content/blog/infografia-guia-de-marketing-digital-en-facebook-e-instagram.md content/blog/infografia-infografia-el-gasto-publicitario-en-el-mundo.md content/blog/infografia-metro-de-berlin-berlin-subway.md content/blog/infografia-oportunidades-de-empleo-para-personas-con-capacidades-diferentes.md content/blog/infografia-pasos-para-una-mejor-composicion-visual.md content/blog/infografia-preferencias-de-los-pet-lovers-en-los-viajes.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-herramientas-office-para-usar-en-el-aula.md: post actualizada (publish) id=2133 https://www.inbound.com.mx/infografia-10-herramientas-office-para-usar-en-el-aula/ | Yoast: guardado
+content/blog/infografia-12-perfiles-imprescindibles-en-publicidad-programatica.md: post actualizada (publish) id=1753 https://www.inbound.com.mx/infografia-12-perfiles-imprescindibles-en-publicidad-programatica/ | Yoast: guardado
+content/blog/infografia-4-ventajas-de-buscar-trabajo-en-linkedin.md: post actualizada (publish) id=1815 https://www.inbound.com.mx/infografia-4-ventajas-de-buscar-trabajo-en-linkedin/ | Yoast: guardado
+content/blog/infografia-5-herramientas-online-para-comprimir-imagenes-sin-perder-calidad.md: post actualizada (publish) id=1889 https://www.inbound.com.mx/infografia-5-herramientas-online-para-comprimir-imagenes-sin-perder-calidad/ | Yoast: guardado
+content/blog/infografia-9-pasos-para-una-buena-estrategia-de-employer-branding.md: post actualizada (publish) id=1290 https://www.inbound.com.mx/infografia-9-pasos-para-una-buena-estrategia-de-employer-branding/ | Yoast: guardado
+content/blog/infografia-como-es-el-s-pen-del-samsung-galaxy-note-8.md: post actualizada (publish) id=1382 https://www.inbound.com.mx/infografia-como-es-el-s-pen-del-samsung-galaxy-note-8/ | Yoast: guardado
+content/blog/infografia-cuanto-cuesta-incrementar-las-ventas-con-marketing.md: post actualizada (publish) id=6932 https://www.inbound.com.mx/infografia-cuanto-cuesta-incrementar-las-ventas-con-marketing/ | Yoast: guardado
+content/blog/infografia-cuanto-vale-un-latte-de-starbucks-en-algunos-paises-del-mundo.md: post actualizada (publish) id=2167 https://www.inbound.com.mx/infografia-cuanto-vale-un-latte-de-starbucks-en-algunos-paises-del-mundo/ | Yoast: guardado
+content/blog/infografia-derechos-del-consumidor-en-compras-online.md: post actualizada (publish) id=2307 https://www.inbound.com.mx/infografia-derechos-del-consumidor-en-compras-online/ | Yoast: guardado
+content/blog/infografia-descubre-la-ubicacion-optima-para-tu-empresa.md: post actualizada (publish) id=1917 https://www.inbound.com.mx/infografia-descubre-la-ubicacion-optima-para-tu-empresa/ | Yoast: guardado
+content/blog/infografia-estadisticas-emailing-b2b.md: post actualizada (publish) id=1448 https://www.inbound.com.mx/infografia-estadisticas-emailing-b2b/ | Yoast: guardado
+content/blog/infografia-evolucion-de-los-usuarios-de-twitter.md: post actualizada (publish) id=1567 https://www.inbound.com.mx/infografia-evolucion-de-los-usuarios-de-twitter/ | Yoast: guardado
+content/blog/infografia-facility-management-impulsa-al-capital-humano.md: post actualizada (publish) id=1905 https://www.inbound.com.mx/infografia-facility-management-impulsa-al-capital-humano/ | Yoast: guardado
+content/blog/infografia-gasto-en-productos-de-belleza-en-el-mundo.md: post actualizada (publish) id=1444 https://www.inbound.com.mx/infografia-gasto-en-productos-de-belleza-en-el-mundo/ | Yoast: guardado
+content/blog/infografia-guia-de-marketing-digital-en-facebook-e-instagram.md: post actualizada (publish) id=1276 https://www.inbound.com.mx/infografia-guia-de-marketing-digital-en-facebook-e-instagram/ | Yoast: guardado
+content/blog/infografia-infografia-el-gasto-publicitario-en-el-mundo.md: post actualizada (publish) id=5711 https://www.inbound.com.mx/infografia-infografia-el-gasto-publicitario-en-el-mundo/ | Yoast: guardado
+content/blog/infografia-metro-de-berlin-berlin-subway.md: post actualizada (publish) id=1484 https://www.inbound.com.mx/infografia-metro-de-berlin-berlin-subway/ | Yoast: guardado
+content/blog/infografia-oportunidades-de-empleo-para-personas-con-capacidades-diferentes.md: post actualizada (publish) id=1274 https://www.inbound.com.mx/infografia-oportunidades-de-empleo-para-personas-con-capacidades-diferentes/ | Yoast: guardado
+content/blog/infografia-pasos-para-una-mejor-composicion-visual.md: post actualizada (publish) id=2363 https://www.inbound.com.mx/infografia-pasos-para-una-mejor-composicion-visual/ | Yoast: guardado
+content/blog/infografia-preferencias-de-los-pet-lovers-en-los-viajes.md: post actualizada (publish) id=6060 https://www.inbound.com.mx/infografia-preferencias-de-los-pet-lovers-en-los-viajes/ | Yoast: guardado
