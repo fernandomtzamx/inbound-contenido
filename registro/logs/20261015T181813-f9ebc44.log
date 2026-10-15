@@ -1,0 +1,25 @@
+fecha: 2026-10-15T18:18:13Z
+commit: f9ebc4441c49cd92d985cb4d24fc2d27f0ffb063
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38784435888
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-20-consejos-para-la-estrategia-de-seleccion-2-0.md content/blog/infografia-31-estadisticas-de-marketing-de-contenidos.md content/blog/infografia-4-recomendaciones-para-aumentar-tu-red-de-contactos-de-calidad-en-linkedin.md content/blog/infografia-5-consejos-para-que-tus-formularios-generen-leads.md content/blog/infografia-chatbots-y-experiencia-de-cliente.md content/blog/infografia-en-que-gasta-el-tiempo-de-su-vida-un-adulto-normal.md content/blog/infografia-interrail.md content/blog/infografia-que-es-un-troll.md content/blog/infografia-residuos-alimentarios-en-la-union-europea.md content/blog/infografia-resultados-en-twitter-de-la-viii-semana-de-las-redes-sociales.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-20-consejos-para-la-estrategia-de-seleccion-2-0.md: post actualizada (publish) id=1989 https://www.inbound.com.mx/infografia-20-consejos-para-la-estrategia-de-seleccion-2-0/ | Yoast: guardado
+content/blog/infografia-31-estadisticas-de-marketing-de-contenidos.md: post actualizada (publish) id=1541 https://www.inbound.com.mx/infografia-31-estadisticas-de-marketing-de-contenidos/ | Yoast: guardado
+content/blog/infografia-4-recomendaciones-para-aumentar-tu-red-de-contactos-de-calidad-en-linkedin.md: post actualizada (publish) id=1533 https://www.inbound.com.mx/infografia-4-recomendaciones-para-aumentar-tu-red-de-contactos-de-calidad-en-linkedin/ | Yoast: guardado
+content/blog/infografia-5-consejos-para-que-tus-formularios-generen-leads.md: post actualizada (publish) id=2255 https://www.inbound.com.mx/infografia-5-consejos-para-que-tus-formularios-generen-leads/ | Yoast: guardado
+content/blog/infografia-chatbots-y-experiencia-de-cliente.md: post actualizada (publish) id=1859 https://www.inbound.com.mx/infografia-chatbots-y-experiencia-de-cliente/ | Yoast: guardado
+content/blog/infografia-en-que-gasta-el-tiempo-de-su-vida-un-adulto-normal.md: post actualizada (publish) id=1977 https://www.inbound.com.mx/infografia-en-que-gasta-el-tiempo-de-su-vida-un-adulto-normal/ | Yoast: guardado
+content/blog/infografia-interrail.md: post actualizada (publish) id=1821 https://www.inbound.com.mx/infografia-interrail/ | Yoast: guardado
+content/blog/infografia-que-es-un-troll.md: post actualizada (publish) id=1955 https://www.inbound.com.mx/infografia-que-es-un-troll/ | Yoast: guardado
+content/blog/infografia-residuos-alimentarios-en-la-union-europea.md: post actualizada (publish) id=2085 https://www.inbound.com.mx/infografia-residuos-alimentarios-en-la-union-europea/ | Yoast: guardado
+content/blog/infografia-resultados-en-twitter-de-la-viii-semana-de-las-redes-sociales.md: post actualizada (publish) id=2121 https://www.inbound.com.mx/infografia-resultados-en-twitter-de-la-viii-semana-de-las-redes-sociales/ | Yoast: guardado
