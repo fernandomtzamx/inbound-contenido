@@ -1,0 +1,25 @@
+fecha: 2026-10-15T17:41:14Z
+commit: 4ce6eba896a9ca850c5829bc2d6af558b22ae0f3
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38779284045
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-maneras-de-usar-linkedin-para-generar-networking.md content/blog/infografia-10-tecnicas-para-hacer-tus-clases-mas-dinamicas.md content/blog/infografia-21-mejores-cuentas-de-twitter-sobre-marketing-digital.md content/blog/infografia-5-habilidades-del-reclutador-actual.md content/blog/infografia-6-trucos-para-tener-mas-energia-en-el-trabajo.md content/blog/infografia-cuales-son-los-alimentos-nocivos-que-toman-los-disenadores.md content/blog/infografia-en-que-paises-utilizan-mas-robots.md content/blog/infografia-evolucion-de-las-5-personas-mas-ricas-del-mundo.md content/blog/infografia-guia-sobre-microinfluencers.md content/blog/infografia-secretos-de-promocion-de-tus-contenidos.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-maneras-de-usar-linkedin-para-generar-networking.md: post actualizada (publish) id=1400 https://www.inbound.com.mx/infografia-10-maneras-de-usar-linkedin-para-generar-networking/ | Yoast: guardado
+content/blog/infografia-10-tecnicas-para-hacer-tus-clases-mas-dinamicas.md: post actualizada (publish) id=2081 https://www.inbound.com.mx/infografia-10-tecnicas-para-hacer-tus-clases-mas-dinamicas/ | Yoast: guardado
+content/blog/infografia-21-mejores-cuentas-de-twitter-sobre-marketing-digital.md: post actualizada (publish) id=1881 https://www.inbound.com.mx/infografia-21-mejores-cuentas-de-twitter-sobre-marketing-digital/ | Yoast: guardado
+content/blog/infografia-5-habilidades-del-reclutador-actual.md: post actualizada (publish) id=1292 https://www.inbound.com.mx/infografia-5-habilidades-del-reclutador-actual/ | Yoast: guardado
+content/blog/infografia-6-trucos-para-tener-mas-energia-en-el-trabajo.md: post actualizada (publish) id=1951 https://www.inbound.com.mx/infografia-6-trucos-para-tener-mas-energia-en-el-trabajo/ | Yoast: guardado
+content/blog/infografia-cuales-son-los-alimentos-nocivos-que-toman-los-disenadores.md: post actualizada (publish) id=2001 https://www.inbound.com.mx/infografia-cuales-son-los-alimentos-nocivos-que-toman-los-disenadores/ | Yoast: guardado
+content/blog/infografia-en-que-paises-utilizan-mas-robots.md: post actualizada (publish) id=2135 https://www.inbound.com.mx/infografia-en-que-paises-utilizan-mas-robots/ | Yoast: guardado
+content/blog/infografia-evolucion-de-las-5-personas-mas-ricas-del-mundo.md: post actualizada (publish) id=1561 https://www.inbound.com.mx/infografia-evolucion-de-las-5-personas-mas-ricas-del-mundo/ | Yoast: guardado
+content/blog/infografia-guia-sobre-microinfluencers.md: post actualizada (publish) id=1787 https://www.inbound.com.mx/infografia-guia-sobre-microinfluencers/ | Yoast: guardado
+content/blog/infografia-secretos-de-promocion-de-tus-contenidos.md: post actualizada (publish) id=2191 https://www.inbound.com.mx/infografia-secretos-de-promocion-de-tus-contenidos/ | Yoast: guardado
