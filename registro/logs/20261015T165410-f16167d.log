@@ -1,0 +1,35 @@
+fecha: 2026-10-15T16:54:10Z
+commit: f16167dfba9b1241e7f18df7d7c72f6761dca2ab
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38772764881
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-anos-de-la-vida-del-iphone.md content/blog/infografia-10-elementos-comunes-de-las-mejores-paginas-web-del-mundo.md content/blog/infografia-10-elementos-de-diseno-para-un-gran-curriculum.md content/blog/infografia-10-errores-frecuentes-en-comunicacion-de-crisis.md content/blog/infografia-4-desventajas-de-los-temas-gratis-de-wordpress.md content/blog/infografia-8-secretos-para-crear-confianza-como-lider.md content/blog/infografia-beneficios-y-desventajas-de-las-oficinas-con-espacios-abiertos.md content/blog/infografia-chrome-el-rey-de-nos-navegadores.md content/blog/infografia-como-insertar-imagen-con-link-en-cuerpo-de-correo-gmail.md content/blog/infografia-ecosistema-linkedin.md content/blog/infografia-el-camino-a-la-transformacion-digital.md content/blog/infografia-el-turista-de-negocios-en-cifras.md content/blog/infografia-estadisticas-sobre-las-tasas-de-apertura-del-email-marketing.md content/blog/infografia-impacto-de-la-tecnologia-en-el-reclutamiento.md content/blog/infografia-indice-de-malos-habitos.md content/blog/infografia-pilares-de-contenido-en-redes-sociales.md content/blog/infografia-plano-del-metro-de-milan-milan-subway.md content/blog/infografia-plano-del-metro-de-moscu-moscow-subway.md content/blog/infografia-por-que-debes-de-proteger-tu-reputacion-online.md content/blog/infografia-whatsapp-en-cifras.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-anos-de-la-vida-del-iphone.md: post actualizada (publish) id=1775 https://www.inbound.com.mx/infografia-10-anos-de-la-vida-del-iphone/ | Yoast: guardado
+content/blog/infografia-10-elementos-comunes-de-las-mejores-paginas-web-del-mundo.md: post actualizada (publish) id=1537 https://www.inbound.com.mx/infografia-10-elementos-comunes-de-las-mejores-paginas-web-del-mundo/ | Yoast: guardado
+content/blog/infografia-10-elementos-de-diseno-para-un-gran-curriculum.md: post actualizada (publish) id=2305 https://www.inbound.com.mx/infografia-10-elementos-de-diseno-para-un-gran-curriculum/ | Yoast: guardado
+content/blog/infografia-10-errores-frecuentes-en-comunicacion-de-crisis.md: post actualizada (publish) id=1609 https://www.inbound.com.mx/infografia-10-errores-frecuentes-en-comunicacion-de-crisis/ | Yoast: guardado
+content/blog/infografia-4-desventajas-de-los-temas-gratis-de-wordpress.md: post actualizada (publish) id=1877 https://www.inbound.com.mx/infografia-4-desventajas-de-los-temas-gratis-de-wordpress/ | Yoast: guardado
+content/blog/infografia-8-secretos-para-crear-confianza-como-lider.md: post actualizada (publish) id=1885 https://www.inbound.com.mx/infografia-8-secretos-para-crear-confianza-como-lider/ | Yoast: guardado
+content/blog/infografia-beneficios-y-desventajas-de-las-oficinas-con-espacios-abiertos.md: post actualizada (publish) id=1286 https://www.inbound.com.mx/infografia-beneficios-y-desventajas-de-las-oficinas-con-espacios-abiertos/ | Yoast: guardado
+content/blog/infografia-chrome-el-rey-de-nos-navegadores.md: post actualizada (publish) id=1583 https://www.inbound.com.mx/infografia-chrome-el-rey-de-nos-navegadores/ | Yoast: guardado
+content/blog/infografia-como-insertar-imagen-con-link-en-cuerpo-de-correo-gmail.md: post actualizada (publish) id=2395 https://www.inbound.com.mx/infografia-como-insertar-imagen-con-link-en-cuerpo-de-correo-gmail/ | Yoast: guardado
+content/blog/infografia-ecosistema-linkedin.md: post actualizada (publish) id=1779 https://www.inbound.com.mx/infografia-ecosistema-linkedin/ | Yoast: guardado
+content/blog/infografia-el-camino-a-la-transformacion-digital.md: post actualizada (publish) id=1867 https://www.inbound.com.mx/infografia-el-camino-a-la-transformacion-digital/ | Yoast: guardado
+content/blog/infografia-el-turista-de-negocios-en-cifras.md: post actualizada (publish) id=2381 https://www.inbound.com.mx/infografia-el-turista-de-negocios-en-cifras/ | Yoast: guardado
+content/blog/infografia-estadisticas-sobre-las-tasas-de-apertura-del-email-marketing.md: post actualizada (publish) id=2285 https://www.inbound.com.mx/infografia-estadisticas-sobre-las-tasas-de-apertura-del-email-marketing/ | Yoast: guardado
+content/blog/infografia-impacto-de-la-tecnologia-en-el-reclutamiento.md: post actualizada (publish) id=1489 https://www.inbound.com.mx/infografia-impacto-de-la-tecnologia-en-el-reclutamiento/ | Yoast: guardado
+content/blog/infografia-indice-de-malos-habitos.md: post actualizada (publish) id=1665 https://www.inbound.com.mx/infografia-indice-de-malos-habitos/ | Yoast: guardado
+content/blog/infografia-pilares-de-contenido-en-redes-sociales.md: post actualizada (publish) id=1975 https://www.inbound.com.mx/infografia-pilares-de-contenido-en-redes-sociales/ | Yoast: guardado
+content/blog/infografia-plano-del-metro-de-milan-milan-subway.md: post actualizada (publish) id=1480 https://www.inbound.com.mx/infografia-plano-del-metro-de-milan-milan-subway/ | Yoast: guardado
+content/blog/infografia-plano-del-metro-de-moscu-moscow-subway.md: post actualizada (publish) id=1527 https://www.inbound.com.mx/infografia-plano-del-metro-de-moscu-moscow-subway/ | Yoast: guardado
+content/blog/infografia-por-que-debes-de-proteger-tu-reputacion-online.md: post actualizada (publish) id=1587 https://www.inbound.com.mx/infografia-por-que-debes-de-proteger-tu-reputacion-online/ | Yoast: guardado
+content/blog/infografia-whatsapp-en-cifras.md: post actualizada (publish) id=1551 https://www.inbound.com.mx/infografia-whatsapp-en-cifras/ | Yoast: guardado
