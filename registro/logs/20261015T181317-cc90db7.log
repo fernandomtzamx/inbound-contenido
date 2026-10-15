@@ -1,0 +1,25 @@
+fecha: 2026-10-15T18:13:17Z
+commit: cc90db770ce5acccc2ed71698f7a19cb83fb1f9e
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38783726543
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-malas-ideas-para-escribir-un-articulo-en-un-blog.md content/blog/infografia-5-apps-para-la-vuelta-al-cole.md content/blog/infografia-algunos-consejos-sobre-linkedin.md content/blog/infografia-beneficios-de-conocer-la-psicologia-del-color-en-la-publicidad.md content/blog/infografia-como-actuar-si-mi-cliente-se-va-con-la-competencia.md content/blog/infografia-como-detectar-webs-y-emails-falsos.md content/blog/infografia-como-posicionar-bien-un-post-en-las-principales-redes-sociales.md content/blog/infografia-ecosistema-del-community-manager-version-2.md content/blog/infografia-las-fabricas-inteligentes-en-la-industria-4-0.md content/blog/infografia-mujeres-en-wall-street-vs-silicon-valley.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-malas-ideas-para-escribir-un-articulo-en-un-blog.md: post actualizada (publish) id=2017 https://www.inbound.com.mx/infografia-10-malas-ideas-para-escribir-un-articulo-en-un-blog/ | Yoast: guardado
+content/blog/infografia-5-apps-para-la-vuelta-al-cole.md: post actualizada (publish) id=1368 https://www.inbound.com.mx/infografia-5-apps-para-la-vuelta-al-cole/ | Yoast: guardado
+content/blog/infografia-algunos-consejos-sobre-linkedin.md: post actualizada (publish) id=2309 https://www.inbound.com.mx/infografia-algunos-consejos-sobre-linkedin/ | Yoast: guardado
+content/blog/infografia-beneficios-de-conocer-la-psicologia-del-color-en-la-publicidad.md: post actualizada (publish) id=2343 https://www.inbound.com.mx/infografia-beneficios-de-conocer-la-psicologia-del-color-en-la-publicidad/ | Yoast: guardado
+content/blog/infografia-como-actuar-si-mi-cliente-se-va-con-la-competencia.md: post actualizada (publish) id=1278 https://www.inbound.com.mx/infografia-como-actuar-si-mi-cliente-se-va-con-la-competencia/ | Yoast: guardado
+content/blog/infografia-como-detectar-webs-y-emails-falsos.md: post actualizada (publish) id=1757 https://www.inbound.com.mx/infografia-como-detectar-webs-y-emails-falsos/ | Yoast: guardado
+content/blog/infografia-como-posicionar-bien-un-post-en-las-principales-redes-sociales.md: post actualizada (publish) id=2351 https://www.inbound.com.mx/infografia-como-posicionar-bien-un-post-en-las-principales-redes-sociales/ | Yoast: guardado
+content/blog/infografia-ecosistema-del-community-manager-version-2.md: post actualizada (publish) id=2259 https://www.inbound.com.mx/infografia-ecosistema-del-community-manager-version-2/ | Yoast: guardado
+content/blog/infografia-las-fabricas-inteligentes-en-la-industria-4-0.md: post actualizada (publish) id=1282 https://www.inbound.com.mx/infografia-las-fabricas-inteligentes-en-la-industria-4-0/ | Yoast: guardado
+content/blog/infografia-mujeres-en-wall-street-vs-silicon-valley.md: post actualizada (publish) id=1476 https://www.inbound.com.mx/infografia-mujeres-en-wall-street-vs-silicon-valley/ | Yoast: guardado
