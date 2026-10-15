@@ -1,25 +1,25 @@
-fecha: 2026-10-15T17:51:08Z
-commit: e44c2ae3257ca6f564571a216c48e320f9aed84c
+fecha: 2026-10-15T17:53:07Z
+commit: 9cef67f968b0c9501ad808dbc8a58cbf2359f48d
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38780691273
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38780967606
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-claves-a-tener-en-cuenta-en-una-estrategia-de-contenidos.md content/blog/infografia-asi-ha-evolucionado-el-iphone-en-10-anos.md content/blog/infografia-blochchain-todo-lo-que-debes-de-saber.md content/blog/infografia-densidad-de-trabajadores-tic-en-los-paises-de-la-union-europea.md content/blog/infografia-la-atencion-a-los-anuncios-la-efectividad-no-solo-depende-de-la-cobertura.md content/blog/infografia-los-paises-que-mas-desconectan-en-vacaciones.md content/blog/infografia-para-que-se-usan-los-smartwatches.md content/blog/infografia-que-fabricantes-tienen-mas-patentes-sobre-el-coche-autonomo.md content/blog/infografia-residuos-en-vuelo.md content/blog/infografia-sabes-sujetar-una-camara-saca-fotos-mas-nitidas-con-estos-conejos.md 
+Argumentos: content/blog/infografia-10-diferencias-entre-inbound-y-outboung-marketing.md content/blog/infografia-13-consejos-sencillos-para-posicionar-sin-saber-seo.md content/blog/infografia-el-auge-de-loa-videos-online-en-las-pantallas-de-tv.md content/blog/infografia-errores-seo-en-una-tienda-online.md content/blog/infografia-guarda-y-clasifica-las-fotos-que-te-gusten-en-instagram.md content/blog/infografia-las-necesidades-tecnologicas-de-las-empresas-del-siglo-xxi.md content/blog/infografia-m2m-y-el-iot-en-cifras.md content/blog/infografia-mexico-el-consumidor-conectado.md content/blog/infografia-riesgos-de-seguridad-digital-para-establecimientos-medicos.md content/blog/infografia-vuelve-la-peste.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-claves-a-tener-en-cuenta-en-una-estrategia-de-contenidos.md: post actualizada (publish) id=2293 https://www.inbound.com.mx/infografia-10-claves-a-tener-en-cuenta-en-una-estrategia-de-contenidos/ | Yoast: guardado
-content/blog/infografia-asi-ha-evolucionado-el-iphone-en-10-anos.md: post actualizada (publish) id=1827 https://www.inbound.com.mx/infografia-asi-ha-evolucionado-el-iphone-en-10-anos/ | Yoast: guardado
-content/blog/infografia-blochchain-todo-lo-que-debes-de-saber.md: post actualizada (publish) id=1488 https://www.inbound.com.mx/infografia-blochchain-todo-lo-que-debes-de-saber/ | Yoast: guardado
-content/blog/infografia-densidad-de-trabajadores-tic-en-los-paises-de-la-union-europea.md: post actualizada (publish) id=1631 https://www.inbound.com.mx/infografia-densidad-de-trabajadores-tic-en-los-paises-de-la-union-europea/ | Yoast: guardado
-content/blog/infografia-la-atencion-a-los-anuncios-la-efectividad-no-solo-depende-de-la-cobertura.md: post actualizada (publish) id=1362 https://www.inbound.com.mx/infografia-la-atencion-a-los-anuncios-la-efectividad-no-solo-depende-de-la-cobertura/ | Yoast: guardado
-content/blog/infografia-los-paises-que-mas-desconectan-en-vacaciones.md: post actualizada (publish) id=1509 https://www.inbound.com.mx/infografia-los-paises-que-mas-desconectan-en-vacaciones/ | Yoast: guardado
-content/blog/infografia-para-que-se-usan-los-smartwatches.md: post actualizada (publish) id=1370 https://www.inbound.com.mx/infografia-para-que-se-usan-los-smartwatches/ | Yoast: guardado
-content/blog/infografia-que-fabricantes-tienen-mas-patentes-sobre-el-coche-autonomo.md: post actualizada (publish) id=1306 https://www.inbound.com.mx/infografia-que-fabricantes-tienen-mas-patentes-sobre-el-coche-autonomo/ | Yoast: guardado
-content/blog/infografia-residuos-en-vuelo.md: post actualizada (publish) id=1797 https://www.inbound.com.mx/infografia-residuos-en-vuelo/ | Yoast: guardado
-content/blog/infografia-sabes-sujetar-una-camara-saca-fotos-mas-nitidas-con-estos-conejos.md: post actualizada (publish) id=2069 https://www.inbound.com.mx/infografia-sabes-sujetar-una-camara-saca-fotos-mas-nitidas-con-estos-conejos/ | Yoast: guardado
+content/blog/infografia-10-diferencias-entre-inbound-y-outboung-marketing.md: post actualizada (publish) id=1454 https://www.inbound.com.mx/infografia-10-diferencias-entre-inbound-y-outboung-marketing/ | Yoast: guardado
+content/blog/infografia-13-consejos-sencillos-para-posicionar-sin-saber-seo.md: post actualizada (publish) id=1659 https://www.inbound.com.mx/infografia-13-consejos-sencillos-para-posicionar-sin-saber-seo/ | Yoast: guardado
+content/blog/infografia-el-auge-de-loa-videos-online-en-las-pantallas-de-tv.md: post actualizada (publish) id=1398 https://www.inbound.com.mx/infografia-el-auge-de-loa-videos-online-en-las-pantallas-de-tv/ | Yoast: guardado
+content/blog/infografia-errores-seo-en-una-tienda-online.md: post actualizada (publish) id=2025 https://www.inbound.com.mx/infografia-errores-seo-en-una-tienda-online/ | Yoast: guardado
+content/blog/infografia-guarda-y-clasifica-las-fotos-que-te-gusten-en-instagram.md: post actualizada (publish) id=1847 https://www.inbound.com.mx/infografia-guarda-y-clasifica-las-fotos-que-te-gusten-en-instagram/ | Yoast: guardado
+content/blog/infografia-las-necesidades-tecnologicas-de-las-empresas-del-siglo-xxi.md: post actualizada (publish) id=1366 https://www.inbound.com.mx/infografia-las-necesidades-tecnologicas-de-las-empresas-del-siglo-xxi/ | Yoast: guardado
+content/blog/infografia-m2m-y-el-iot-en-cifras.md: post actualizada (publish) id=2225 https://www.inbound.com.mx/infografia-m2m-y-el-iot-en-cifras/ | Yoast: guardado
+content/blog/infografia-mexico-el-consumidor-conectado.md: post actualizada (publish) id=1617 https://www.inbound.com.mx/infografia-mexico-el-consumidor-conectado/ | Yoast: guardado
+content/blog/infografia-riesgos-de-seguridad-digital-para-establecimientos-medicos.md: post actualizada (publish) id=1683 https://www.inbound.com.mx/infografia-riesgos-de-seguridad-digital-para-establecimientos-medicos/ | Yoast: guardado
+content/blog/infografia-vuelve-la-peste.md: post actualizada (publish) id=1671 https://www.inbound.com.mx/infografia-vuelve-la-peste/ | Yoast: guardado

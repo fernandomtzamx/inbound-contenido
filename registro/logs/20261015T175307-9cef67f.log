@@ -1,0 +1,25 @@
+fecha: 2026-10-15T17:53:07Z
+commit: 9cef67f968b0c9501ad808dbc8a58cbf2359f48d
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38780967606
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/infografia-10-diferencias-entre-inbound-y-outboung-marketing.md content/blog/infografia-13-consejos-sencillos-para-posicionar-sin-saber-seo.md content/blog/infografia-el-auge-de-loa-videos-online-en-las-pantallas-de-tv.md content/blog/infografia-errores-seo-en-una-tienda-online.md content/blog/infografia-guarda-y-clasifica-las-fotos-que-te-gusten-en-instagram.md content/blog/infografia-las-necesidades-tecnologicas-de-las-empresas-del-siglo-xxi.md content/blog/infografia-m2m-y-el-iot-en-cifras.md content/blog/infografia-mexico-el-consumidor-conectado.md content/blog/infografia-riesgos-de-seguridad-digital-para-establecimientos-medicos.md content/blog/infografia-vuelve-la-peste.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+content/blog/infografia-10-diferencias-entre-inbound-y-outboung-marketing.md: post actualizada (publish) id=1454 https://www.inbound.com.mx/infografia-10-diferencias-entre-inbound-y-outboung-marketing/ | Yoast: guardado
+content/blog/infografia-13-consejos-sencillos-para-posicionar-sin-saber-seo.md: post actualizada (publish) id=1659 https://www.inbound.com.mx/infografia-13-consejos-sencillos-para-posicionar-sin-saber-seo/ | Yoast: guardado
+content/blog/infografia-el-auge-de-loa-videos-online-en-las-pantallas-de-tv.md: post actualizada (publish) id=1398 https://www.inbound.com.mx/infografia-el-auge-de-loa-videos-online-en-las-pantallas-de-tv/ | Yoast: guardado
+content/blog/infografia-errores-seo-en-una-tienda-online.md: post actualizada (publish) id=2025 https://www.inbound.com.mx/infografia-errores-seo-en-una-tienda-online/ | Yoast: guardado
+content/blog/infografia-guarda-y-clasifica-las-fotos-que-te-gusten-en-instagram.md: post actualizada (publish) id=1847 https://www.inbound.com.mx/infografia-guarda-y-clasifica-las-fotos-que-te-gusten-en-instagram/ | Yoast: guardado
+content/blog/infografia-las-necesidades-tecnologicas-de-las-empresas-del-siglo-xxi.md: post actualizada (publish) id=1366 https://www.inbound.com.mx/infografia-las-necesidades-tecnologicas-de-las-empresas-del-siglo-xxi/ | Yoast: guardado
+content/blog/infografia-m2m-y-el-iot-en-cifras.md: post actualizada (publish) id=2225 https://www.inbound.com.mx/infografia-m2m-y-el-iot-en-cifras/ | Yoast: guardado
+content/blog/infografia-mexico-el-consumidor-conectado.md: post actualizada (publish) id=1617 https://www.inbound.com.mx/infografia-mexico-el-consumidor-conectado/ | Yoast: guardado
+content/blog/infografia-riesgos-de-seguridad-digital-para-establecimientos-medicos.md: post actualizada (publish) id=1683 https://www.inbound.com.mx/infografia-riesgos-de-seguridad-digital-para-establecimientos-medicos/ | Yoast: guardado
+content/blog/infografia-vuelve-la-peste.md: post actualizada (publish) id=1671 https://www.inbound.com.mx/infografia-vuelve-la-peste/ | Yoast: guardado
