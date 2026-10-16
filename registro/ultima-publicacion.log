@@ -1,8 +1,8 @@
-fecha: 2026-10-16T15:55:43Z
-commit: cef310b5e1b54ceea63a9fbf229d0e9524cca537
+fecha: 2026-10-16T16:57:01Z
+commit: 9c93c4c0423a6415ae065bb9ce104985059e1b53
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38927810226
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38935842022
 ---
 WP_URL: presente
 WP_USER: presente
@@ -12,53 +12,38 @@ WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y número
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 plugin: Add Widget After Content 2.5.4 [active] PHP>=?
-plugin: Akismet Anti-spam: Spam Protection 5.7.2 [inactive] PHP>=7.2
-plugin: All-in-One WP Migration and Backup 7.112 [inactive] PHP>=?
 plugin: Autoptimize 3.1.16 [active] PHP>=?
-plugin: Contact Form 7 6.0.6 [active] PHP>=7.4
-plugin: Content Egg 7.0.0 [active] PHP>=?
+plugin: Contact Form 7 6.2.2 [active] PHP>=8.3
+plugin: Content Egg 11.9.0 [active] PHP>=8.0
 plugin: Disable Gutenberg 3.3.2 [active] PHP>=5.6.20
 plugin: Editar el slug de autor 1.9.2 [active] PHP>=7.4
-plugin: Elementor 4.3.4 [active] PHP>=7.4
+plugin: Elementor 4.3.5 [active] PHP>=7.4
 plugin: Envato Market 2.0.14 [active] PHP>=7.0
 plugin: Flexible SSL for CloudFlare 1.3.1 [active] PHP>=?
-plugin: Hello Dolly 1.7.2 [inactive] PHP>=?
-plugin: Import WP PRO 2.6.1 [inactive] PHP>=?
 plugin: JSON Basic Authentication 0.1 [active] PHP>=?
-plugin: LearnDash Licensing &amp; Management 1.2 [inactive] PHP>=?
-plugin: LearnDash LMS 4.7.0.2 [inactive] PHP>=?
-plugin: ManageWP - Worker 4.9.38 [inactive] PHP>=?
 plugin: MB ImageChimp RSS Feed Enhancer 1.0 [active] PHP>=?
-plugin: Media Cleaner 6.8.7 [inactive] PHP>=?
-plugin: Ninja Forms 3.10.4.1 [active] PHP>=?
+plugin: Ninja Forms 3.15.6 [active] PHP>=?
 plugin: One Click Demo Import 3.4.1 [active] PHP>=7.4
-plugin: Prime Mover - Backup and Migration 2.2.1 [inactive] PHP>=?
 plugin: Redirection 5.10.1 [active] PHP>=7.4
-plugin: REHub Framework 15.8 [active] PHP>=?
+plugin: REHub Framework 19.9.9.7 [active] PHP>=?
 plugin: REST API Custom Fields 1.3 [active] PHP>=?
 plugin: RH Link Pro 1.4.5 [active] PHP>=?
-plugin: Velvet Blues Update URLs 3.2.10 [inactive] PHP>=?
 plugin: WebP Express 0.25.15 [active] PHP>=?
-plugin: WP All Export 1.6.0 [inactive] PHP>=?
-plugin: WP All Import Pro 4.6.1 [inactive] PHP>=?
-plugin: WPBakery Page Builder 5.4.5 [active] PHP>=?
-plugin: WP Mail SMTP 4.10.2 [inactive] PHP>=7.4
-plugin: WP Super Cache 3.1.4 [inactive] PHP>=?
-plugin: Yoast SEO 24.9 [active] PHP>=7.2.5
+plugin: Yoast SEO 28.7 [active] PHP>=7.4
 tema: Rehub theme 19.9.9.8 [active] PHP>=?
 tema: Twenty Twenty-Five 1.5 [inactive] PHP>=7.2
 tema: Twenty Twenty-Four 1.6 [inactive] PHP>=7.0
 tema: Twenty Twenty-One 2.9 [inactive] PHP>=5.6
 tema: Twenty Twenty-Three 1.7 [inactive] PHP>=5.6
 tema: Twenty Twenty-Two 2.2 [inactive] PHP>=5.6
-WordPress: 6.8.11
-Encabezados: {'X-Powered-By': 'PHP/7.4.33', 'Server': 'cloudflare', 'X-turbo-charged-by': 'LiteSpeed', 'cf-cache-status': 'DYNAMIC'}
+WordPress: 7.1.3
+Encabezados: {'X-Powered-By': 'PHP/8.5.11', 'Server': 'cloudflare', 'X-turbo-charged-by': 'LiteSpeed', 'cf-cache-status': 'DYNAMIC'}
 site-health background-updates: good - Las actualizaciones en segundo plano están funcionando
 site-health loopback-requests: good - Tu sitio puede realizar solicitudes de loopback
 site-health https-status: good - Tu web está usando una conexión HTTPS activa
 site-health dotorg-communication: good - Puedes comunicarte con WordPress.org
 site-health page-cache: recommended - No se ha detectado caché de página pero el tiempo de respuesta del servidor está bien
-Inventario: 34 plugins, 6 temas -> registro/inventario.json
+Inventario: 19 plugins, 6 temas -> registro/inventario.json
 Argumentos: --check
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords

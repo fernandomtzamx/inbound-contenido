@@ -13,30 +13,6 @@
       "network_only": false
     },
     {
-      "plugin": "akismet/akismet",
-      "name": "Akismet Anti-spam: Spam Protection",
-      "status": "inactive",
-      "version": "5.7.2",
-      "requires_wp": "5.8",
-      "requires_php": "7.2",
-      "author": "Automattic - Equipo Anti-spam",
-      "plugin_uri": "https://akismet.com/",
-      "textdomain": "akismet",
-      "network_only": false
-    },
-    {
-      "plugin": "all-in-one-wp-migration/all-in-one-wp-migration",
-      "name": "All-in-One WP Migration and Backup",
-      "status": "inactive",
-      "version": "7.112",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "ServMask",
-      "plugin_uri": "https://servmask.com/",
-      "textdomain": "all-in-one-wp-migration",
-      "network_only": true
-    },
-    {
       "plugin": "autoptimize/autoptimize",
       "name": "Autoptimize",
       "status": "active",
@@ -52,10 +28,10 @@
       "plugin": "contact-form-7/wp-contact-form-7",
       "name": "Contact Form 7",
       "status": "active",
-      "version": "6.0.6",
-      "requires_wp": "6.6",
-      "requires_php": "7.4",
-      "author": "Takayuki Miyoshi",
+      "version": "6.2.2",
+      "requires_wp": "7.1",
+      "requires_php": "8.3",
+      "author": "Rock Lobster Inc.",
       "plugin_uri": "https://contactform7.com/",
       "textdomain": "contact-form-7",
       "network_only": false
@@ -64,9 +40,9 @@
       "plugin": "content-egg/content-egg",
       "name": "Content Egg",
       "status": "active",
-      "version": "7.0.0",
-      "requires_wp": "",
-      "requires_php": "",
+      "version": "11.9.0",
+      "requires_wp": "6.9",
+      "requires_php": "8.0",
       "author": "keywordrush.com",
       "plugin_uri": "https://www.keywordrush.com/contentegg",
       "textdomain": "content-egg",
@@ -100,7 +76,7 @@
       "plugin": "elementor/elementor",
       "name": "Elementor",
       "status": "active",
-      "version": "4.3.4",
+      "version": "4.3.5",
       "requires_wp": "6.8",
       "requires_php": "7.4",
       "author": "Elementor.com",
@@ -133,30 +109,6 @@
       "network_only": false
     },
     {
-      "plugin": "hello",
-      "name": "Hello Dolly",
-      "status": "inactive",
-      "version": "1.7.2",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "Matt Mullenweg",
-      "plugin_uri": "http://wordpress.org/plugins/hello-dolly/",
-      "textdomain": "",
-      "network_only": false
-    },
-    {
-      "plugin": "importwp-pro/importwp-pro",
-      "name": "Import WP PRO",
-      "status": "inactive",
-      "version": "2.6.1",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "James Collings ",
-      "plugin_uri": "https://www.importwp.com",
-      "textdomain": "importwp-pro",
-      "network_only": true
-    },
-    {
       "plugin": "Basic-Auth-master/basic-auth",
       "name": "JSON Basic Authentication",
       "status": "active",
@@ -167,42 +119,6 @@
       "plugin_uri": "https://github.com/WP-API/Basic-Auth",
       "textdomain": "Basic-Auth-master",
       "network_only": false
-    },
-    {
-      "plugin": "learndash-hub/learndash-hub",
-      "name": "LearnDash Licensing &amp; Management",
-      "status": "inactive",
-      "version": "1.2",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "LearnDash",
-      "plugin_uri": "",
-      "textdomain": "learndash-hub",
-      "network_only": true
-    },
-    {
-      "plugin": "sfwd-lms/sfwd_lms",
-      "name": "LearnDash LMS",
-      "status": "inactive",
-      "version": "4.7.0.2",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "LearnDash",
-      "plugin_uri": "http://www.learndash.com",
-      "textdomain": "learndash",
-      "network_only": false
-    },
-    {
-      "plugin": "worker/init",
-      "name": "ManageWP - Worker",
-      "status": "inactive",
-      "version": "4.9.38",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "GoDaddy",
-      "plugin_uri": "https://managewp.com",
-      "textdomain": "worker",
-      "network_only": true
     },
     {
       "plugin": "mb-imagechimp-rss-feed-enhancer/mb-imagechimp-feed-enhancer",
@@ -217,26 +133,14 @@
       "network_only": false
     },
     {
-      "plugin": "media-cleaner/media-cleaner",
-      "name": "Media Cleaner",
-      "status": "inactive",
-      "version": "6.8.7",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "Jordy Meow",
-      "plugin_uri": "https://meowapps.com",
-      "textdomain": "media-cleaner",
-      "network_only": false
-    },
-    {
       "plugin": "ninja-forms/ninja-forms",
       "name": "Ninja Forms",
       "status": "active",
-      "version": "3.10.4.1",
+      "version": "3.15.6",
       "requires_wp": "",
       "requires_php": "",
       "author": "Saturday Drive",
-      "plugin_uri": "http://ninjaforms.com/?utm_source=WordPress&#038;utm_medium=readme",
+      "plugin_uri": "https://ninjaforms.com/?utm_source=WordPress.org&#038;utm_medium=Plugin+header",
       "textdomain": "ninja-forms",
       "network_only": false
     },
@@ -251,18 +155,6 @@
       "plugin_uri": "https://wordpress.org/plugins/one-click-demo-import/",
       "textdomain": "one-click-demo-import",
       "network_only": false
-    },
-    {
-      "plugin": "prime-mover/prime-mover",
-      "name": "Prime Mover - Backup and Migration",
-      "status": "inactive",
-      "version": "2.2.1",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "Codexonics",
-      "plugin_uri": "https://codexonics.com/",
-      "textdomain": "prime-mover",
-      "network_only": true
     },
     {
       "plugin": "redirection/redirection",
@@ -280,7 +172,7 @@
       "plugin": "rehub-framework/rehub-framework",
       "name": "REHub Framework",
       "status": "active",
-      "version": "15.8",
+      "version": "19.9.9.7",
       "requires_wp": "",
       "requires_php": "",
       "author": "Wpsoul",
@@ -313,18 +205,6 @@
       "network_only": false
     },
     {
-      "plugin": "velvet-blues-update-urls/velvet-blues-update-urls",
-      "name": "Velvet Blues Update URLs",
-      "status": "inactive",
-      "version": "3.2.10",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "VelvetBlues.com",
-      "plugin_uri": "http://www.velvetblues.com/web-development-blog/wordpress-plugin-update-urls/",
-      "textdomain": "velvet-blues-update-urls",
-      "network_only": false
-    },
-    {
       "plugin": "webp-express/webp-express",
       "name": "WebP Express",
       "status": "active",
@@ -337,72 +217,12 @@
       "network_only": true
     },
     {
-      "plugin": "wp-all-export/wp-all-export",
-      "name": "WP All Export",
-      "status": "inactive",
-      "version": "1.6.0",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "Soflyy",
-      "plugin_uri": "http://www.wpallimport.com/upgrade-to-wp-all-export-pro/?utm_source=export-plugin-free&#038;utm_medium=wp-plugins-page&#038;utm_campaign=upgrade-to-pro",
-      "textdomain": "wp-all-export",
-      "network_only": false
-    },
-    {
-      "plugin": "wp-all-import-pro/wp-all-import-pro",
-      "name": "WP All Import Pro",
-      "status": "inactive",
-      "version": "4.6.1",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "Soflyy",
-      "plugin_uri": "http://www.wpallimport.com/",
-      "textdomain": "wp-all-import-pro",
-      "network_only": false
-    },
-    {
-      "plugin": "js_composer/js_composer",
-      "name": "WPBakery Page Builder",
-      "status": "active",
-      "version": "5.4.5",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "Michael M - WPBakery.com",
-      "plugin_uri": "http://vc.wpbakery.com",
-      "textdomain": "js_composer",
-      "network_only": false
-    },
-    {
-      "plugin": "wp-mail-smtp/wp_mail_smtp",
-      "name": "WP Mail SMTP",
-      "status": "inactive",
-      "version": "4.10.2",
-      "requires_wp": "5.5",
-      "requires_php": "7.4",
-      "author": "WP Mail SMTP",
-      "plugin_uri": "https://wpmailsmtp.com/",
-      "textdomain": "wp-mail-smtp",
-      "network_only": false
-    },
-    {
-      "plugin": "wp-super-cache/wp-cache",
-      "name": "WP Super Cache",
-      "status": "inactive",
-      "version": "3.1.4",
-      "requires_wp": "",
-      "requires_php": "",
-      "author": "Automattic",
-      "plugin_uri": "https://es.wordpress.org/plugins/wp-super-cache/",
-      "textdomain": "wp-super-cache",
-      "network_only": false
-    },
-    {
       "plugin": "wordpress-seo/wp-seo",
       "name": "Yoast SEO",
       "status": "active",
-      "version": "24.9",
-      "requires_wp": "6.6",
-      "requires_php": "7.2.5",
+      "version": "28.7",
+      "requires_wp": "6.9",
+      "requires_php": "7.4",
       "author": "Equipo Yoast",
       "plugin_uri": "https://yoa.st/1uj",
       "textdomain": "wordpress-seo",
@@ -520,11 +340,11 @@
     }
   ],
   "wordpress": {
-    "version": "6.8.11"
+    "version": "7.1.3"
   },
   "servidor": {
     "headers": {
-      "X-Powered-By": "PHP/7.4.33",
+      "X-Powered-By": "PHP/8.5.11",
       "Server": "cloudflare",
       "X-turbo-charged-by": "LiteSpeed",
       "cf-cache-status": "DYNAMIC"
