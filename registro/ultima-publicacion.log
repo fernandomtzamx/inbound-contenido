@@ -1,47 +1,65 @@
-fecha: 2026-10-15T18:31:32Z
-commit: f1726dde6fdda8ede2d0bd053e26ded5084fe6a5
+fecha: 2026-10-16T15:55:43Z
+commit: cef310b5e1b54ceea63a9fbf229d0e9524cca537
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38786255379
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/38927810226
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/infografia-10-componentes-esenciales-del-briefing-creativo-ideal.md content/blog/infografia-10-rasgos-de-personalidad-de-las-personas-de-exito.md content/blog/infografia-4-ventajas-de-los-temas-gratis-de-wordpress.md content/blog/infografia-5-claves-sobre-la-poblacion-mundial-que-debes-dominar.md content/blog/infografia-7-motivos-para-instalar-un-antivirus-para-android.md content/blog/infografia-a-que-personaje-publico-les-gustaria-parecerse-a-los-jovenes-espanoles-de-mayor.md content/blog/infografia-accesibilidad-web.md content/blog/infografia-alojamiento-en-hostales-guia-de-supervivencia.md content/blog/infografia-como-implementar-big-data-en-tu-empresa.md content/blog/infografia-desafios-eticos-y-morales-de-la-inteligencia-artificial.md content/blog/infografia-desglose-de-una-nomina-de-un-trabajador-indefinido.md content/blog/infografia-el-bitcoin-no-es-la-unica-criptomoneda.md content/blog/infografia-gestion-de-proyectos-en-el-pasado-y-en-la-actualidad.md content/blog/infografia-guia-para-mejorar-tus-reuniones-uno-a-uno.md content/blog/infografia-indicadores-economicos-paises-del-g20.md content/blog/infografia-influencers-donde-acaba-la-recomendacion-y-empieza-la-publicidad.md content/blog/infografia-los-gigantes-tecnologicos-de-estados-unidos-siguen-creciendo.md content/blog/infografia-los-mercados-de-valores-mas-caros-del-mundo.md content/blog/infografia-metoo-en-el-mundo-periodistico.md content/blog/infografia-outbound-marketing-vs-inbound-marketing.md content/blog/infografia-packaging-sustentable.md content/blog/infografia-pagos-sin-contacto-la-tecnologia-que-busca-conquistar-a-mexico.md content/blog/infografia-paso-a-paso-de-una-campana-publicitaria-en-google.md content/blog/infografia-plano-metro-londres-london-subway.md content/blog/infografia-por-que-el-seo-es-importante-en-el-marketing-de-contenidos.md content/blog/infografia-por-que-wordpress-es-el-cms-mas-usado-del-mundo.md content/blog/infografia-puesto-de-trabajo-compartido-germenes-compartidos.md content/blog/infografia-que-es-un-influencer-en-medios-sociales.md content/blog/infografia-que-paises-tiene-las-mayores-reservas-de-litio.md content/blog/infografia-tecnologias-de-energia-solar.md content/blog/infografia-tendencias-en-video-marketing.md content/blog/infografia-usuarios-de-tecnologias-de-la-informacion-en-mexico.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+plugin: Add Widget After Content 2.5.4 [active] PHP>=?
+plugin: Akismet Anti-spam: Spam Protection 5.7.2 [inactive] PHP>=7.2
+plugin: All-in-One WP Migration and Backup 7.112 [inactive] PHP>=?
+plugin: Autoptimize 3.1.16 [active] PHP>=?
+plugin: Contact Form 7 6.0.6 [active] PHP>=7.4
+plugin: Content Egg 7.0.0 [active] PHP>=?
+plugin: Disable Gutenberg 3.3.2 [active] PHP>=5.6.20
+plugin: Editar el slug de autor 1.9.2 [active] PHP>=7.4
+plugin: Elementor 4.3.4 [active] PHP>=7.4
+plugin: Envato Market 2.0.14 [active] PHP>=7.0
+plugin: Flexible SSL for CloudFlare 1.3.1 [active] PHP>=?
+plugin: Hello Dolly 1.7.2 [inactive] PHP>=?
+plugin: Import WP PRO 2.6.1 [inactive] PHP>=?
+plugin: JSON Basic Authentication 0.1 [active] PHP>=?
+plugin: LearnDash Licensing &amp; Management 1.2 [inactive] PHP>=?
+plugin: LearnDash LMS 4.7.0.2 [inactive] PHP>=?
+plugin: ManageWP - Worker 4.9.38 [inactive] PHP>=?
+plugin: MB ImageChimp RSS Feed Enhancer 1.0 [active] PHP>=?
+plugin: Media Cleaner 6.8.7 [inactive] PHP>=?
+plugin: Ninja Forms 3.10.4.1 [active] PHP>=?
+plugin: One Click Demo Import 3.4.1 [active] PHP>=7.4
+plugin: Prime Mover - Backup and Migration 2.2.1 [inactive] PHP>=?
+plugin: Redirection 5.10.1 [active] PHP>=7.4
+plugin: REHub Framework 15.8 [active] PHP>=?
+plugin: REST API Custom Fields 1.3 [active] PHP>=?
+plugin: RH Link Pro 1.4.5 [active] PHP>=?
+plugin: Velvet Blues Update URLs 3.2.10 [inactive] PHP>=?
+plugin: WebP Express 0.25.15 [active] PHP>=?
+plugin: WP All Export 1.6.0 [inactive] PHP>=?
+plugin: WP All Import Pro 4.6.1 [inactive] PHP>=?
+plugin: WPBakery Page Builder 5.4.5 [active] PHP>=?
+plugin: WP Mail SMTP 4.10.2 [inactive] PHP>=7.4
+plugin: WP Super Cache 3.1.4 [inactive] PHP>=?
+plugin: Yoast SEO 24.9 [active] PHP>=7.2.5
+tema: Rehub theme 19.9.9.8 [active] PHP>=?
+tema: Twenty Twenty-Five 1.5 [inactive] PHP>=7.2
+tema: Twenty Twenty-Four 1.6 [inactive] PHP>=7.0
+tema: Twenty Twenty-One 2.9 [inactive] PHP>=5.6
+tema: Twenty Twenty-Three 1.7 [inactive] PHP>=5.6
+tema: Twenty Twenty-Two 2.2 [inactive] PHP>=5.6
+WordPress: 6.8.11
+Encabezados: {'X-Powered-By': 'PHP/7.4.33', 'Server': 'cloudflare', 'X-turbo-charged-by': 'LiteSpeed', 'cf-cache-status': 'DYNAMIC'}
+site-health background-updates: good - Las actualizaciones en segundo plano están funcionando
+site-health loopback-requests: good - Tu sitio puede realizar solicitudes de loopback
+site-health https-status: good - Tu web está usando una conexión HTTPS activa
+site-health dotorg-communication: good - Puedes comunicarte con WordPress.org
+site-health page-cache: recommended - No se ha detectado caché de página pero el tiempo de respuesta del servidor está bien
+Inventario: 34 plugins, 6 temas -> registro/inventario.json
+Argumentos: --check
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-content/blog/infografia-10-componentes-esenciales-del-briefing-creativo-ideal.md: post actualizada (publish) id=2401 https://www.inbound.com.mx/infografia-10-componentes-esenciales-del-briefing-creativo-ideal/ | Yoast: guardado
-content/blog/infografia-10-rasgos-de-personalidad-de-las-personas-de-exito.md: post actualizada (publish) id=2263 https://www.inbound.com.mx/infografia-10-rasgos-de-personalidad-de-las-personas-de-exito/ | Yoast: guardado
-content/blog/infografia-4-ventajas-de-los-temas-gratis-de-wordpress.md: post actualizada (publish) id=1875 https://www.inbound.com.mx/infografia-4-ventajas-de-los-temas-gratis-de-wordpress/ | Yoast: guardado
-content/blog/infografia-5-claves-sobre-la-poblacion-mundial-que-debes-dominar.md: post actualizada (publish) id=5609 https://www.inbound.com.mx/infografia-5-claves-sobre-la-poblacion-mundial-que-debes-dominar/ | Yoast: guardado
-content/blog/infografia-7-motivos-para-instalar-un-antivirus-para-android.md: post actualizada (publish) id=1817 https://www.inbound.com.mx/infografia-7-motivos-para-instalar-un-antivirus-para-android/ | Yoast: guardado
-content/blog/infografia-a-que-personaje-publico-les-gustaria-parecerse-a-los-jovenes-espanoles-de-mayor.md: post actualizada (publish) id=1565 https://www.inbound.com.mx/infografia-a-que-personaje-publico-les-gustaria-parecerse-a-los-jovenes-espanoles-de-mayor/ | Yoast: guardado
-content/blog/infografia-accesibilidad-web.md: post actualizada (publish) id=1346 https://www.inbound.com.mx/infografia-accesibilidad-web/ | Yoast: guardado
-content/blog/infografia-alojamiento-en-hostales-guia-de-supervivencia.md: post actualizada (publish) id=2113 https://www.inbound.com.mx/infografia-alojamiento-en-hostales-guia-de-supervivencia/ | Yoast: guardado
-content/blog/infografia-como-implementar-big-data-en-tu-empresa.md: post actualizada (publish) id=2048 https://www.inbound.com.mx/infografia-como-implementar-big-data-en-tu-empresa/ | Yoast: guardado
-content/blog/infografia-desafios-eticos-y-morales-de-la-inteligencia-artificial.md: post actualizada (publish) id=1360 https://www.inbound.com.mx/infografia-desafios-eticos-y-morales-de-la-inteligencia-artificial/ | Yoast: guardado
-content/blog/infografia-desglose-de-una-nomina-de-un-trabajador-indefinido.md: post actualizada (publish) id=1843 https://www.inbound.com.mx/infografia-desglose-de-una-nomina-de-un-trabajador-indefinido/ | Yoast: guardado
-content/blog/infografia-el-bitcoin-no-es-la-unica-criptomoneda.md: post actualizada (publish) id=2023 https://www.inbound.com.mx/infografia-el-bitcoin-no-es-la-unica-criptomoneda/ | Yoast: guardado
-content/blog/infografia-gestion-de-proyectos-en-el-pasado-y-en-la-actualidad.md: post actualizada (publish) id=4433 https://www.inbound.com.mx/infografia-gestion-de-proyectos-en-el-pasado-y-en-la-actualidad/ | Yoast: guardado
-content/blog/infografia-guia-para-mejorar-tus-reuniones-uno-a-uno.md: post actualizada (publish) id=2063 https://www.inbound.com.mx/infografia-guia-para-mejorar-tus-reuniones-uno-a-uno/ | Yoast: guardado
-content/blog/infografia-indicadores-economicos-paises-del-g20.md: post actualizada (publish) id=1773 https://www.inbound.com.mx/infografia-indicadores-economicos-paises-del-g20/ | Yoast: guardado
-content/blog/infografia-influencers-donde-acaba-la-recomendacion-y-empieza-la-publicidad.md: post actualizada (publish) id=1440 https://www.inbound.com.mx/infografia-influencers-donde-acaba-la-recomendacion-y-empieza-la-publicidad/ | Yoast: guardado
-content/blog/infografia-los-gigantes-tecnologicos-de-estados-unidos-siguen-creciendo.md: post actualizada (publish) id=2169 https://www.inbound.com.mx/infografia-los-gigantes-tecnologicos-de-estados-unidos-siguen-creciendo/ | Yoast: guardado
-content/blog/infografia-los-mercados-de-valores-mas-caros-del-mundo.md: post actualizada (publish) id=1356 https://www.inbound.com.mx/infografia-los-mercados-de-valores-mas-caros-del-mundo/ | Yoast: guardado
-content/blog/infografia-metoo-en-el-mundo-periodistico.md: post actualizada (publish) id=6814 https://www.inbound.com.mx/infografia-metoo-en-el-mundo-periodistico/ | Yoast: guardado
-content/blog/infografia-outbound-marketing-vs-inbound-marketing.md: post actualizada (publish) id=1637 https://www.inbound.com.mx/infografia-outbound-marketing-vs-inbound-marketing/ | Yoast: guardado
-content/blog/infografia-packaging-sustentable.md: post actualizada (publish) id=5656 https://www.inbound.com.mx/infografia-packaging-sustentable/ | Yoast: guardado
-content/blog/infografia-pagos-sin-contacto-la-tecnologia-que-busca-conquistar-a-mexico.md: post actualizada (publish) id=5468 https://www.inbound.com.mx/infografia-pagos-sin-contacto-la-tecnologia-que-busca-conquistar-a-mexico/ | Yoast: guardado
-content/blog/infografia-paso-a-paso-de-una-campana-publicitaria-en-google.md: post actualizada (publish) id=2267 https://www.inbound.com.mx/infografia-paso-a-paso-de-una-campana-publicitaria-en-google/ | Yoast: guardado
-content/blog/infografia-plano-metro-londres-london-subway.md: post actualizada (publish) id=1545 https://www.inbound.com.mx/infografia-plano-metro-londres-london-subway/ | Yoast: guardado
-content/blog/infografia-por-que-el-seo-es-importante-en-el-marketing-de-contenidos.md: post actualizada (publish) id=1491 https://www.inbound.com.mx/infografia-por-que-el-seo-es-importante-en-el-marketing-de-contenidos/ | Yoast: guardado
-content/blog/infografia-por-que-wordpress-es-el-cms-mas-usado-del-mundo.md: post actualizada (publish) id=2095 https://www.inbound.com.mx/infografia-por-que-wordpress-es-el-cms-mas-usado-del-mundo/ | Yoast: guardado
-content/blog/infografia-puesto-de-trabajo-compartido-germenes-compartidos.md: post actualizada (publish) id=1452 https://www.inbound.com.mx/infografia-puesto-de-trabajo-compartido-germenes-compartidos/ | Yoast: guardado
-content/blog/infografia-que-es-un-influencer-en-medios-sociales.md: post actualizada (publish) id=2219 https://www.inbound.com.mx/infografia-que-es-un-influencer-en-medios-sociales/ | Yoast: guardado
-content/blog/infografia-que-paises-tiene-las-mayores-reservas-de-litio.md: post actualizada (publish) id=1871 https://www.inbound.com.mx/infografia-que-paises-tiene-las-mayores-reservas-de-litio/ | Yoast: guardado
-content/blog/infografia-tecnologias-de-energia-solar.md: post actualizada (publish) id=1661 https://www.inbound.com.mx/infografia-tecnologias-de-energia-solar/ | Yoast: guardado
-content/blog/infografia-tendencias-en-video-marketing.md: post actualizada (publish) id=2061 https://www.inbound.com.mx/infografia-tendencias-en-video-marketing/ | Yoast: guardado
-content/blog/infografia-usuarios-de-tecnologias-de-la-informacion-en-mexico.md: post actualizada (publish) id=2039 https://www.inbound.com.mx/infografia-usuarios-de-tecnologias-de-la-informacion-en-mexico/ | Yoast: guardado

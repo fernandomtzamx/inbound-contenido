@@ -1,0 +1,553 @@
+{
+  "plugins": [
+    {
+      "plugin": "add-widget-after-content/add-widget-after-content",
+      "name": "Add Widget After Content",
+      "status": "active",
+      "version": "2.5.4",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Arelthia Phillips",
+      "plugin_uri": "https://wordpress.org/plugins/add-widget-after-content/",
+      "textdomain": "add-widget-after-content",
+      "network_only": false
+    },
+    {
+      "plugin": "akismet/akismet",
+      "name": "Akismet Anti-spam: Spam Protection",
+      "status": "inactive",
+      "version": "5.7.2",
+      "requires_wp": "5.8",
+      "requires_php": "7.2",
+      "author": "Automattic - Equipo Anti-spam",
+      "plugin_uri": "https://akismet.com/",
+      "textdomain": "akismet",
+      "network_only": false
+    },
+    {
+      "plugin": "all-in-one-wp-migration/all-in-one-wp-migration",
+      "name": "All-in-One WP Migration and Backup",
+      "status": "inactive",
+      "version": "7.112",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "ServMask",
+      "plugin_uri": "https://servmask.com/",
+      "textdomain": "all-in-one-wp-migration",
+      "network_only": true
+    },
+    {
+      "plugin": "autoptimize/autoptimize",
+      "name": "Autoptimize",
+      "status": "active",
+      "version": "3.1.16",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Frank Goossens (futtta)",
+      "plugin_uri": "https://autoptimize.com/pro/",
+      "textdomain": "autoptimize",
+      "network_only": false
+    },
+    {
+      "plugin": "contact-form-7/wp-contact-form-7",
+      "name": "Contact Form 7",
+      "status": "active",
+      "version": "6.0.6",
+      "requires_wp": "6.6",
+      "requires_php": "7.4",
+      "author": "Takayuki Miyoshi",
+      "plugin_uri": "https://contactform7.com/",
+      "textdomain": "contact-form-7",
+      "network_only": false
+    },
+    {
+      "plugin": "content-egg/content-egg",
+      "name": "Content Egg",
+      "status": "active",
+      "version": "7.0.0",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "keywordrush.com",
+      "plugin_uri": "https://www.keywordrush.com/contentegg",
+      "textdomain": "content-egg",
+      "network_only": false
+    },
+    {
+      "plugin": "disable-gutenberg/disable-gutenberg",
+      "name": "Disable Gutenberg",
+      "status": "active",
+      "version": "3.3.2",
+      "requires_wp": "4.9",
+      "requires_php": "5.6.20",
+      "author": "Jeff Starr",
+      "plugin_uri": "https://perishablepress.com/disable-gutenberg/",
+      "textdomain": "disable-gutenberg",
+      "network_only": false
+    },
+    {
+      "plugin": "edit-author-slug/edit-author-slug",
+      "name": "Editar el slug de autor",
+      "status": "active",
+      "version": "1.9.2",
+      "requires_wp": "5.8",
+      "requires_php": "7.4",
+      "author": "Brandon Allen",
+      "plugin_uri": "https://github.com/thebrandonallen/edit-author-slug/",
+      "textdomain": "edit-author-slug",
+      "network_only": false
+    },
+    {
+      "plugin": "elementor/elementor",
+      "name": "Elementor",
+      "status": "active",
+      "version": "4.3.4",
+      "requires_wp": "6.8",
+      "requires_php": "7.4",
+      "author": "Elementor.com",
+      "plugin_uri": "https://elementor.com/?utm_source=wp-plugins&#038;utm_campaign=plugin-uri&#038;utm_medium=wp-dash",
+      "textdomain": "elementor",
+      "network_only": false
+    },
+    {
+      "plugin": "envato-market/envato-market",
+      "name": "Envato Market",
+      "status": "active",
+      "version": "2.0.14",
+      "requires_wp": "5.1",
+      "requires_php": "7.0",
+      "author": "Envato",
+      "plugin_uri": "https://envato.com/market-plugin/",
+      "textdomain": "envato-market",
+      "network_only": false
+    },
+    {
+      "plugin": "cloudflare-flexible-ssl/plugin",
+      "name": "Flexible SSL for CloudFlare",
+      "status": "active",
+      "version": "1.3.1",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "One Dollar Plugin",
+      "plugin_uri": "https://icwp.io/cloudflaresslpluginauthor",
+      "textdomain": "cloudflare-flexible-ssl",
+      "network_only": false
+    },
+    {
+      "plugin": "hello",
+      "name": "Hello Dolly",
+      "status": "inactive",
+      "version": "1.7.2",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Matt Mullenweg",
+      "plugin_uri": "http://wordpress.org/plugins/hello-dolly/",
+      "textdomain": "",
+      "network_only": false
+    },
+    {
+      "plugin": "importwp-pro/importwp-pro",
+      "name": "Import WP PRO",
+      "status": "inactive",
+      "version": "2.6.1",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "James Collings ",
+      "plugin_uri": "https://www.importwp.com",
+      "textdomain": "importwp-pro",
+      "network_only": true
+    },
+    {
+      "plugin": "Basic-Auth-master/basic-auth",
+      "name": "JSON Basic Authentication",
+      "status": "active",
+      "version": "0.1",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "WordPress API Team",
+      "plugin_uri": "https://github.com/WP-API/Basic-Auth",
+      "textdomain": "Basic-Auth-master",
+      "network_only": false
+    },
+    {
+      "plugin": "learndash-hub/learndash-hub",
+      "name": "LearnDash Licensing &amp; Management",
+      "status": "inactive",
+      "version": "1.2",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "LearnDash",
+      "plugin_uri": "",
+      "textdomain": "learndash-hub",
+      "network_only": true
+    },
+    {
+      "plugin": "sfwd-lms/sfwd_lms",
+      "name": "LearnDash LMS",
+      "status": "inactive",
+      "version": "4.7.0.2",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "LearnDash",
+      "plugin_uri": "http://www.learndash.com",
+      "textdomain": "learndash",
+      "network_only": false
+    },
+    {
+      "plugin": "worker/init",
+      "name": "ManageWP - Worker",
+      "status": "inactive",
+      "version": "4.9.38",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "GoDaddy",
+      "plugin_uri": "https://managewp.com",
+      "textdomain": "worker",
+      "network_only": true
+    },
+    {
+      "plugin": "mb-imagechimp-rss-feed-enhancer/mb-imagechimp-feed-enhancer",
+      "name": "MB ImageChimp RSS Feed Enhancer",
+      "status": "active",
+      "version": "1.0",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Mikkel Breum",
+      "plugin_uri": "http://mikkelbreum.com/wordpress-plugins/mb-imagechimp-rss-feed-enhancer/",
+      "textdomain": "mb-imagechimp-rss-feed-enhancer",
+      "network_only": false
+    },
+    {
+      "plugin": "media-cleaner/media-cleaner",
+      "name": "Media Cleaner",
+      "status": "inactive",
+      "version": "6.8.7",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Jordy Meow",
+      "plugin_uri": "https://meowapps.com",
+      "textdomain": "media-cleaner",
+      "network_only": false
+    },
+    {
+      "plugin": "ninja-forms/ninja-forms",
+      "name": "Ninja Forms",
+      "status": "active",
+      "version": "3.10.4.1",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Saturday Drive",
+      "plugin_uri": "http://ninjaforms.com/?utm_source=WordPress&#038;utm_medium=readme",
+      "textdomain": "ninja-forms",
+      "network_only": false
+    },
+    {
+      "plugin": "one-click-demo-import/one-click-demo-import",
+      "name": "One Click Demo Import",
+      "status": "active",
+      "version": "3.4.1",
+      "requires_wp": "5.5",
+      "requires_php": "7.4",
+      "author": "OCDI",
+      "plugin_uri": "https://wordpress.org/plugins/one-click-demo-import/",
+      "textdomain": "one-click-demo-import",
+      "network_only": false
+    },
+    {
+      "plugin": "prime-mover/prime-mover",
+      "name": "Prime Mover - Backup and Migration",
+      "status": "inactive",
+      "version": "2.2.1",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Codexonics",
+      "plugin_uri": "https://codexonics.com/",
+      "textdomain": "prime-mover",
+      "network_only": true
+    },
+    {
+      "plugin": "redirection/redirection",
+      "name": "Redirection",
+      "status": "active",
+      "version": "5.10.1",
+      "requires_wp": "6.7",
+      "requires_php": "7.4",
+      "author": "John Godley",
+      "plugin_uri": "https://redirection.me/",
+      "textdomain": "redirection",
+      "network_only": false
+    },
+    {
+      "plugin": "rehub-framework/rehub-framework",
+      "name": "REHub Framework",
+      "status": "active",
+      "version": "15.8",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Wpsoul",
+      "plugin_uri": "https://themeforest.net/item/rehub-directory-multi-vendor-shop-coupon-affiliate-theme/7646339",
+      "textdomain": "rehub-framework",
+      "network_only": false
+    },
+    {
+      "plugin": "rest-api-custom-fields/index",
+      "name": "REST API Custom Fields",
+      "status": "active",
+      "version": "1.3",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Integromat",
+      "plugin_uri": "",
+      "textdomain": "rest-api-custom-fields",
+      "network_only": false
+    },
+    {
+      "plugin": "rh-cloak-affiliate-links/rh-cloak-affiliate-links",
+      "name": "RH Link Pro",
+      "status": "active",
+      "version": "1.4.5",
+      "requires_wp": "5.0.0",
+      "requires_php": "",
+      "author": "Wpsoul",
+      "plugin_uri": "https://1.envato.market/rh-links",
+      "textdomain": "wpsmcal",
+      "network_only": false
+    },
+    {
+      "plugin": "velvet-blues-update-urls/velvet-blues-update-urls",
+      "name": "Velvet Blues Update URLs",
+      "status": "inactive",
+      "version": "3.2.10",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "VelvetBlues.com",
+      "plugin_uri": "http://www.velvetblues.com/web-development-blog/wordpress-plugin-update-urls/",
+      "textdomain": "velvet-blues-update-urls",
+      "network_only": false
+    },
+    {
+      "plugin": "webp-express/webp-express",
+      "name": "WebP Express",
+      "status": "active",
+      "version": "0.25.15",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Bjørn Rosell",
+      "plugin_uri": "https://github.com/rosell-dk/webp-express",
+      "textdomain": "webp-express",
+      "network_only": true
+    },
+    {
+      "plugin": "wp-all-export/wp-all-export",
+      "name": "WP All Export",
+      "status": "inactive",
+      "version": "1.6.0",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Soflyy",
+      "plugin_uri": "http://www.wpallimport.com/upgrade-to-wp-all-export-pro/?utm_source=export-plugin-free&#038;utm_medium=wp-plugins-page&#038;utm_campaign=upgrade-to-pro",
+      "textdomain": "wp-all-export",
+      "network_only": false
+    },
+    {
+      "plugin": "wp-all-import-pro/wp-all-import-pro",
+      "name": "WP All Import Pro",
+      "status": "inactive",
+      "version": "4.6.1",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Soflyy",
+      "plugin_uri": "http://www.wpallimport.com/",
+      "textdomain": "wp-all-import-pro",
+      "network_only": false
+    },
+    {
+      "plugin": "js_composer/js_composer",
+      "name": "WPBakery Page Builder",
+      "status": "active",
+      "version": "5.4.5",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Michael M - WPBakery.com",
+      "plugin_uri": "http://vc.wpbakery.com",
+      "textdomain": "js_composer",
+      "network_only": false
+    },
+    {
+      "plugin": "wp-mail-smtp/wp_mail_smtp",
+      "name": "WP Mail SMTP",
+      "status": "inactive",
+      "version": "4.10.2",
+      "requires_wp": "5.5",
+      "requires_php": "7.4",
+      "author": "WP Mail SMTP",
+      "plugin_uri": "https://wpmailsmtp.com/",
+      "textdomain": "wp-mail-smtp",
+      "network_only": false
+    },
+    {
+      "plugin": "wp-super-cache/wp-cache",
+      "name": "WP Super Cache",
+      "status": "inactive",
+      "version": "3.1.4",
+      "requires_wp": "",
+      "requires_php": "",
+      "author": "Automattic",
+      "plugin_uri": "https://es.wordpress.org/plugins/wp-super-cache/",
+      "textdomain": "wp-super-cache",
+      "network_only": false
+    },
+    {
+      "plugin": "wordpress-seo/wp-seo",
+      "name": "Yoast SEO",
+      "status": "active",
+      "version": "24.9",
+      "requires_wp": "6.6",
+      "requires_php": "7.2.5",
+      "author": "Equipo Yoast",
+      "plugin_uri": "https://yoa.st/1uj",
+      "textdomain": "wordpress-seo",
+      "network_only": false
+    }
+  ],
+  "temas": [
+    {
+      "stylesheet": "rehub-theme",
+      "template": "rehub-theme",
+      "status": "active",
+      "version": "19.9.9.8",
+      "requires_wp": "",
+      "requires_php": "",
+      "theme_uri": {
+        "raw": "https://themeforest.net/item/rehub-directory-multi-vendor-shop-coupon-affiliate-theme/7646339",
+        "rendered": "https://themeforest.net/item/rehub-directory-multi-vendor-shop-coupon-affiliate-theme/7646339"
+      },
+      "author": {
+        "raw": "Wpsoul",
+        "rendered": "<a href=\"https://wpsoul.com/\">Wpsoul</a>"
+      },
+      "textdomain": "rehub-theme",
+      "name": "Rehub theme"
+    },
+    {
+      "stylesheet": "twentytwentyfive",
+      "template": "twentytwentyfive",
+      "status": "inactive",
+      "version": "1.5",
+      "requires_wp": "6.7",
+      "requires_php": "7.2",
+      "theme_uri": {
+        "raw": "https://wordpress.org/themes/twentytwentyfive/",
+        "rendered": "https://wordpress.org/themes/twentytwentyfive/"
+      },
+      "author": {
+        "raw": "el equipo de WordPress",
+        "rendered": "<a href=\"https://es.wordpress.org\">el equipo de WordPress</a>"
+      },
+      "textdomain": "twentytwentyfive",
+      "name": "Twenty Twenty-Five"
+    },
+    {
+      "stylesheet": "twentytwentyfour",
+      "template": "twentytwentyfour",
+      "status": "inactive",
+      "version": "1.6",
+      "requires_wp": "6.4",
+      "requires_php": "7.0",
+      "theme_uri": {
+        "raw": "https://es.wordpress.org/themes/twentytwentyfour/",
+        "rendered": "https://es.wordpress.org/themes/twentytwentyfour/"
+      },
+      "author": {
+        "raw": "el equipo de WordPress",
+        "rendered": "<a href=\"https://es.wordpress.org\">el equipo de WordPress</a>"
+      },
+      "textdomain": "twentytwentyfour",
+      "name": "Twenty Twenty-Four"
+    },
+    {
+      "stylesheet": "twentytwentyone",
+      "template": "twentytwentyone",
+      "status": "inactive",
+      "version": "2.9",
+      "requires_wp": "5.3",
+      "requires_php": "5.6",
+      "theme_uri": {
+        "raw": "https://es.wordpress.org/themes/twentytwentyone/",
+        "rendered": "https://es.wordpress.org/themes/twentytwentyone/"
+      },
+      "author": {
+        "raw": "el equipo WordPress",
+        "rendered": "<a href=\"https://es.wordpress.org/\">el equipo WordPress</a>"
+      },
+      "textdomain": "twentytwentyone",
+      "name": "Twenty Twenty-One"
+    },
+    {
+      "stylesheet": "twentytwentythree",
+      "template": "twentytwentythree",
+      "status": "inactive",
+      "version": "1.7",
+      "requires_wp": "6.1",
+      "requires_php": "5.6",
+      "theme_uri": {
+        "raw": "https://es.wordpress.org/themes/twentytwentythree",
+        "rendered": "https://es.wordpress.org/themes/twentytwentythree"
+      },
+      "author": {
+        "raw": "el equipo de WordPress",
+        "rendered": "<a href=\"https://es.wordpress.org\">el equipo de WordPress</a>"
+      },
+      "textdomain": "twentytwentythree",
+      "name": "Twenty Twenty-Three"
+    },
+    {
+      "stylesheet": "twentytwentytwo",
+      "template": "twentytwentytwo",
+      "status": "inactive",
+      "version": "2.2",
+      "requires_wp": "5.9",
+      "requires_php": "5.6",
+      "theme_uri": {
+        "raw": "https://es.wordpress.org/themes/twentytwentytwo/",
+        "rendered": "https://es.wordpress.org/themes/twentytwentytwo/"
+      },
+      "author": {
+        "raw": "El equipo de WordPress",
+        "rendered": "<a href=\"https://es.wordpress.org/\">El equipo de WordPress</a>"
+      },
+      "textdomain": "twentytwentytwo",
+      "name": "Twenty Twenty-Two"
+    }
+  ],
+  "wordpress": {
+    "version": "6.8.11"
+  },
+  "servidor": {
+    "headers": {
+      "X-Powered-By": "PHP/7.4.33",
+      "Server": "cloudflare",
+      "X-turbo-charged-by": "LiteSpeed",
+      "cf-cache-status": "DYNAMIC"
+    },
+    "background-updates": {
+      "status": "good",
+      "label": "Las actualizaciones en segundo plano están funcionando"
+    },
+    "loopback-requests": {
+      "status": "good",
+      "label": "Tu sitio puede realizar solicitudes de loopback"
+    },
+    "https-status": {
+      "status": "good",
+      "label": "Tu web está usando una conexión HTTPS activa"
+    },
+    "dotorg-communication": {
+      "status": "good",
+      "label": "Puedes comunicarte con WordPress.org"
+    },
+    "page-cache": {
+      "status": "recommended",
+      "label": "No se ha detectado caché de página pero el tiempo de respuesta del servidor está bien"
+    }
+  }
+}
