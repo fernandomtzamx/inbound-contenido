@@ -1,2 +1,2 @@
 # Cambiar este archivo dispara scripts/inventario.py (solo lectura).
-2026-10-16 inventario para actualización de WordPress y PHP
+2026-10-16 verificación después de actualizar
