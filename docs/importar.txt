@@ -1,4 +1,2 @@
-# Infografías: imágenes faltantes.
-imagenes:si
-minutos:40
-categoria:infografias
+# Página /marketing/ (remediar para "marketing digital en México").
+marketing
