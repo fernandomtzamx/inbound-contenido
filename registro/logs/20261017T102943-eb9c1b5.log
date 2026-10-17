@@ -1,0 +1,18 @@
+fecha: 2026-10-17T10:29:43Z
+commit: eb9c1b5e367d17f05e86444acbe17f349a48dda0
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/39025077711
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+descargado: marketing (id 543, 4015 caracteres)
+Argumentos: --check
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
