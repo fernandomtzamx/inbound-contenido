@@ -1,39 +1,19 @@
-fecha: 2026-10-22T00:42:06Z
-commit: 58c94da72d6e8bab8dbb11ad642185f46f337381
+fecha: 2026-10-22T01:02:34Z
+commit: 00e57d31638437c070f16493496cac8079c4d35a
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/39701177462
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/39703268649
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
-Métodos de autenticación anunciados: application-passwords
-Autor actualizado: Fernando Arturo Martinez Aguilar
-Categoría creada: inbound-marketing -> Inbound marketing
-Categoría creada: marketing-digital -> Marketing digital
-Categoría creada: seo -> SEO y GEO
-Categoría creada: desarrollo-web -> Desarrollo web
-Categoría creada: inbound-sales -> Inbound sales
-Categoría creada: crm -> CRM
-Categoría creada: industrias -> Inbound marketing por industria
-Portada anterior: show_on_front=page page_on_front=9934 page_for_posts=463
-La portada ya es la página 9934
-Plantillas de página disponibles: None
-Plugins con API: ['yoast/v1', 'elementor-mcp-composer/v1.0.19', 'elementor-one/v1', 'elementor/v1/documents', 'elementor/v1', 'elementor-ai/v1', 'elementor/v1/feedback']
-Argumentos: content/blog/geo-generative-engine-optimization.md content/blog/metodologia-inbound.md 
+Argumentos: content/blog/metodologia-inbound.md 
+/home/runner/work/inbound-contenido/inbound-contenido/scripts/publish.py:259: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-  + etiqueta creada: geo
-  + etiqueta creada: generative engine optimization
-  + etiqueta creada: ai overviews
-  + etiqueta creada: chatgpt
-  + imagen subida: geo-generative-engine-optimization.png (id 10630)
-content/blog/geo-generative-engine-optimization.md: post creada (draft) id=10631 https://www.inbound.com.mx/?p=10631 | Yoast: guardado
-  + etiqueta creada: metodología inbound
-  + etiqueta creada: flywheel
-  + imagen subida: metodologia-inbound-flywheel.png (id 10632)
-content/blog/metodologia-inbound.md: post creada (draft) id=10633 https://www.inbound.com.mx/?p=10633 | Yoast: guardado
+  = imagen reutilizada: metodologia-inbound-flywheel (id 10632)
+content/blog/metodologia-inbound.md: post actualizada (future) id=10633 https://www.inbound.com.mx/?p=10633 | Yoast: guardado

@@ -1,0 +1,19 @@
+fecha: 2026-10-22T01:02:34Z
+commit: 00e57d31638437c070f16493496cac8079c4d35a
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/39703268649
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/metodologia-inbound.md 
+/home/runner/work/inbound-contenido/inbound-contenido/scripts/publish.py:259: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+  = imagen reutilizada: metodologia-inbound-flywheel (id 10632)
+content/blog/metodologia-inbound.md: post actualizada (future) id=10633 https://www.inbound.com.mx/?p=10633 | Yoast: guardado
