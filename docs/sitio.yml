@@ -16,11 +16,29 @@ autor:
 #   name: "Nombre visible"
 #   description: "Bio corta del autor."
 
-categorias: []
-# categorias:
-#   - slug: inbound-marketing
-#     name: Inbound marketing
-#     description: "Descripción de la categoría."
+# Categorías del calendario editorial 2026-2027 (docs/calendario-editorial.md).
+categorias:
+  - slug: inbound-marketing
+    name: Inbound marketing
+    description: "Metodología inbound, buyer persona, contenido, nurturing y métricas para atraer y convertir clientes."
+  - slug: marketing-digital
+    name: Marketing digital
+    description: "Estrategia, canales, presupuesto, automatización y atribución del marketing digital en México."
+  - slug: seo
+    name: SEO y GEO
+    description: "Posicionamiento en Google y en motores de IA (ChatGPT, Gemini, AI Overviews)."
+  - slug: desarrollo-web
+    name: Desarrollo web
+    description: "Sitios web con growth driven design: lanzamiento rápido, mejora continua y conversión."
+  - slug: inbound-sales
+    name: Inbound sales
+    description: "Proceso de ventas consultivo: prospección, descubrimiento, objeciones y cierre."
+  - slug: crm
+    name: CRM
+    description: "Elección, implementación y uso del CRM para marketing, ventas y servicio."
+  - slug: industrias
+    name: Inbound marketing por industria
+    description: "Cómo aplicar inbound marketing en cada sector y mercado de México."
 
 # Portada estática del sitio (Ajustes > Lectura). El log guarda la portada anterior.
 portada:

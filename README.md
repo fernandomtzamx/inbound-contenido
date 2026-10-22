@@ -22,6 +22,7 @@ Repositorio fuente del blog de [inbound.com.mx](https://www.inbound.com.mx). Cad
 - `scripts/build_posts.py` + `remediacion/*.py`: fichas de las entradas remediadas; generan `content/blog/<slug>.md`.
 - `scripts/audit.py` (`docs/auditoria.txt`) e `scripts/import_raw.py` (`docs/importar.txt`): auditoría y descarga del contenido original, solo lectura; se ejecutan al cambiar esos archivos.
 - `registro/ultima-publicacion.log`: log del último run, para leerlo sin capturas.
+- `scripts/calendario.py` + `docs/calendario-editorial.md` (y `.csv`): calendario de tres entradas por semana hasta junio de 2027. Cada entrada se escribe en `content/blog/<slug>.md` con `status: draft` y su `date`; al cambiarla a `status: publish` WordPress la programa y la publica solo. `python scripts/calendario.py` regenera la tabla con el estado real de cada archivo.
 
 ## Frontmatter
 

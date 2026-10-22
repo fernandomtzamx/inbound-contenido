@@ -1,0 +1,109 @@
+n,semana,fecha,dia,pilar,categoria,titulo,keyword,slug,estado
+1,1,2026-10-26,lunes,Inbound marketing,inbound-marketing,Metodología inbound: cómo funciona el flywheel en 2026,metodología inbound,metodologia-inbound,borrador
+2,1,2026-10-28,miércoles,SEO y GEO,seo,"GEO: cómo aparecer en ChatGPT, Gemini y AI Overviews desde México",geo generative engine optimization,geo-generative-engine-optimization,borrador
+3,1,2026-10-30,viernes,Industrias,industrias,Inbound marketing para manufactura: cómo vender a plantas y compradores,inbound marketing para manufactura,inbound-marketing-para-manufactura,pendiente
+4,2,2026-11-02,lunes,Inbound marketing,inbound-marketing,"Inbound marketing vs outbound: costos, plazos y cuándo combinarlos",inbound marketing vs outbound,inbound-marketing-vs-outbound,pendiente
+5,2,2026-11-04,miércoles,Desarrollo web (GDD),desarrollo-web,Growth driven design: qué es y por qué sustituye al rediseño tradicional,growth driven design,growth-driven-design,pendiente
+6,2,2026-11-06,viernes,Industrias,industrias,Inbound marketing para inmobiliarias: prospectos antes de la visita,inbound marketing para inmobiliarias,inbound-marketing-para-inmobiliarias,pendiente
+7,3,2026-11-09,lunes,Inbound marketing,inbound-marketing,Buyer's journey: qué contenido necesita cada etapa,buyer's journey,buyer-journey-etapas-contenido,pendiente
+8,3,2026-11-11,miércoles,SEO y GEO,seo,Auditoría SEO técnica: checklist de 25 puntos para tu sitio,auditoría seo técnica,auditoria-seo-tecnica-checklist,pendiente
+9,3,2026-11-13,viernes,Industrias,industrias,Marketing digital para el Buen Fin 2026: plan de 30 días,marketing digital buen fin,marketing-digital-buen-fin,pendiente
+10,4,2026-11-16,lunes,CRM,crm,Lead scoring: cómo calificar prospectos sin complicarte,lead scoring,lead-scoring,pendiente
+11,4,2026-11-18,miércoles,SEO y GEO,seo,Investigación de keywords en español de México: método y herramientas,investigación de keywords,investigacion-de-keywords-mexico,pendiente
+12,4,2026-11-20,viernes,Industrias,industrias,Inbound marketing para clínicas y hospitales: confianza antes de la cita,inbound marketing para clínicas,inbound-marketing-para-clinicas,pendiente
+13,5,2026-11-23,lunes,Inbound sales,inbound-sales,Inbound sales: qué es y cómo cambia tu proceso de ventas,inbound sales,inbound-sales,pendiente
+14,5,2026-11-25,miércoles,Desarrollo web (GDD),desarrollo-web,Launch pad: cómo lanzar un sitio en 60 días con growth driven design,launch pad website,launch-pad-website-growth-driven-design,pendiente
+15,5,2026-11-27,viernes,Industrias,industrias,Inbound marketing para universidades y escuelas: captación 2027,inbound marketing para universidades,inbound-marketing-para-universidades,pendiente
+16,6,2026-11-30,lunes,CRM,crm,"Qué CRM elegir para una pyme en México: HubSpot, Zoho o Salesforce",crm para pymes,que-crm-elegir-pyme-mexico,pendiente
+17,6,2026-12-02,miércoles,SEO y GEO,seo,SEO local: Google Business Profile paso a paso,seo local,seo-local-google-business-profile,pendiente
+18,6,2026-12-04,viernes,Industrias,industrias,Inbound marketing para empresas de software y SaaS en México,inbound marketing para saas,inbound-marketing-para-saas,pendiente
+19,7,2026-12-07,lunes,Inbound marketing,inbound-marketing,Lead nurturing: secuencias de correo que sí convierten,lead nurturing,lead-nurturing,pendiente
+20,7,2026-12-09,miércoles,SEO y GEO,seo,Schema markup: qué datos estructurados agregar y cómo,schema markup,schema-markup-datos-estructurados,pendiente
+21,7,2026-12-11,viernes,Industrias,industrias,Inbound marketing para capacitación corporativa y e-learning B2B,marketing para capacitación empresarial,inbound-marketing-para-capacitacion-corporativa,pendiente
+22,8,2026-12-14,lunes,Marketing digital,marketing-digital,Plan de marketing de contenidos 2027: calendario y recursos,plan de marketing de contenidos,plan-marketing-de-contenidos-2027,pendiente
+23,8,2026-12-16,miércoles,Desarrollo web (GDD),desarrollo-web,Core Web Vitals en WordPress: cómo medir y mejorar la velocidad,core web vitals wordpress,core-web-vitals-wordpress,pendiente
+24,8,2026-12-18,viernes,Industrias,industrias,Inbound marketing para despachos legales: contenido que da confianza,inbound marketing para abogados,inbound-marketing-para-despachos-legales,pendiente
+25,9,2026-12-21,lunes,Inbound sales,inbound-sales,Smarketing: cómo alinear marketing y ventas con un SLA,smarketing,smarketing-alinear-marketing-y-ventas,pendiente
+26,9,2026-12-23,miércoles,Desarrollo web (GDD),desarrollo-web,"Ciclo de mejora continua: hipótesis, wishlist y sprints en GDD",mejora continua sitio web,mejora-continua-growth-driven-design,pendiente
+27,9,2026-12-24,jueves,Industrias,industrias,Inbound marketing para contadores y despachos fiscales,inbound marketing para contadores,inbound-marketing-para-contadores,pendiente
+28,10,2026-12-28,lunes,Marketing digital,marketing-digital,Automatización de marketing: los 5 flujos con los que empezar,automatización de marketing,automatizacion-de-marketing-flujos,pendiente
+29,10,2026-12-30,miércoles,SEO y GEO,seo,Contenido que citan los LLM: estructura para AI Overviews y ChatGPT,contenido para ai overviews,contenido-para-ai-overviews,pendiente
+30,10,2026-12-31,jueves,Industrias,industrias,Marketing digital para restaurantes: reservas y pedidos sin comisión,marketing digital para restaurantes,marketing-digital-para-restaurantes,pendiente
+31,11,2027-01-04,lunes,Inbound marketing,inbound-marketing,KPIs de inbound marketing: qué medir cada mes y por qué,kpis de inbound marketing,kpis-de-inbound-marketing,pendiente
+32,11,2027-01-06,miércoles,SEO y GEO,seo,Link building en México: tácticas que no te penalizan,link building,link-building-mexico,pendiente
+33,11,2027-01-08,viernes,Industrias,industrias,"Inbound marketing para fintech: confianza, regulación y contenido",inbound marketing para fintech,inbound-marketing-para-fintech,pendiente
+34,12,2027-01-11,lunes,Marketing digital,marketing-digital,Costo por lead en México: referencias por canal e industria,costo por lead,costo-por-lead-mexico,pendiente
+35,12,2027-01-13,miércoles,SEO y GEO,seo,Arquitectura web y enlazado interno: cómo repartir autoridad,enlazado interno,arquitectura-web-enlazado-interno,pendiente
+36,12,2027-01-15,viernes,Industrias,industrias,Inbound marketing para maquinaria y equipo industrial,marketing para maquinaria industrial,inbound-marketing-para-maquinaria-industrial,pendiente
+37,13,2027-01-18,lunes,Inbound sales,inbound-sales,Llamada de descubrimiento: guion para vender sin presionar,llamada de descubrimiento,llamada-de-descubrimiento-ventas,pendiente
+38,13,2027-01-20,miércoles,Desarrollo web (GDD),desarrollo-web,Anatomía de una landing page que convierte (con ejemplos),landing page que convierte,landing-page-que-convierte,pendiente
+39,13,2027-01-22,viernes,Industrias,industrias,Inbound marketing para constructoras y desarrolladores,inbound marketing para constructoras,inbound-marketing-para-constructoras,pendiente
+40,14,2027-01-25,lunes,CRM,crm,Cómo implementar un CRM en 30 días sin perder la operación,implementar un crm,implementar-crm-30-dias,pendiente
+41,14,2027-01-27,miércoles,SEO y GEO,seo,"SEO para ecommerce: categorías, fichas y búsquedas de compra",seo para ecommerce,seo-para-ecommerce,pendiente
+42,14,2027-01-29,viernes,Industrias,industrias,Inbound marketing para logística y transporte,inbound marketing para logística,inbound-marketing-para-logistica,pendiente
+43,15,2027-02-01,lunes,Inbound marketing,inbound-marketing,Account based marketing e inbound: cómo combinarlos en B2B,account based marketing,account-based-marketing-inbound,pendiente
+44,15,2027-02-03,miércoles,SEO y GEO,seo,"llms.txt, robots.txt y rastreadores de IA: qué permitir y qué no",llms.txt,llms-txt-robots-rastreadores-ia,pendiente
+45,15,2027-02-05,viernes,Industrias,industrias,Inbound marketing para consultorías: vender conocimiento,inbound marketing para consultorías,inbound-marketing-para-consultorias,pendiente
+46,16,2027-02-08,lunes,Marketing digital,marketing-digital,"Email marketing en México: entregabilidad, consentimiento y ley de datos",email marketing méxico,email-marketing-mexico-entregabilidad,pendiente
+47,16,2027-02-10,miércoles,SEO y GEO,seo,Search Console: cómo leerlo cada mes y qué decisiones tomar,google search console,google-search-console-como-leerlo,pendiente
+48,16,2027-02-12,viernes,Industrias,industrias,Inbound marketing para energía solar: ciclo largo y objeciones,inbound marketing energía solar,inbound-marketing-para-energia-solar,pendiente
+49,17,2027-02-15,lunes,Marketing digital,marketing-digital,Presupuesto de marketing digital 2027: cuánto invertir y en qué,presupuesto de marketing digital,presupuesto-marketing-digital-2027,pendiente
+50,17,2027-02-17,miércoles,Desarrollo web (GDD),desarrollo-web,Pruebas A/B y mapas de calor: cómo decidir cambios con datos,pruebas a/b sitio web,pruebas-ab-mapas-de-calor,pendiente
+51,17,2027-02-19,viernes,Industrias,industrias,Inbound marketing para seguros y agentes,inbound marketing para seguros,inbound-marketing-para-seguros,pendiente
+52,18,2027-02-22,lunes,Inbound marketing,inbound-marketing,"Webinars que generan prospectos: formato, promoción y seguimiento",webinars para generar leads,webinars-para-generar-leads,pendiente
+53,18,2027-02-24,miércoles,SEO y GEO,seo,Canibalización de keywords: cómo detectarla y consolidar con 301,canibalización de keywords,canibalizacion-de-keywords,pendiente
+54,18,2027-02-26,viernes,Industrias,industrias,Inbound marketing para parques industriales y nearshoring,marketing nearshoring méxico,inbound-marketing-nearshoring-parques-industriales,pendiente
+55,19,2027-03-01,lunes,Inbound sales,inbound-sales,Objeciones de precio: cómo responderlas con inbound sales,objeciones de precio,objeciones-de-precio-ventas,pendiente
+56,19,2027-03-03,miércoles,SEO y GEO,seo,Cómo medir tu visibilidad en motores de IA: métricas y herramientas,visibilidad en motores de ia,medir-visibilidad-motores-de-ia,pendiente
+57,19,2027-03-05,viernes,Industrias,industrias,Inbound marketing para clínicas dentales,marketing para dentistas,inbound-marketing-para-clinicas-dentales,pendiente
+58,20,2027-03-08,lunes,CRM,crm,"Pipeline de ventas: etapas, probabilidades y pronóstico",pipeline de ventas,pipeline-de-ventas,pendiente
+59,20,2027-03-10,miércoles,SEO y GEO,seo,"SEO para Latinoamérica: hreflang, dominios y variantes de español",seo internacional latinoamérica,seo-latinoamerica-hreflang,pendiente
+60,20,2027-03-12,viernes,Industrias,industrias,Inbound marketing para franquicias: captar franquiciatarios,marketing para franquicias,inbound-marketing-para-franquicias,pendiente
+61,21,2027-03-15,lunes,Marketing digital,marketing-digital,Marketing conversacional: WhatsApp Business y chatbots con sentido,marketing conversacional,marketing-conversacional-whatsapp,pendiente
+62,21,2027-03-17,miércoles,Desarrollo web (GDD),desarrollo-web,"Formularios que convierten: campos, fricción y seguimiento",formularios que convierten,formularios-que-convierten,pendiente
+63,21,2027-03-19,viernes,Industrias,industrias,Inbound marketing para startups: crecer sin quemar presupuesto,inbound marketing para startups,inbound-marketing-para-startups,pendiente
+64,22,2027-03-22,lunes,Inbound marketing,inbound-marketing,Casos de éxito y testimonios: cómo producirlos y dónde usarlos,casos de éxito marketing,casos-de-exito-testimonios,pendiente
+65,22,2027-03-24,miércoles,SEO y GEO,seo,Content refresh: cómo actualizar entradas viejas y recuperar tráfico,actualizar contenido antiguo,content-refresh-actualizar-contenido,pendiente
+66,22,2027-03-26,viernes,Industrias,industrias,Inbound marketing para gimnasios y estudios de fitness,marketing para gimnasios,inbound-marketing-para-gimnasios,pendiente
+67,23,2027-03-29,lunes,Marketing digital,marketing-digital,Remarketing y pauta: cómo acelerar el inbound sin depender de ella,remarketing,remarketing-y-pauta-inbound,pendiente
+68,23,2027-03-31,miércoles,SEO y GEO,seo,"E-E-A-T: experiencia, autoría y confianza en tu contenido",e-e-a-t,eeat-experiencia-autoridad-confianza,pendiente
+69,23,2027-04-02,viernes,Industrias,industrias,Inbound marketing para agroindustria y alimentos,marketing agroindustria,inbound-marketing-para-agroindustria,pendiente
+70,24,2027-04-05,lunes,Inbound marketing,inbound-marketing,"Deleitar: retención, NPS y clientes que recomiendan",retención de clientes,retencion-de-clientes-nps,pendiente
+71,24,2027-04-07,miércoles,Desarrollo web (GDD),desarrollo-web,"WordPress, HubSpot CMS o Webflow: qué plataforma usar para inbound",cms para inbound marketing,wordpress-hubspot-cms-webflow,pendiente
+72,24,2027-04-09,viernes,Industrias,industrias,Inbound marketing para reclutadoras y recursos humanos,marketing para reclutadoras,inbound-marketing-para-reclutadoras,pendiente
+73,25,2027-04-12,lunes,Inbound sales,inbound-sales,Social selling en LinkedIn: prospección que no parece spam,social selling linkedin,social-selling-linkedin,pendiente
+74,25,2027-04-14,miércoles,SEO y GEO,seo,"GEO fuera de tu sitio: reseñas, foros y menciones que leen los LLM",menciones de marca ia,geo-menciones-resenas-foros,pendiente
+75,25,2027-04-16,viernes,Industrias,industrias,Inbound marketing para arquitectos y despachos de diseño,marketing para arquitectos,inbound-marketing-para-arquitectos,pendiente
+76,26,2027-04-19,lunes,CRM,crm,"Datos limpios en el CRM: duplicados, campos y reportes confiables",limpieza de datos crm,limpieza-de-datos-crm,pendiente
+77,26,2027-04-21,miércoles,SEO y GEO,seo,SEO para video: YouTube y resultados enriquecidos,seo para youtube,seo-para-video-youtube,pendiente
+78,26,2027-04-23,viernes,Industrias,industrias,Inbound marketing para veterinarias y mascotas,marketing para veterinarias,inbound-marketing-para-veterinarias,pendiente
+79,27,2027-04-26,lunes,Marketing digital,marketing-digital,Video marketing: YouTube y shorts para generar demanda,video marketing,video-marketing-youtube,pendiente
+80,27,2027-04-28,miércoles,Desarrollo web (GDD),desarrollo-web,Accesibilidad web y mobile first: lo mínimo que debe cumplir tu sitio,accesibilidad web,accesibilidad-web-mobile-first,pendiente
+81,27,2027-04-30,viernes,Industrias,industrias,Inbound marketing para distribuidores y mayoristas B2B,marketing para distribuidores,inbound-marketing-para-distribuidores,pendiente
+82,28,2027-05-03,lunes,Marketing digital,marketing-digital,Atribución de marketing: modelos y cómo leerlos con GA4 y CRM,atribución de marketing,atribucion-de-marketing-ga4-crm,pendiente
+83,28,2027-05-05,miércoles,SEO y GEO,seo,Migrar un sitio sin perder SEO: plan de redirecciones,migración seo,migrar-sitio-sin-perder-seo,pendiente
+84,28,2027-05-07,viernes,Industrias,industrias,Inbound marketing para ONG y causas: donantes recurrentes,marketing para ong,inbound-marketing-para-ong,pendiente
+85,29,2027-05-10,lunes,Inbound marketing,inbound-marketing,Contenido pilar y clusters: cómo organizar el blog por temas,contenido pilar,contenido-pilar-y-clusters,pendiente
+86,29,2027-05-12,miércoles,SEO y GEO,seo,Búsqueda conversacional: cómo cambian las consultas con IA y voz,búsqueda conversacional,busqueda-conversacional-ia-voz,pendiente
+87,29,2027-05-14,viernes,Industrias,industrias,Marketing digital para el Hot Sale 2027: plan de 45 días,marketing digital hot sale,marketing-digital-hot-sale,pendiente
+88,30,2027-05-17,lunes,Inbound sales,inbound-sales,Propuestas comerciales que cierran: estructura y errores,propuesta comercial,propuestas-comerciales-que-cierran,pendiente
+89,30,2027-05-19,miércoles,SEO y GEO,seo,GEO local: cómo aparecer cuando preguntan a la IA por negocios cerca,geo local,geo-local-negocios-cerca,pendiente
+90,30,2027-05-21,viernes,Industrias,industrias,Inbound marketing para escuelas de idiomas y cursos en línea,marketing para cursos en línea,inbound-marketing-para-cursos-en-linea,pendiente
+91,31,2027-05-24,lunes,CRM,crm,"Automatización de ventas: secuencias, tareas y recordatorios",automatización de ventas,automatizacion-de-ventas-crm,pendiente
+92,31,2027-05-26,miércoles,Desarrollo web (GDD),desarrollo-web,Dashboard de rendimiento web: las 10 métricas que importan,métricas de sitio web,dashboard-rendimiento-sitio-web,pendiente
+93,31,2027-05-28,viernes,Industrias,industrias,Inbound marketing para empresas de eventos y experiencias,marketing para eventos,inbound-marketing-para-empresas-de-eventos,pendiente
+94,32,2027-05-31,lunes,Marketing digital,marketing-digital,"IA en marketing: dónde ayuda, dónde estorba y cómo usarla",ia en marketing,ia-en-marketing,pendiente
+95,32,2027-06-02,miércoles,SEO y GEO,seo,Páginas por ciudad y servicio: cómo hacerlas sin contenido duplicado,páginas de ubicación seo,paginas-por-ciudad-y-servicio-seo,pendiente
+96,32,2027-06-04,viernes,Industrias,industrias,Inbound marketing para telecomunicaciones e internet local,marketing para telecomunicaciones,inbound-marketing-para-telecomunicaciones,pendiente
+97,33,2027-06-07,lunes,Inbound marketing,inbound-marketing,Customer marketing: upsell y cross-sell con contenido,customer marketing,customer-marketing-upsell-cross-sell,pendiente
+98,33,2027-06-09,miércoles,SEO y GEO,seo,SEO en 2027: qué cambió en el último año y qué hacer,seo 2027,seo-2027-que-cambio,pendiente
+99,33,2027-06-11,viernes,Industrias,industrias,Inbound marketing para muebles y decoración,marketing para mueblerías,inbound-marketing-para-muebles,pendiente
+100,34,2027-06-14,lunes,Inbound sales,inbound-sales,Speed to lead: por qué responder en 5 minutos multiplica cierres,speed to lead,speed-to-lead,pendiente
+101,34,2027-06-16,miércoles,Desarrollo web (GDD),desarrollo-web,Conectar tu sitio con el CRM: rastreo de formularios y atribución,integrar sitio web con crm,conectar-sitio-web-con-crm,pendiente
+102,34,2027-06-18,viernes,Industrias,industrias,Inbound marketing para servicios de TI y ciberseguridad,marketing para empresas de ti,inbound-marketing-para-servicios-de-ti,pendiente
+103,35,2027-06-21,lunes,CRM,crm,"CRM y servicio al cliente: tickets, base de conocimiento y encuestas",crm servicio al cliente,crm-servicio-al-cliente,pendiente
+104,35,2027-06-23,miércoles,SEO y GEO,seo,"Imágenes y SEO: WebP, texto alternativo y Google Imágenes",seo de imágenes,seo-de-imagenes-webp,pendiente
+105,35,2027-06-25,viernes,Industrias,industrias,Inbound marketing para moda y marcas de ropa,marketing para marcas de ropa,inbound-marketing-para-moda,pendiente
+106,36,2027-06-28,lunes,Inbound marketing,inbound-marketing,Plan de inbound marketing para el segundo semestre de 2027,plan de inbound marketing,plan-inbound-marketing-segundo-semestre-2027,pendiente
+107,36,2027-06-30,miércoles,SEO y GEO,seo,SEO y GEO juntos: plan para el segundo semestre de 2027,plan seo y geo,plan-seo-geo-segundo-semestre-2027,pendiente
+108,36,2027-07-02,viernes,Industrias,industrias,Inbound marketing para el sector público y proveedores de gobierno,marketing para proveedores de gobierno,inbound-marketing-proveedores-gobierno,pendiente

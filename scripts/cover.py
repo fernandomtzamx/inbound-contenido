@@ -15,7 +15,7 @@ from PIL import Image, ImageDraw, ImageFont
 W, H, S = 1200, 630, 2
 F = "/usr/share/fonts/opentype/inter/"
 INK, PANEL, TEXT, MUTED = (15, 18, 34), (24, 28, 50), (245, 243, 238), (150, 155, 180)
-ACCENT, BAR = (255, 90, 60), (92, 99, 140)
+ACCENT, BAR = (251, 133, 0), (92, 99, 140)
 
 
 def font(name, size):
