@@ -1,8 +1,8 @@
-fecha: 2026-10-17T10:41:02Z
-commit: 5dba45cdd744d1c8ce14ff3413f92a6af83985a8
+fecha: 2026-10-22T00:42:06Z
+commit: 58c94da72d6e8bab8dbb11ad642185f46f337381
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/39025798574
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/39701177462
 ---
 WP_URL: presente
 WP_USER: presente
@@ -11,8 +11,29 @@ WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
-descargado: marketing (id 543, 30694 caracteres)
-Argumentos: --check
+Autor actualizado: Fernando Arturo Martinez Aguilar
+Categoría creada: inbound-marketing -> Inbound marketing
+Categoría creada: marketing-digital -> Marketing digital
+Categoría creada: seo -> SEO y GEO
+Categoría creada: desarrollo-web -> Desarrollo web
+Categoría creada: inbound-sales -> Inbound sales
+Categoría creada: crm -> CRM
+Categoría creada: industrias -> Inbound marketing por industria
+Portada anterior: show_on_front=page page_on_front=9934 page_for_posts=463
+La portada ya es la página 9934
+Plantillas de página disponibles: None
+Plugins con API: ['yoast/v1', 'elementor-mcp-composer/v1.0.19', 'elementor-one/v1', 'elementor/v1/documents', 'elementor/v1', 'elementor-ai/v1', 'elementor/v1/feedback']
+Argumentos: content/blog/geo-generative-engine-optimization.md content/blog/metodologia-inbound.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
+  + etiqueta creada: geo
+  + etiqueta creada: generative engine optimization
+  + etiqueta creada: ai overviews
+  + etiqueta creada: chatgpt
+  + imagen subida: geo-generative-engine-optimization.png (id 10630)
+content/blog/geo-generative-engine-optimization.md: post creada (draft) id=10631 https://www.inbound.com.mx/?p=10631 | Yoast: guardado
+  + etiqueta creada: metodología inbound
+  + etiqueta creada: flywheel
+  + imagen subida: metodologia-inbound-flywheel.png (id 10632)
+content/blog/metodologia-inbound.md: post creada (draft) id=10633 https://www.inbound.com.mx/?p=10633 | Yoast: guardado
