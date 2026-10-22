@@ -1,8 +1,8 @@
-fecha: 2026-10-22T01:02:34Z
-commit: 00e57d31638437c070f16493496cac8079c4d35a
+fecha: 2026-10-22T01:03:49Z
+commit: be4592f2da8fc8bc2b13bb8ec5350ad189de7c66
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/39703268649
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/39703437494
 ---
 WP_URL: presente
 WP_USER: presente
@@ -16,4 +16,4 @@ Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
   = imagen reutilizada: metodologia-inbound-flywheel (id 10632)
-content/blog/metodologia-inbound.md: post actualizada (future) id=10633 https://www.inbound.com.mx/?p=10633 | Yoast: guardado
+content/blog/metodologia-inbound.md: post actualizada (publish) id=10633 https://www.inbound.com.mx/metodologia-inbound/ | Yoast: guardado
