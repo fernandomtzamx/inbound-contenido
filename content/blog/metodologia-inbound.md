@@ -3,7 +3,7 @@ title: "Metodología inbound: cómo funciona el flywheel en 2026"
 slug: metodologia-inbound
 type: post
 status: publish
-date: 2026-10-21 19:05
+date: 2026-10-21 18:55
 excerpt: "La metodología inbound explicada con el flywheel: atraer, interactuar y deleitar. Qué hace cada etapa, dónde se pierde fuerza y cómo aplicarla en México."
 categories: [inbound-marketing]
 tags: [metodología inbound, flywheel, inbound marketing]
