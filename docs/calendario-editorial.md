@@ -19,7 +19,7 @@ Regenerar esta tabla: `python scripts/calendario.py` (lee el estado real de cada
 |---|---|---|---|---|---|---|
 | 1 | lunes 26 | Inbound marketing | Metodología inbound: cómo funciona el flywheel en 2026 | metodología inbound | `metodologia-inbound` | programada |
 | 2 | miércoles 28 | SEO y GEO | GEO: cómo aparecer en ChatGPT, Gemini y AI Overviews desde México | geo generative engine optimization | `geo-generative-engine-optimization` | borrador |
-| 3 | viernes 30 | Industrias | Inbound marketing para manufactura: cómo vender a plantas y compradores | inbound marketing para manufactura | `inbound-marketing-para-manufactura` | pendiente |
+| 3 | viernes 30 | Industrias | Inbound marketing para manufactura: cómo vender a plantas y compradores | inbound marketing para manufactura | `inbound-marketing-para-manufactura` | borrador |
 ## Noviembre 2026
 
 | # | Fecha | Pilar | Título | Keyword | Slug | Estado |
