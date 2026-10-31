@@ -1,21 +1,21 @@
-fecha: 2026-10-25T23:58:30Z
-commit: 50fe38f44a7cf295c392dd5c9db9bead64d50bf0
+fecha: 2026-10-31T13:51:28Z
+commit: 566e410159456f4c3af955712277d022128a6278
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/40247084989
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/41207416153
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/inbound-marketing-para-manufactura.md 
+Argumentos: content/blog/geo-generative-engine-optimization.md content/blog/inbound-marketing-para-manufactura.md 
+/home/runner/work/inbound-contenido/inbound-contenido/scripts/publish.py:259: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-  + etiqueta creada: inbound marketing para manufactura
-  + etiqueta creada: marketing industrial
-  + etiqueta creada: nearshoring
-  + etiqueta creada: proveedores
-  + imagen subida: inbound-marketing-para-manufactura.png (id 10635)
-content/blog/inbound-marketing-para-manufactura.md: post creada (draft) id=10636 https://www.inbound.com.mx/?p=10636 | Yoast: guardado
+  = imagen reutilizada: geo-generative-engine-optimization (id 10630)
+content/blog/geo-generative-engine-optimization.md: post actualizada (publish) id=10631 https://www.inbound.com.mx/geo-generative-engine-optimization/ | Yoast: guardado
+  = imagen reutilizada: inbound-marketing-para-manufactura (id 10635)
+content/blog/inbound-marketing-para-manufactura.md: post actualizada (publish) id=10636 https://www.inbound.com.mx/inbound-marketing-para-manufactura/ | Yoast: guardado
