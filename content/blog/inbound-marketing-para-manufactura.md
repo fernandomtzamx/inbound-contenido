@@ -2,7 +2,7 @@
 title: "Inbound marketing para manufactura: cómo vender a plantas"
 slug: inbound-marketing-para-manufactura
 type: post
-status: draft
+status: publish
 date: 2026-10-30 09:00
 excerpt: "Guía de inbound marketing para manufactura en México: cómo compra una planta, qué busca el comité de compras y cómo convertir fichas técnicas en ventas."
 categories: [industrias]

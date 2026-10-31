@@ -2,7 +2,7 @@
 title: "GEO: cómo aparecer en ChatGPT, Gemini y AI Overviews desde México"
 slug: geo-generative-engine-optimization
 type: post
-status: draft
+status: publish
 date: 2026-10-28 09:00
 excerpt: "Qué es GEO (generative engine optimization), en qué se parece al SEO y qué hacer para que ChatGPT, Gemini y los AI Overviews de Google citen a tu empresa."
 categories: [seo]
