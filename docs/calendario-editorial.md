@@ -24,9 +24,9 @@ Regenerar esta tabla: `python scripts/calendario.py` (lee el estado real de cada
 
 | # | Fecha | Pilar | Título | Keyword | Slug | Estado |
 |---|---|---|---|---|---|---|
-| 4 | lunes 2 | Inbound marketing | Inbound marketing vs outbound: costos, plazos y cuándo combinarlos | inbound marketing vs outbound | `inbound-marketing-vs-outbound` | borrador |
-| 5 | miércoles 4 | Desarrollo web (GDD) | Growth driven design: qué es y por qué sustituye al rediseño tradicional | growth driven design | `growth-driven-design` | borrador |
-| 6 | viernes 6 | Industrias | Inbound marketing para inmobiliarias: prospectos antes de la visita | inbound marketing para inmobiliarias | `inbound-marketing-para-inmobiliarias` | borrador |
+| 4 | lunes 2 | Inbound marketing | Inbound marketing vs outbound: costos, plazos y cuándo combinarlos | inbound marketing vs outbound | `inbound-marketing-vs-outbound` | programada |
+| 5 | miércoles 4 | Desarrollo web (GDD) | Growth driven design: qué es y por qué sustituye al rediseño tradicional | growth driven design | `growth-driven-design` | programada |
+| 6 | viernes 6 | Industrias | Inbound marketing para inmobiliarias: prospectos antes de la visita | inbound marketing para inmobiliarias | `inbound-marketing-para-inmobiliarias` | programada |
 | 7 | lunes 9 | Inbound marketing | Buyer's journey: qué contenido necesita cada etapa | buyer's journey | `buyer-journey-etapas-contenido` | pendiente |
 | 8 | miércoles 11 | SEO y GEO | Auditoría SEO técnica: checklist de 25 puntos para tu sitio | auditoría seo técnica | `auditoria-seo-tecnica-checklist` | pendiente |
 | 9 | viernes 13 | Industrias | Marketing digital para el Buen Fin 2026: plan de 30 días | marketing digital buen fin | `marketing-digital-buen-fin` | pendiente |

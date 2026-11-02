@@ -2,7 +2,7 @@
 title: "Inbound marketing para inmobiliarias: prospectos antes de visitar"
 slug: inbound-marketing-para-inmobiliarias
 type: post
-status: draft
+status: publish
 date: 2026-11-06 09:00
 excerpt: "Inbound marketing para inmobiliarias en México: cómo atraer compradores que ya investigan en línea, calificarlos antes de la visita y cerrar más ventas."
 categories: [industrias]

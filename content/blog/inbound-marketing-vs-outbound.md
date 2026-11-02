@@ -2,8 +2,8 @@
 title: "Inbound marketing vs outbound: costos, plazos y cómo combinarlos"
 slug: inbound-marketing-vs-outbound
 type: post
-status: draft
-date: 2026-11-02 09:00
+status: publish
+date: 2026-11-02 07:10
 excerpt: "Inbound marketing vs outbound: en qué se diferencian, cómo se comporta el costo de cada uno, cuánto tardan en dar resultados y cuándo conviene combinarlos."
 categories: [inbound-marketing]
 tags: [inbound marketing vs outbound, outbound marketing, inbound marketing, estrategia de marketing]

@@ -2,7 +2,7 @@
 title: "Growth driven design: qué es y por qué sustituye al rediseño"
 slug: growth-driven-design
 type: post
-status: draft
+status: publish
 date: 2026-11-04 09:00
 excerpt: "Growth driven design (GDD): qué es, sus tres fases (estrategia, launch pad y mejora continua), en qué le gana al rediseño tradicional y cómo aplicarlo."
 categories: [desarrollo-web]
