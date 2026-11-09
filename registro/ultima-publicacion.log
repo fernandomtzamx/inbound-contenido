@@ -1,23 +1,30 @@
-fecha: 2026-11-02T13:19:10Z
-commit: 88c660cda5536657dacad69d2f9a255c4699f19a
+fecha: 2026-11-09T00:17:22Z
+commit: 32c459d095e97730d794bede52b10f84cd65ead3
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/41451669987
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/42539007966
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
 WP_USER recibido: s…e (7 caracteres)
 WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
-Argumentos: content/blog/growth-driven-design.md content/blog/inbound-marketing-para-inmobiliarias.md content/blog/inbound-marketing-vs-outbound.md 
-/home/runner/work/inbound-contenido/inbound-contenido/scripts/publish.py:259: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
-  if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
+Argumentos: content/blog/auditoria-seo-tecnica-checklist.md content/blog/buyer-journey-etapas-contenido.md content/blog/marketing-digital-buen-fin.md 
 Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como soporte (roles: administrator)
-  = imagen reutilizada: growth-driven-design (id 10640)
-content/blog/growth-driven-design.md: post actualizada (future) id=10641 https://www.inbound.com.mx/?p=10641 | Yoast: guardado
-  = imagen reutilizada: inbound-marketing-para-inmobiliarias (id 10642)
-content/blog/inbound-marketing-para-inmobiliarias.md: post actualizada (future) id=10643 https://www.inbound.com.mx/?p=10643 | Yoast: guardado
-  = imagen reutilizada: inbound-marketing-vs-outbound (id 10644)
-content/blog/inbound-marketing-vs-outbound.md: post actualizada (publish) id=10645 https://www.inbound.com.mx/inbound-marketing-vs-outbound/ | Yoast: guardado
+  + etiqueta creada: auditoría seo técnica
+  + etiqueta creada: seo técnico
+  + etiqueta creada: core web vitals
+  + etiqueta creada: search console
+  + etiqueta creada: rastreo e indexación
+  + imagen subida: auditoria-seo-tecnica-checklist.png (id 10649)
+content/blog/auditoria-seo-tecnica-checklist.md: post creada (draft) id=10650 https://www.inbound.com.mx/?p=10650 | Yoast: guardado
+  + etiqueta creada: buyer's journey
+  + etiqueta creada: buyer persona
+  + imagen subida: buyer-journey-etapas-contenido.png (id 10651)
+content/blog/buyer-journey-etapas-contenido.md: post creada (draft) id=10652 https://www.inbound.com.mx/?p=10652 | Yoast: guardado
+  + etiqueta creada: buen fin
+  + etiqueta creada: temporada de ventas
+  + imagen subida: marketing-digital-buen-fin.png (id 10653)
+content/blog/marketing-digital-buen-fin.md: post creada (draft) id=10654 https://www.inbound.com.mx/?p=10654 | Yoast: guardado
