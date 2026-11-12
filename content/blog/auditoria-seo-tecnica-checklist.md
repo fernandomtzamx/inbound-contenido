@@ -2,7 +2,7 @@
 title: "Auditoría SEO técnica: checklist de 25 puntos para tu sitio"
 slug: auditoria-seo-tecnica-checklist
 type: post
-status: draft
+status: publish
 date: 2026-11-11 09:00
 excerpt: "Checklist de auditoría SEO técnica en 25 puntos: rastreo, indexación, Core Web Vitals, móvil, seguridad y datos estructurados, con herramientas gratis."
 categories: [seo]

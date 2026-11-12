@@ -2,7 +2,7 @@
 title: "Buyer's journey: qué contenido necesita cada etapa"
 slug: buyer-journey-etapas-contenido
 type: post
-status: draft
+status: publish
 date: 2026-11-09 09:00
 excerpt: "Qué es el buyer's journey, cómo se comporta el comprador mexicano en cada etapa y qué contenido publicar en reconocimiento, consideración y decisión."
 categories: [inbound-marketing]

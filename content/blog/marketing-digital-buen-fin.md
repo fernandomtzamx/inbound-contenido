@@ -2,7 +2,7 @@
 title: "Marketing digital para el Buen Fin 2026: plan de 30 días"
 slug: marketing-digital-buen-fin
 type: post
-status: draft
+status: publish
 date: 2026-11-13 09:00
 excerpt: "Plan de marketing digital de 30 días para el Buen Fin 2026: qué hacer en los cinco días del evento y en las semanas siguientes para convertir y retener."
 categories: [industrias]
