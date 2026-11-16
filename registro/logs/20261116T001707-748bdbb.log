@@ -1,0 +1,29 @@
+fecha: 2026-11-16T00:17:07Z
+commit: 748bdbb781e64411335ced30d740e5877b15bd73
+evento: push
+resultado: success
+run: https://github.com/fernandomtzamx/inbound-contenido/actions/runs/43778978472
+---
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+WP_USER recibido: s…e (7 caracteres)
+WP_APP_PASSWORD sin espacios: 24 caracteres (debe ser 24); solo letras y números: sí
+Argumentos: content/blog/inbound-marketing-para-clinicas.md content/blog/investigacion-de-keywords-mexico.md content/blog/lead-scoring.md 
+Endpoint: https://www.inbound.com.mx/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
+Conectado como soporte (roles: administrator)
+  + etiqueta creada: inbound marketing para clínicas
+  + etiqueta creada: hospitales
+  + etiqueta creada: cofepris
+  + imagen subida: inbound-marketing-para-clinicas.png (id 10659)
+content/blog/inbound-marketing-para-clinicas.md: post creada (draft) id=10660 https://www.inbound.com.mx/?p=10660 | Yoast: guardado
+  + etiqueta creada: investigación de keywords
+  + imagen subida: investigacion-de-keywords-mexico.png (id 10661)
+content/blog/investigacion-de-keywords-mexico.md: post creada (draft) id=10662 https://www.inbound.com.mx/?p=10662 | Yoast: guardado
+  + etiqueta creada: lead scoring
+  + etiqueta creada: crm
+  + etiqueta creada: inbound sales
+  + etiqueta creada: prospectos
+  + imagen subida: lead-scoring.png (id 10663)
+content/blog/lead-scoring.md: post creada (draft) id=10664 https://www.inbound.com.mx/?p=10664 | Yoast: guardado
