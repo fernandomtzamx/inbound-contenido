@@ -30,9 +30,9 @@ Regenerar esta tabla: `python scripts/calendario.py` (lee el estado real de cada
 | 7 | lunes 9 | Inbound marketing | Buyer's journey: qué contenido necesita cada etapa | buyer's journey | `buyer-journey-etapas-contenido` | programada |
 | 8 | miércoles 11 | SEO y GEO | Auditoría SEO técnica: checklist de 25 puntos para tu sitio | auditoría seo técnica | `auditoria-seo-tecnica-checklist` | programada |
 | 9 | viernes 13 | Industrias | Marketing digital para el Buen Fin 2026: plan de 30 días | marketing digital buen fin | `marketing-digital-buen-fin` | programada |
-| 10 | lunes 16 | CRM | Lead scoring: cómo calificar prospectos sin complicarte | lead scoring | `lead-scoring` | pendiente |
-| 11 | miércoles 18 | SEO y GEO | Investigación de keywords en español de México: método y herramientas | investigación de keywords | `investigacion-de-keywords-mexico` | pendiente |
-| 12 | viernes 20 | Industrias | Inbound marketing para clínicas y hospitales: confianza antes de la cita | inbound marketing para clínicas | `inbound-marketing-para-clinicas` | pendiente |
+| 10 | lunes 16 | CRM | Lead scoring: cómo calificar prospectos sin complicarte | lead scoring | `lead-scoring` | borrador |
+| 11 | miércoles 18 | SEO y GEO | Investigación de keywords en español de México: método y herramientas | investigación de keywords | `investigacion-de-keywords-mexico` | borrador |
+| 12 | viernes 20 | Industrias | Inbound marketing para clínicas y hospitales: confianza antes de la cita | inbound marketing para clínicas | `inbound-marketing-para-clinicas` | borrador |
 | 13 | lunes 23 | Inbound sales | Inbound sales: qué es y cómo cambia tu proceso de ventas | inbound sales | `inbound-sales` | pendiente |
 | 14 | miércoles 25 | Desarrollo web (GDD) | Launch pad: cómo lanzar un sitio en 60 días con growth driven design | launch pad website | `launch-pad-website-growth-driven-design` | pendiente |
 | 15 | viernes 27 | Industrias | Inbound marketing para universidades y escuelas: captación 2027 | inbound marketing para universidades | `inbound-marketing-para-universidades` | pendiente |
