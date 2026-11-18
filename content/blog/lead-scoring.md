@@ -2,7 +2,7 @@
 title: "Lead scoring: cómo calificar prospectos sin complicarte"
 slug: lead-scoring
 type: post
-status: draft
+status: publish
 date: 2026-11-16 09:00
 excerpt: "Qué es el lead scoring, cómo armar un modelo de puntos con dos tablas (ajuste e interés) y cómo usarlo para que ventas llame primero a quien sí va a comprar."
 categories: [crm]

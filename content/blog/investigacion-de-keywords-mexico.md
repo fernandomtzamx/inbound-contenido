@@ -2,7 +2,7 @@
 title: "Investigación de keywords en México: método y herramientas"
 slug: investigacion-de-keywords-mexico
 type: post
-status: draft
+status: publish
 date: 2026-11-18 09:00
 excerpt: "Cómo hacer investigación de keywords en español de México paso a paso: fuentes de ideas, herramientas, volumen real, intención y errores que cuestan tráfico."
 categories: [seo]

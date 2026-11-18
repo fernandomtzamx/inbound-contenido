@@ -2,7 +2,7 @@
 title: "Inbound para clínicas y hospitales: confianza antes de la cita"
 slug: inbound-marketing-para-clinicas
 type: post
-status: draft
+status: publish
 date: 2026-11-20 09:00
 excerpt: "Cómo aplicar inbound marketing en clínicas y hospitales de México: contenido que genera confianza, captación de citas, regulación de COFEPRIS y datos sensibles."
 categories: [industrias]
